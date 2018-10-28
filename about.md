@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+Hi! I’m a second year PhD student at the University of Edinburgh and will be using this blog to post about cutting edge research topics that sparked my interest while attending conferences or reading papers.
 <!--This is the base Jekyll theme. You can find out more info about 
 customizing your Jekyll theme, as well as basic Jekyll usage 
 documentation at [jekyllrb.com](https://jekyllrb.com/)
