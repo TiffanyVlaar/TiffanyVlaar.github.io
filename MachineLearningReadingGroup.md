@@ -4,9 +4,13 @@ title: Machine Learning Reading Group
 permalink: /MLReadinggroup/
 ---
 
-This fall I am organizing a Machine Learning Reading Group. Below find a preliminary schedule. Please stay tuned for the abstract and titles of the talks.
+This fall I am organizing a Machine Learning Reading Group. Please find a preliminary schedule below. Please stay tuned for the abstract and titles of the talks.
 
-16 October - Tim Hurst
+16 October - Tim Hurst "Utilising continuum limits of the p-Laplacian in semi-supervised learning"
+
+6 November - TBD
+
+20 November - TBD
 
 4 December - Charlie Matthews
 
