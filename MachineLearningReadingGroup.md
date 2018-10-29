@@ -8,7 +8,7 @@ This fall I am organizing a Machine Learning Reading Group. Please find a prelim
 
 16 October - Tim Hurst "Utilising continuum limits of the p-Laplacian in semi-supervised learning"
 
-6 November - TBD
+6 November - Kostas Zygalakis
 
 20 November - TBD
 
