@@ -10,7 +10,7 @@ This fall I am organizing a Machine Learning Reading Group. Please find a prelim
 
 6 November - Kostas Zygalakis
 
-20 November - TBD
+20 November - Frederik Heber 
 
 4 December - Charlie Matthews
 
