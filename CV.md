@@ -16,11 +16,15 @@ B. Sc. Physics, Leiden University, the Netherlands. Completed extracurricular co
 
 
 Experience: 
+- Member of Mathematics Outreach Team, University of Edinburgh, 2018
+- Committee Member SIAM Student Chapter University of Edinburgh, 2018
+- MIGSAA Mentor, 2018
 - Tutor SVCDE and Probability, University of Edinburgh, 2018
-- Research Intern at Schlumberger Gould Research (Cambridge, UK) 2015
-- Physics Tutor, Leiden University 2012-2014
-- Assistant at Junior Science Lab, Leiden University 2013
-- Commission work at Study Association “De Leidsche Flesch” 2011
+- MIGSAA Student Representative for Scottish Mathematical Sciences Training Centre (SMSTC), 2017
+- Research Intern at Schlumberger Gould Research (Cambridge, UK), 2015
+- Physics Tutor, Leiden University, 2012-2014
+- Assistant at Junior Science Lab, Leiden University, 2013
+- Commission work at Study Association “De Leidsche Flesch”, 2011
 
 Software:
  C++, MATLAB, Python
