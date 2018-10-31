@@ -5,7 +5,7 @@ date:   2018-07-15 01:42:09 +0100
 categories: jekyll update
 ---
 
-Hi! I'm a second year PhD student at the University of Edinburgh and will be using this blog to post about cutting edge research topics that sparked my interest while attending conferences or reading papers. 
+Hi! I'm a second year PhD student at the University of Edinburgh and will be using this blog to post about research topics that sparked my interest while attending conferences or reading papers. 
 
 <!---You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.-->
 
