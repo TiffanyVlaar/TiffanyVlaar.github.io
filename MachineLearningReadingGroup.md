@@ -8,9 +8,9 @@ This fall I am organizing a Machine Learning Reading Group. Please find a prelim
 
 16 October - Tim Hurst "Utilising continuum limits of the p-Laplacian in semi-supervised learning"
 
-6 November - Kostas Zygalakis
+6 November - Kostas Zygalakis "Explicit stabilised methods and their use in optimization and sampling"
 
-20 November - Frederik Heber 
+20 November - Frederik Heber "Sampling in Neural Network Loss Manifolds"
 
 4 December - Charlie Matthews
 
