@@ -6,13 +6,15 @@ permalink: /MLReadinggroup/
 
 This fall I am organizing a Machine Learning Reading Group. Please find a preliminary schedule below. Please stay tuned for the abstract and titles of the talks.
 
-16 October - Tim Hurst "Utilising continuum limits of the p-Laplacian in semi-supervised learning"
+23 October - Tim Hurst "Utilising continuum limits of the p-Laplacian in semi-supervised learning"
 
-6 November - Kostas Zygalakis "Explicit stabilised methods and their use in optimization and sampling"
+30 October - Professor Benedict Leimkuhler "Scary Computers"
 
-20 November - Frederik Heber "Sampling in Neural Network Loss Manifolds"
+6 November - Professor Kostas Zygalakis "Explicit stabilised methods and their use in optimization and sampling"
 
-27 November - Sergio Jiménez Sanjuán, Senior Data Scientist at DNV-GL Energy /  Applied Physics Department, University of Zaragoza, will talk about "Data Science for the Wind Power Industry" 
+20 November - Dr Frederik Heber "Sampling in Neural Network Loss Manifolds"
+
+27 November - Dr Sergio Jiménez Sanjuán, Senior Data Scientist at DNV-GL Energy /  Applied Physics Department, University of Zaragoza, will talk about "Data Science for the Wind Power Industry" 
 
 Abstract
 
@@ -25,6 +27,10 @@ Abstract
 
 I will talk about how Markov Chain Monte Carlo has been used to reveal the geo-political structure in North Carolina (NC) which resulted in a mathematician going to court. I will outline the approach of the NC group and how they propose to solve the problem, but as this is a very difficult open problem, questions and suggestions are welcomed from the audience. This is NOT my own work but the work of the Mattingly gerrymandering group at Duke University, https://sites.duke.edu/quantifyinggerrymandering/about/ 
 
-18 December - Charlie Matthews
+18 December - Dr Charlie Matthews
 
-15 January - Zofia Trstanova
+15 January - Dr Zofia Trstanova
+
+22 January - Dr Eleni Kotoula - Digital Research Services, UoE
+
+
