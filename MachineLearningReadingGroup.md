@@ -27,7 +27,7 @@ Abstract
 
 I will talk about how Markov Chain Monte Carlo has been used to reveal the geo-political structure in North Carolina (NC) which resulted in a mathematician going to court. I will outline the approach of the NC group and how they propose to solve the problem, but as this is a very difficult open problem, questions and suggestions are welcomed from the audience. This is NOT my own work but the work of the Mattingly gerrymandering group at Duke University, https://sites.duke.edu/quantifyinggerrymandering/about/ 
 
-18 December - Dr Charlie Matthews
+18 December - Dr Charlie Matthews "Computing tail probabilities in Bayesian inference for astrophysics"
 
 15 January - Dr Zofia Trstanova
 
