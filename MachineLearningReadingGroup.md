@@ -29,7 +29,7 @@ I will talk about how Markov Chain Monte Carlo has been used to reveal the geo-p
 
 18 December - Dr Charlie Matthews "Computing tail probabilities in Bayesian inference for astrophysics"
 
-15 January - Dr Zofia Trstanova
+15 January - Dr Zofia Trstanova "Coarse-graining with machine learning in molecular dynamics"
 
 22 January - Dr Eleni Kotoula - Digital Research Services, UoE
 
