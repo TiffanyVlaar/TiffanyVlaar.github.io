@@ -6,4 +6,4 @@ permalink: /TravelBlog/
 
 Travels in South Africa
 
-![](P1010543.jpg)
+![Africapic]({{TiffanyVlaar.github.io}}/pics/test.JPG)
