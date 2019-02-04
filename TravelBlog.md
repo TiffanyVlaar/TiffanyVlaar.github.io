@@ -10,5 +10,8 @@ Travels in South Africa
 
 Travels in Australia
 
+Wave Rock
 ![AUpic]({{TiffanyVlaar.github.io}}/pics/WaveRock.JPG)
+
+Croc at Cahills Crossing, Kakadu National Park
 ![AUpic2]({{TiffanyVlaar.github.io}}/pics/Croc.JPG)
