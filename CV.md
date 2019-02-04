@@ -15,16 +15,23 @@ M. Sc. Applied Geophysics (Cum Laude), IDEA League programme, jointly offered by
 B. Sc. Physics, Leiden University, the Netherlands. Completed extracurricular courses in Complex Analysis, Numerical Methods, Partial Differential Equations, Introduction to Perturbation Methods, and Introduction to Dynamical Systems. 2013
 
 
-Experience: 
+Teaching Experience:
+- Tutor, University of Edinburgh, 2019:
+	- Computing and Numerics (Python)
+	- Probability with Applications
+- Tutor, University of Edinburgh, 2018:
+	- Several Variable Calculus and Differential Equations 
+	- Probability
+- Physics Tutor, Leiden University, 2012-2014
+- Assistant at Junior Science Lab, Leiden University, 2013
+
+Work Experience: 
 - Member of Mathematics Outreach Team, University of Edinburgh, 2018
 - Vice President SIAM Student Chapter University of Edinburgh, 2018
 - Machine Learning Reading Group Organizer, University of Edinburgh, 2018
 - MIGSAA Mentor, 2018
-- Tutor SVCDE and Probability, University of Edinburgh, 2018
 - MIGSAA Student Representative for Scottish Mathematical Sciences Training Centre, 2017
 - Research Intern at Schlumberger Gould Research (Cambridge, UK), 2015
-- Physics Tutor, Leiden University, 2012-2014
-- Assistant at Junior Science Lab, Leiden University, 2013
 - Commission work at Study Association “De Leidsche Flesch”, 2011
 
 Software:
