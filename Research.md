@@ -16,3 +16,4 @@ Attended Conferences:
 - Masterclass Professor David Dunson (Duke University) on Scalable Bayesian Inference, June 2018
 - i-like Workshop, Newcastle University, June 2018
 - Poster presentation at CSide Conference, University of Glasgow, November 2018
+- CECAM - Computational mathematics for model reduction and predictive modelling in molecular and complex systems, May 2019
