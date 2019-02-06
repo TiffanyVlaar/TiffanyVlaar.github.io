@@ -23,7 +23,7 @@ Work and Teaching Experience:
 - Tutor, University of Edinburgh, 2018:
 	- Several Variable Calculus and Differential Equations 
 	- Probability
-<br><br>               
+<br>       
 - Research Intern at Schlumberger Gould Research (Cambridge, UK), 2015
 - Tutor, Leiden University, 2012-2014: 
 	Tutoring covered all courses of the 1st year Physics BSc
