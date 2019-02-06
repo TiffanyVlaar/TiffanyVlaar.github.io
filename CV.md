@@ -23,11 +23,10 @@ Work and Teaching Experience:
 	- Several Variable Calculus and Differential Equations 
 	- Probability
 
-- Research Intern at Schlumberger Gould Research (Cambridge, UK), 2015
 
+- Research Intern at Schlumberger Gould Research (Cambridge, UK), 2015
 - Tutor, Leiden University, 2012-2014: 
 	Tutoring covered all courses of the 1st year Physics BSc
-	
 - Assistant at Junior Science Lab, Leiden University, 2013
 
 Leadership Experience: 
