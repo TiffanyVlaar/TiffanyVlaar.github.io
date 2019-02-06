@@ -12,7 +12,8 @@ M. Sc. Theoretical Physics, Perimeter Scholars International programme, jointly 
 
 M. Sc. Applied Geophysics (Cum Laude), IDEA League programme, jointly offered by Delft University of Technology, the Netherlands, ETH Zürich, Switzerland, and RWTH Aachen, Germany. 2015
 
-B. Sc. Physics, Leiden University, the Netherlands. Completed extracurricular courses in Complex Analysis, Numerical Methods, Partial Differential Equations, Introduction to Perturbation Methods, and Introduction to Dynamical Systems. Graduated at age 18 in 2013.
+B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013. 
+Completed extracurricular courses in Complex Analysis, Numerical Methods, Partial Differential Equations, Introduction to Perturbation Methods, and Introduction to Dynamical Systems.
 
 
 Work and Teaching Experience:
@@ -22,7 +23,8 @@ Work and Teaching Experience:
 - Tutor, University of Edinburgh, 2018:
 	- Several Variable Calculus and Differential Equations 
 	- Probability
-        
+                             
+                             
 - Research Intern at Schlumberger Gould Research (Cambridge, UK), 2015
 - Tutor, Leiden University, 2012-2014: 
 	Tutoring covered all courses of the 1st year Physics BSc
