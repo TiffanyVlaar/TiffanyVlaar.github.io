@@ -12,7 +12,7 @@ M. Sc. Theoretical Physics, Perimeter Scholars International programme, jointly 
 
 M. Sc. Applied Geophysics (Cum Laude), IDEA League programme, jointly offered by Delft University of Technology, the Netherlands, ETH Zürich, Switzerland, and RWTH Aachen, Germany. 2015
 
-B. Sc. Physics, Leiden University, the Netherlands. Completed extracurricular courses in Complex Analysis, Numerical Methods, Partial Differential Equations, Introduction to Perturbation Methods, and Introduction to Dynamical Systems. 2013
+B. Sc. Physics, Leiden University, the Netherlands. Completed extracurricular courses in Complex Analysis, Numerical Methods, Partial Differential Equations, Introduction to Perturbation Methods, and Introduction to Dynamical Systems. Graduated at age 18 in 2013.
 
 
 Work and Teaching Experience:
@@ -22,17 +22,16 @@ Work and Teaching Experience:
 - Tutor, University of Edinburgh, 2018:
 	- Several Variable Calculus and Differential Equations 
 	- Probability
-
-
+        
 - Research Intern at Schlumberger Gould Research (Cambridge, UK), 2015
 - Tutor, Leiden University, 2012-2014: 
 	Tutoring covered all courses of the 1st year Physics BSc
 - Assistant at Junior Science Lab, Leiden University, 2013
 
 Leadership Experience: 
-- Member of Mathematics Outreach Team, University of Edinburgh, 2018
 - Vice President SIAM Student Chapter University of Edinburgh, 2018
 - Machine Learning Reading Group Organizer, University of Edinburgh, 2018
+- Member of Mathematics Outreach Team, University of Edinburgh, 2018
 - MIGSAA Mentor, 2018
 - MIGSAA Student Representative for Scottish Mathematical Sciences Training Centre, 2017
 - Commission work at Study Association “De Leidsche Flesch”, 2011
