@@ -4,12 +4,15 @@ title: Research
 permalink: /research/
 ---
 
-Research Interests: Numerical methods for SDEs, Bayesian statistics, Machine learning 
+Research Interests: Numerical methods for SDEs, Bayesian statistics, Machine learning, Probabilistic Modelling
 
 Research Projects: 
+- Introducing sparsity in neural networks using sampling
 - Applying Bayesian inference techniques to stochastic models (in particular Langevin dynamics models) for flocking
 - Stochastic Multiple Timestepping techniques for coupled systems of fast and slow variables
 
+Attended Summerschools:
+- Gene Golub SIAM summerschool on High-Performance Data Analytics, June 2019
 
 Attended Conferences: 
 - Alan Turing Institute - Data-driven modelling of complex systems, May 2018
