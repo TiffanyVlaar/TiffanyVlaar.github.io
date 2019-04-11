@@ -38,7 +38,7 @@ Leadership Experience:
 - Commission work at Study Association “De Leidsche Flesch”, 2011
 
 Software:
- C++, MATLAB, Python
+ MATLAB, Python, PyTorch, C++, Tensorflow
 
 Publications:
 Chojnacki, L., Cook, C.Q., Dalidovich, D., Hayward Sierens, L.E., Lantagne-Hurtubise, É., Melko, R.G., and Vlaar, T.J., “Shape dependence of two-cylinder Rényi entropies for free bosons on a lattice”, Phys. Rev. B 94, 165136 (2016). Available: arXiv:1607.05311. 
