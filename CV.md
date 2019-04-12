@@ -17,13 +17,13 @@ Completed extracurricular courses in Complex Analysis, Numerical Methods, Partia
 
 
 Work and Teaching Experience:
-- Tutor, University of Edinburgh, 2019:
+- Tutor, University of Edinburgh, 2018-2019:
 	- Computing and Numerics (Python)
 	- Probability with Applications
-- Tutor, University of Edinburgh, 2018:
 	- Several Variable Calculus and Differential Equations 
 	- Probability
 <br>       
+<br>
 - Research Intern at Schlumberger Gould Research (Cambridge, UK), 2015
 - Tutor, Leiden University, 2012-2014: 
 	Tutoring covered all courses of the 1st year Physics BSc
@@ -38,7 +38,7 @@ Leadership Experience:
 - Commission work at Study Association “De Leidsche Flesch”, 2011
 
 Software:
- MATLAB, Python, PyTorch, C++, Tensorflow
+ MATLAB, Python, PyTorch, C++, TensorFlow
 
 Publications:
 Chojnacki, L., Cook, C.Q., Dalidovich, D., Hayward Sierens, L.E., Lantagne-Hurtubise, É., Melko, R.G., and Vlaar, T.J., “Shape dependence of two-cylinder Rényi entropies for free bosons on a lattice”, Phys. Rev. B 94, 165136 (2016). Available: arXiv:1607.05311. 
