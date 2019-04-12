@@ -17,16 +17,17 @@ Completed extracurricular courses in Complex Analysis, Numerical Methods, Partia
 
 
 Work and Teaching Experience:
+
 - Tutor, University of Edinburgh, 2018-2019:
 	- Computing and Numerics (Python)
 	- Probability with Applications
 	- Several Variable Calculus and Differential Equations 
 	- Probability
-<br>       
-<br>
+     
 - Research Intern at Schlumberger Gould Research (Cambridge, UK), 2015
-- Tutor, Leiden University, 2012-2014: 
-	Tutoring covered all courses of the 1st year Physics BSc
+
+- Tutor, Leiden University, 2012-2014: Tutoring covered all courses of the 1st year Physics BSc
+
 - Assistant at Junior Science Lab, Leiden University, 2013
 
 Leadership Experience: 
