@@ -18,4 +18,5 @@ Western Cape:
 - Cape Town
 - Hermanus
 - Knysna
+- Towerkop National Park
 - de Hel

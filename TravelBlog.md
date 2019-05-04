@@ -8,10 +8,7 @@ permalink: /TravelBlog/
 
 ![Africapic]({{TiffanyVlaar.github.io}}/pics/test.JPG)
 
-Travels in Australia
+[Travels in Australia]({{TiffanyVlaar.github.io}}/jekyll/update/2019/03/19/TravelsinAustralia.html)
 
 Wave Rock
 ![AUpic]({{TiffanyVlaar.github.io}}/pics/WaveRock.JPG)
-
-Croc at Cahills Crossing, Kakadu National Park
-![AUpic2]({{TiffanyVlaar.github.io}}/pics/Croc.JPG)
