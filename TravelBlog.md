@@ -8,6 +8,8 @@ Travels in South Africa
 
 ![Africapic]({{TiffanyVlaar.github.io}}/pics/test.JPG)
 ![testest]({{TiffanyVlaar.github.io}}/_posts/2019-05-04-TravelsinSA.markdown)
+![testest2]({{TiffanyVlaar.github.io}}/_posts/2019-05-04-TravelsinSA)
+[testest3]({{TiffanyVlaar.github.io}}/_posts/2019-05-04-TravelsinSA.markdown)
 
 Travels in Australia
 
