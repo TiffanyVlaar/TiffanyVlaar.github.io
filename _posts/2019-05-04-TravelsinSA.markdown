@@ -9,5 +9,13 @@ Kruger National Park:
 
 ![Africapic]({{TiffanyVlaar.github.io}}/pics/test.JPG)
 
+Drakensbergen:
+
+
 
 Western Cape:
+
+- Cape Town
+- Hermanus
+- Knysna
+- de Hel

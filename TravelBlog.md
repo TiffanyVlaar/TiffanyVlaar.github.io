@@ -7,6 +7,7 @@ permalink: /TravelBlog/
 Travels in South Africa
 
 ![Africapic]({{TiffanyVlaar.github.io}}/pics/test.JPG)
+[Some Link]({2019-05-04-TravelsinSA})
 
 Travels in Australia
 
