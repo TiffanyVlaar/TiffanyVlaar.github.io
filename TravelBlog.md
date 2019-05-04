@@ -7,7 +7,8 @@ permalink: /TravelBlog/
 Travels in South Africa
 
 ![Africapic]({{TiffanyVlaar.github.io}}/pics/test.JPG)
-[Some Link]({https://tiffanyvlaar.github.io/jekyll/update/2019/05/04/TravelsinSA.html})
+[Some Link]({% 2019-05-04-TravelsinSA %})
+[Some Link 2]({2019-05-04-TravelsinSA.markdown})
 
 Travels in Australia
 
