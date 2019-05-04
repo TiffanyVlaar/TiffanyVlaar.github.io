@@ -4,10 +4,9 @@ title: Travel Blog
 permalink: /TravelBlog/
 ---
 
-Travels in South Africa
+[Travels in South Africa]({{TiffanyVlaar.github.io}}/jekyll/update/2019/05/04/TravelsinSA.html)
 
 ![Africapic]({{TiffanyVlaar.github.io}}/pics/test.JPG)
-[testest3]({{TiffanyVlaar.github.io}}/jekyll/update/2019/05/04/TravelsinSA.html)
 
 Travels in Australia
 
