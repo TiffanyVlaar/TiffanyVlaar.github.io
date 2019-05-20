@@ -7,10 +7,10 @@ categories: jekyll update
 
 Kruger National Park:
 
-![Africapic]({{TiffanyVlaar.github.io}}/pics/Giraffe.JPG)
-![Africapic]({{TiffanyVlaar.github.io}}/pics/Rhino.JPG)
-![Africapic]({{TiffanyVlaar.github.io}}/pics/Elephants.JPG)
-![Africapic]({{TiffanyVlaar.github.io}}/pics/test.JPG)
+![Krugerpic]({{TiffanyVlaar.github.io}}/pics/Giraffe.JPG)
+![Krugerpic2]({{TiffanyVlaar.github.io}}/pics/Rhino.JPG)
+![Krugerpic3]({{TiffanyVlaar.github.io}}/pics/Elephants.JPG)
+![Krugerpic4]({{TiffanyVlaar.github.io}}/pics/test.JPG)
 
 Drakensbergen:
 
