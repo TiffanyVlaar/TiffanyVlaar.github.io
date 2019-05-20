@@ -16,7 +16,7 @@ Attended Workshops and Conferences:
 - Masterclass Professor David Dunson (Duke University) on Scalable Bayesian Inference, June 2018
 - i-like Workshop, Newcastle University, June 2018
 - Poster presentation at CSide Conference, University of Glasgow, November 2018
-- MIGSAA Advanced PhD Course - Diffusive Processes, Autumn 2018
+- MIGSAA Advanced PhD Course - Diffusion Processes, Autumn 2018
 - ICMS - Modelling Camp, May 2019
 - CECAM - Computational mathematics for model reduction and predictive modelling in molecular and complex systems, May 2019
 - Gene Golub SIAM summerschool on High-Performance Data Analytics, June 2019
