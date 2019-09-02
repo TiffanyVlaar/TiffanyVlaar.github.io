@@ -33,6 +33,5 @@ I will talk about how Markov Chain Monte Carlo has been used to reveal the geo-p
 
 15 January - Dr Zofia Trstanova "Coarse-graining with machine learning in molecular dynamics"
 
-22 January - Dr Eleni Kotoula - Digital Research Services, UoE
 
 
