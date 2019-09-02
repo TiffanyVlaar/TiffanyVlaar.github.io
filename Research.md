@@ -6,7 +6,11 @@ permalink: /research/
 
 Research Interests: Numerical methods for SDEs, Bayesian statistics, Machine learning, Probabilistic Modelling
 
-Research Projects: 
+Papers:
+[Partitioned integrators for thermodynamic parameterization of neural networks](https://arxiv.org/abs/1908.11843)
+
+
+Other Research Projects: 
 - Introducing sparsity in neural networks using sampling
 - Applying Bayesian inference techniques to stochastic models (in particular Langevin dynamics models) for flocking
 - Stochastic Multiple Timestepping techniques for coupled systems of fast and slow variables
