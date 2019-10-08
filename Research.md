@@ -7,7 +7,7 @@ permalink: /research/
 Research Interests: Numerical methods for SDEs, Bayesian statistics, Machine learning, Probabilistic Modelling
 
 Papers:
-[Partitioned integrators for thermodynamic parameterization of neural networks](https://arxiv.org/abs/1908.11843)
+[Partitioned integrators for thermodynamic parameterization of neural networks](https://arxiv.org/abs/1908.11843) <br>
 Accepted as digital acceptance to NeurIPS 2019 Machine Learning and the Physical Sciences workshop
 
 Other Research Projects: 
