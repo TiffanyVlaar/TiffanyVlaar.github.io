@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Post Ideas!"
+title:  "Future post topics"
 date:   2019-04-11 01:42:09 +0100
 categories: jekyll update
 ---
 
-Ideas:
 - Bayesian Neural Networks
 - Guano Industry in South America
 - Unequal teaching evaluations for tutors with different nationalities

@@ -17,7 +17,8 @@ Completed extracurricular courses in Complex Analysis, Numerical Methods, Partia
 
 
 Work and Teaching Experience:
-- Tutor, University of Edinburgh, 2018-2019:
+- Supervise final year BSc project, 2019-2020
+- Tutor, University of Edinburgh, 2018-2020:
 	- Computing and Numerics (Python)
 	- Probability with Applications
 	- Several Variable Calculus and Differential Equations 
