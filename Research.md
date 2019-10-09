@@ -8,7 +8,8 @@ Research Interests: Numerical methods for SDEs, Bayesian statistics, Machine lea
 
 Papers:
 [Partitioned integrators for thermodynamic parameterization of neural networks](https://arxiv.org/abs/1908.11843) <br>
-Accepted as digital acceptance to NeurIPS 2019 Machine Learning and the Physical Sciences workshop
+Accepted as digital acceptance to NeurIPS 2019 Machine Learning and the Physical Sciences workshop.
+Check out my new blogpost about the paper [here]({{TiffanyVlaar.github.io}}/jekyll/update/2019/08/31/NewPaper.html)
 
 Other Research Projects: 
 - Gerrymandering in the United Kingdom: Interpreting political geography in a statistical physics framework and using Markov Chain Monte Carlo methods for Assessing the Fairness of Political Constituencies
