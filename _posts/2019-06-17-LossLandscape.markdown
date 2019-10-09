@@ -29,11 +29,11 @@ References
 
 [7]  I.J. Goodfellow, O. Vinyals, and A.M. Saxe. Qualitatively characterizing neural network optimization problems. ICLR, 2015.
 
-[8] Y. Dauphin, R. Pascanu, C. G\"{u}lc`{e}hre, K. Cho, S. Ganguli, and Y. Bengio. Identifying and attacking the saddle point problem in high-dimensional non-convex optimization. NIPS, 2014.
+[8] Y. Dauphin, R. Pascanu, C. G&Uuml;lc`{e}hre, K. Cho, S. Ganguli, and Y. Bengio. Identifying and attacking the saddle point problem in high-dimensional non-convex optimization. NIPS, 2014.
 
 [9] L. Sagun, L. Bottou, and Y. LeCun. Singularity of the hessian in deep learning. ICLR, 2017.
 
-[10] L. Sagun, U. Evci, U. G\"{u}ney, Y. Dauphin, and L. Bottou. Empirical analysis of the hessian of over-parametrized neural networks. ICLR, 2018.
+[10] L. Sagun, U. Evci, U. G&Uuml;ney, Y. Dauphin, and L. Bottou. Empirical analysis of the hessian of over-parametrized neural networks. ICLR, 2018.
 
 [11] C. Li, H. Farkhoor, R. Liu, and J. Yosinski. Measuring the intrinsic dimension of objective landscapes. arXiv:1804.08838, 2018.
 
