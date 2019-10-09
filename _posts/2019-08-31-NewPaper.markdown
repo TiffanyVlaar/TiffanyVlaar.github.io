@@ -8,7 +8,7 @@ categories: jekyll update
 We have a new preprint available on arXiv 1908.11843:
 [Partitioned integrators for thermodynamic parameterization of neural networks](https://arxiv.org/abs/1908.11843)
 
-In the paper we propose a new way to train (parameterize) neural networks for classification problems. We employ `'sampling" algorithms, which rely on discretized stochastic differential equations (SDEs), to train neural networks and show that these "thermodynamic parameterization" methods can be faster, robuster and more accurate than standard optimizers, such as SGD and ADAM,
+In the paper we propose a new way to train (parameterize) neural networks for classification problems. We employ "sampling" algorithms, which rely on discretized stochastic differential equations (SDEs), to train neural networks and show that these "thermodynamic parameterization" methods can be faster, robuster and more accurate than standard optimizers, such as SGD and ADAM,
 for classification problems with complicated loss landscapes.
 
 To understand where the term "thermodynamic parameterization" comes from we need to talk about ideas from statistical mechanics. Let us first take a bayesian perspective
