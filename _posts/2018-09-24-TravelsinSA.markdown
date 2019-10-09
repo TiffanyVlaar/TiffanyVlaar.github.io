@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Travels in South Africa"
-date:   2019-05-04 01:42:09 +0100
+date:   2018-09-24 01:42:09 +0100
 categories: jekyll update
 ---
 
