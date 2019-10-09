@@ -14,7 +14,8 @@ Check out my new blogpost about the paper [here]({{TiffanyVlaar.github.io}}/jeky
 Other Research Projects: 
 - Gerrymandering in the United Kingdom: Interpreting political geography in a statistical physics framework and using Markov Chain Monte Carlo methods for Assessing the Fairness of Political Constituencies.
 I wrote a short post about it: [Gerrymandering blog]({{TiffanyVlaar.github.io}}/jekyll/update/2019/09/18/Gerrymandering.html)
-- Introducing sparsity in neural networks using sampling
+- Introducing sparsity in neural networks using sampling. <br>
+  Some related posts: [Generalization]({{TiffanyVlaar.github.io}}/jekyll/update/2019/03/27/Generalization.html), [Sparsity in Neural Networks]({{TiffanyVlaar.github.io}}/jekyll/update/2019/05/10/Sparsity.html), [Loss Landscape]({{TiffanyVlaar.github.io}}/jekyll/update/2019/06/17/LossLandscape.html).
 - Applying Bayesian inference techniques to stochastic models (in particular Langevin dynamics models) for flocking
 - Stochastic Multiple Timestepping techniques for coupled systems of fast and slow variables
 
