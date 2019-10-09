@@ -14,7 +14,7 @@ Li et al. [11] show that optimization can be constrained to a relatively low-dim
 Fort and Jastrzebski [6] model a D-dimensional loss surface as the union of inter- connected high-dimensional manifolds (called "wedges"), with dimensions n < D. Op- timization procedures starting with different initializations lead to minima on different wedges. They show that there exist low-loss subspaces that connect these sets of different minima (this was also argued by [13, 14] for pairs of minima). So one can move from each wedge to another wedge through a low-loss connector. Different wedges are thought to correspond to different sets of functions. Higher learning rates, smaller batch sizes and stronger regularization strengths, are all claimed to have a similar effect on the geometrical properties of the path that the optimizer (SGD) travels, namely they increase the distance between an optimum and a high loss area by affecting the curvature of the exploration region.
 
 
-References
+References <br>
 [1] N.S. Keskar, D. Mudigere, J. Nocedal, M. Smelyanskiy, and P.T.P. Tang. On large batch training for deep learning: Generalization gap and sharp minima. ICLR, 2017.
 
 [2] P. Chaudhari, A. Choromanska, S. Soatto, Y. LeCun, C. Baldassi, C. Borgs, J. Chayes, L. Sagun, and R. Zecchina. Entropy-SGD: Biasing gradient descent into wide valleys. ICLR, 2017.
@@ -29,11 +29,11 @@ References
 
 [7]  I.J. Goodfellow, O. Vinyals, and A.M. Saxe. Qualitatively characterizing neural network optimization problems. ICLR, 2015.
 
-[8] Y. Dauphin, R. Pascanu, C. G&Uuml;lc`{e}hre, K. Cho, S. Ganguli, and Y. Bengio. Identifying and attacking the saddle point problem in high-dimensional non-convex optimization. NIPS, 2014.
+[8] Y. Dauphin, R. Pascanu, C. G&uuml;lc&egrave;hre, K. Cho, S. Ganguli, and Y. Bengio. Identifying and attacking the saddle point problem in high-dimensional non-convex optimization. NIPS, 2014.
 
 [9] L. Sagun, L. Bottou, and Y. LeCun. Singularity of the hessian in deep learning. ICLR, 2017.
 
-[10] L. Sagun, U. Evci, U. G&Uuml;ney, Y. Dauphin, and L. Bottou. Empirical analysis of the hessian of over-parametrized neural networks. ICLR, 2018.
+[10] L. Sagun, U. Evci, U. G&uuml;ney, Y. Dauphin, and L. Bottou. Empirical analysis of the hessian of over-parametrized neural networks. ICLR, 2018.
 
 [11] C. Li, H. Farkhoor, R. Liu, and J. Yosinski. Measuring the intrinsic dimension of objective landscapes. arXiv:1804.08838, 2018.
 
