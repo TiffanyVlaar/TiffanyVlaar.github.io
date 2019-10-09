@@ -16,7 +16,8 @@ Other Research Projects:
 - Applying Bayesian inference techniques to stochastic models (in particular Langevin dynamics models) for flocking
 - Stochastic Multiple Timestepping techniques for coupled systems of fast and slow variables
 
-Attended Workshops and Conferences: 
+Attended Workshops and Summerschools: 
+- Research Collaboration Visit in New York to meet Eric Vanden-Eijnden and 2019 Jonathan Weare (Courant, NYU)
 - Presentation at Alan Turing’s UK-Japan robotics and AI research collaboration workshop, September 2019
 - Gene Golub SIAM summerschool on High-Performance Data Analytics, June 2019
 - CECAM - Computational mathematics for model reduction and predictive modelling in molecular and complex systems, May 2019
