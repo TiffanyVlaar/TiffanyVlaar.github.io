@@ -4,17 +4,18 @@ title: Research
 permalink: /research/
 ---
 
-Research Interests: Numerical methods for SDEs, Bayesian statistics, Machine learning, Probabilistic Modelling
+Research Interests: Deep Learning Theory, Numerical methods for Stochastic Differential Equations (SDEs), Bayesian statistics, Sampling Methods.
 
 Papers:
 [Partitioned integrators for thermodynamic parameterization of neural networks](https://arxiv.org/abs/1908.11843) <br>
-Accepted as digital acceptance to NeurIPS 2019 Machine Learning and the Physical Sciences workshop.
+Accepted as digital acceptance to NeurIPS 2019 Machine Learning and the Physical Sciences workshop!
 
 Check out my new blogpost about the paper [here]({{TiffanyVlaar.github.io}}/jekyll/update/2019/08/31/NewPaper.html)
 
+
+
 Other Research Projects: 
-- Gerrymandering in the United Kingdom: Interpreting political geography in a statistical physics framework and using Markov Chain Monte Carlo methods for Assessing the Fairness of Political Constituencies. <br>
-  Related blogpost: [Gerrymandering blog]({{TiffanyVlaar.github.io}}/jekyll/update/2019/09/18/Gerrymandering.html)
+- Gerrymandering in the United Kingdom: Interpreting political geography in a statistical physics framework and using Markov Chain Monte Carlo methods for Assessing the Fairness of Political Constituencies. Related blogpost: [Gerrymandering blog]({{TiffanyVlaar.github.io}}/jekyll/update/2019/09/18/Gerrymandering.html)
 - Introducing sparsity in neural networks using sampling. <br>
   Some related posts: [Generalization Error]({{TiffanyVlaar.github.io}}/jekyll/update/2019/03/27/Generalization.html), [Sparsity in Neural Networks]({{TiffanyVlaar.github.io}}/jekyll/update/2019/05/10/Sparsity.html), [Loss Landscape]({{TiffanyVlaar.github.io}}/jekyll/update/2019/06/17/LossLandscape.html).
 - Applying Bayesian inference techniques to stochastic models (in particular Langevin dynamics models) for flocking
