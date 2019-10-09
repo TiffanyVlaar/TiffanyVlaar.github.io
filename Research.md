@@ -12,7 +12,8 @@ Accepted as digital acceptance to NeurIPS 2019 Machine Learning and the Physical
 Check out my new blogpost about the paper [here]({{TiffanyVlaar.github.io}}/jekyll/update/2019/08/31/NewPaper.html)
 
 Other Research Projects: 
-- Gerrymandering in the United Kingdom: Interpreting political geography in a statistical physics framework and using Markov Chain Monte Carlo methods for Assessing the Fairness of Political Constituencies
+- Gerrymandering in the United Kingdom: Interpreting political geography in a statistical physics framework and using Markov Chain Monte Carlo methods for Assessing the Fairness of Political Constituencies.
+I wrote a short post about it: [Gerrymandering blog]({{TiffanyVlaar.github.io}}/jekyll/update/2019/09/18/Gerrymandering.html)
 - Introducing sparsity in neural networks using sampling
 - Applying Bayesian inference techniques to stochastic models (in particular Langevin dynamics models) for flocking
 - Stochastic Multiple Timestepping techniques for coupled systems of fast and slow variables
