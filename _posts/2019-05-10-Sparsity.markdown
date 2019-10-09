@@ -5,3 +5,71 @@ date:   2019-05-10
 categories: jekyll update
 ---
 
+Neural networks are well-known to be overparametrized, and several papers have indicated that the true number of required active weights is much smaller than the model size typically used [1, 2]. At the same time there is a huge interest in deploying neu- ral networks in real-time on mobile devices and other resource-constrained computing environments. Sparsity in neural networks is therefore considered a desirable property as it reduces memory storage and unnecessary computational resources, and thus limits the energy consumption which otherwise would rapidly deplete the batteries of mobile devices. There exist several approaches to obtaining sparsity in neural networks, such as pruning [3, 4, 1], dropout [5, 6], knowledge distillation (also known as student-teacher learning) [7, 8], sparsity-inducing priors [9], and various regularization based methods, such as L0 regularization [10]. We will discuss the most important methods.
+
+The concept of pruning is quite straightforward [3, 4]. One starts with training a large network, which generalizes well. Then using some sort of measure, e.g., magnitude-based [11] or using an approximation of the loss surface [3], we throw away some of the redundant weights and all the connections to/from these weights. Then we continue to train the new sparsified network to mitigate any loss in accuracy caused by lost connections. This process of pruning and training can be done iteratively, where higher levels of sparsity are introduced at each iteration. After this procedure, networks with very high levels of sparsity (more than 90%) can be obtained with minimal accuracy loss compared to the original dense network. Pruning was initially proposed in the 1990s as a way to combat overfitting. Following the discussion in Chapter II we know that using a large amount of parameters doesn’t necessarily result in a decreased generalization performance and that in fact the opposite effect has been observed. At the other hand, pruning and other model compression techniques have been found to increase accuracy [12]. How do we reconcile these seemingly contradictory findings? Motivating the use of pruning from the perspective of the minimum description length principle appears to be a possible solution. Pruning during training adds noise to the representations of the inputs of the network, which limits the sensitivity of the learned parameters to noise. This lowers the necessary description length and is thought to improve the generalization capacity of the neural network [13].
+
+Until recently, it was generally believed that although neural networks are overparameterized, that this redundancy was necessary to obtain good generalization performance. Therefore, the general consensus was that one should first train a large, dense network before reducing the model size using pruning methods. A recent paper by Frankle and Carbin [14] claimed however that sparse networks, obtained by pruning a large network, can be trained from scratch (in isolation from the larger network) and obtain similar test accuracies as the original, larger network. To achieve this, they used the exact same initialization for the sparse network as the initialization that was used when first training the larger network (apart from the pruned weights which were set to zero and subse- quently frozen during the training procedure). The initialization therefore appears to play a key role. There is however some controversy surrounding this paper: Liu et al. [15] don’t see much advantage of using this initialization compared to using a random initialization, Zhou et al. [16] claim that the only important part of the initialization is the sign, not the magnitude of the relative weights, and Gale et al. [17] weren’t able to reproduce the results found by Frankle and Carbin [14] at all for more complex tasks and larger size models. The general take-away from all of these papers is however that pruning can be seen as a sort of architecture search, i.e., it can be used to build the skeleton of the neural network, where the values of the obtained weights are of lesser importance [18]. It is also clear that better baseline evaluations are necessary to effectively study and compare different pruning methods, as the claims made about the performance of proposed pruning methods (such as L0 regularization [10]) are often subsequently refuted in other papers which used larger data set sizes or tested the method on different problems [15, 17].
+
+The dropout technique was designed to combat overfitting a few years ago [5, 6] and quickly became immensely popular. For each training sample the dropout technique randomly sub-samples part of the network and temporarily ignores the neurons that were not selected, meaning that these neurons do not contribute to the forward pass and are not updated during the backward pass. Neurons are dropped out randomly with probability p and at the end of the procedure the values of the weights should be rescaled by the dropout rate. In a way dropout collects information from a whole ensemble of thinned neural networks, which all share many weights. Randomly switching off some weights at each iteration prevents the neural network from memorising the full training set (and thus prevents overfitting) and forces each of the weights to take more responsibility for the final prediction, which is thought to improve the generalization capacity of the neural network. Gal and Ghahramani [19] provided a probabilistic interpretation of dropout and proposed a way to obtain an uncertainty measure for neural networks on which dropout was applied before each weight layer, a procedure also known as Monte-Carlo dropout. However, Osband [20] has argued that Monte-Carlo dropout actually measures the risk rather than the uncertainty, i.e., he showed that the measure computed by Monte-Carlo dropout does not decrease with more data. No clear agreement seems to have been reached on this matter.
+
+Knowledge distillation was first proposed by Bucilu et al. [7] as a means to save computational resources and limit the memory footprint by distilling knowledge from a deep and complex network to a smaller network. The idea was picked up and generalized by Hinton et al. [8]. Ideally one wants to preserve the generalization capacity of the larger "teacher" network. This is done by transferring latent information, also known as "dark knowledge", which is hidden in the confidence estimates that the teacher assigns to all of the categories, to the smaller "student" network by matching the soft-max layer outputs (rather than just the predicted labels). By using a higher temperature at the softmax layer, the obtained information can be maximized, as at higher temperatures the soft-max layer outputs have higher entropies and are less spiked. This temperature needs to be set empirically and is shared by all training samples. It is important to note at this point that in contrast with general belief, the softmax outputs can not be directly equated to representing model confidence. As illustrated by Gal and Ghahramani [19] a model can be still be uncertain about its predictions despite having a high softmax output. Large neural networks tend to be overconfident in their predictions, e.g., when presented with new unrecognizable images far outside of any of the training classes, DNNs were shown to misclassify these as part of a specific training class with high confidence [21]. Additionally, Szegedy et al. [55] showed that introducing subtle perturbations to a training image can change the softmax outputs to arbitrary values (an example of an adversarial perturbation). Introducing a temperature scaling of the softmax can be seen as a way to mitigate this problem [22]. 
+
+In a Bayesian context, sparsity-inducing priors can also be used to achieve compression. Examples of sparsity-inducing priors are the Laplace prior, which can be interpreted as the Bayesian variant of L1 regularization/LASSO [23, 24]  (which attempts to minimise the sum of the absolute values of the network’s parameters), and the Horseshoe prior [25]. The horseshoe prior has heavy tails, which allows important nodes to remain un-shrunk, while its spike at the origin can turn off nodes and introduce severe sparsity. The ability of the horseshoe prior to leave important weights unaffected makes it sometimes preferable to the Laplace prior. Finally, it is important to note that in practice not all forms of sparsity are equally effective in reducing the computational cost. Many compression approaches result in non-structured sparsity which typically leads to limited speed-up [26]. A more thorough discussion of this is outside of the scope of this overview, but it is definitely something to keep in mind when designing new approaches for neural network compression.
+
+References <br>
+[1] S. Han, J. Pool, J. Tran, and W. Dally. Learning both weights and connections for efficient neural network. NIPS, 28:1135–1143, 2015.
+
+[2] K. Ullrich, E. Meeds, and M. Welling. Soft weight-sharing for neural network compression. ICLR, 2017.
+
+[3] Y. LeCun, J.S. Denker, and S.A. Solla. Optimal brain damage. NIPS, pages 598–605, 1990.
+
+[4] B. Hassibi and D.G. Stork. Second order derivatives for network pruning: Optimal brain surgeon. NIPS, 1993.
+
+[5] G. E. Hinton, N. Srivastava, A. Krizhevsky, I. Sutskever, and R. Salakhutdinov. Improving neural networks by preventing co-adaptation of feature detectors. arXiv:1207.0580, 2012.
+
+[6] N. Srivastava, G.E. Hinton, A. Krizhevsky, I. Sutskever, and R. Salakhutdinov. Dropout: A simple way to prevent neural networks from overfitting. Journal of Machine Learning Research, 15(1):1929–1958, 2014.
+
+[7] C. Bucilu, R. Caruana, and A. Niculescu-Mizil. Model compression. International Conference on Knowledge discovery and Data mining. ACM., 2006.
+
+[8] G. Hinton, O. Vinyals, and J. Dean. Distilling the knowledge in a neural network.
+NIPS Deep Learning and Representation Learning Workshop, 2015.
+
+[9] C. Louizos, K. Ullrich, and M. Welling. Bayesian compression for deep learning. arXiv:1705.08665, 2017.
+
+[10] C. Louizos, M. Welling, and D.P. Kingma. Learning sparse neural networks through L0 regularization. CoRR, 2017.
+
+[11] S. Arora, R. Ge, B. Neyshabur, and Y. Zhang. Stronger generalization bounds for deep nets via a compression approach. ICML, 2018.
+
+[12] M. Zhu and S. Gupta. To prune, or not to prune: exploring the efficacy of pruning for model compression. arXiv:1710.01878, 2017.
+
+[13] B. R. Bartoldson, A. S. Morcos, A. Barbu, and G. Erlebacher. The generalization- stability tradeoff in neural network pruning. arXiv:1906.03728, 2019.
+
+[14] J. Frankle and M. Carbin. The lottery ticket hypothesis: Training pruned neural networks. arXiv:1803.03635, 2018.
+
+[15] Z. Liu, M. Sun, T. Zhou, G. Huang, and T. Darrell. Rethinking the value of network pruning. CoRR, 2018.
+
+[16] H. Zhou, J. Lan, R. Liu, and J. Yosinski. Deconstructing lottery tickets: Zeros, signs, and the supermask. arXiv:1905.01067, 2019.
+
+[17] T. Gale, E. Elsen, and S. Hooker. The state of sparsity in deep neural networks. arXiv:1902.09574, 2019.
+
+[18] E. J. Crowley, J. Turner, A. Storkey, and M. O’Boyle. Pruning neural networks: is it time to nip it in the bud? arXiv:1810.04622, 2018.
+
+[19] Y. Gal and Z. Ghahramani. Dropout as a Bayesian approximation: Representing
+model uncertainty in deep learning. arXiv:1506.02142, 2015.
+
+[20] I. Osband. Risk versus uncertainty in deep learning: Bayes, bootstrap and the dangers of dropout. 2016.
+
+[21] A.M. Nguyen, J. Yosinski, and J. Clune. Deep neural networks are easily fooled: High confidence predictions for unrecognizable images. CoRR, 2014.
+
+[22] C. Guo, G. Pleiss, Y. Sun, and K. Q. Weinberger. On calibration of modern neural
+networks. ICML, pages 1321–1330, 2017.
+
+[23] R. Tibshirani. Regression shrinkage and selection via the lasso. Journal of the Royal Statistical Society. Series B, 58(1):267–288, 1996.
+
+[24] P. Williams. Bayesian regularization and pruning using a Laplace prior. Neural Computation, 7:117–143, 1995.
+
+[25] C.M. Carvalho, N.G. Polson, and J.G. Scott. The horseshoe estimator for sparse signals. Biometrika, 97(2):465–480, 2010.
+ 
+[26] W. Wen, C. Wu, Y. Wang, Y. Chen, and H. Li. Learning structured sparsity in deep neural networks. NIPS, pages 2074–2082, 2016.
+
