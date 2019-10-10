@@ -5,3 +5,56 @@ date:   2019-03-27
 categories: jekyll update
 ---
 
+<!---
+An important performance measure of a trained neural network is to analyze its capacity to generalize to unseen (test) data. Although a neural network (NN) can perform extremely well on the provided training data, it may easily have ended up in a minimum which does not generalize well, a phenomenon which is called overfitting. Several factors appear to influence the generalization capacity of a neural network, such as the number of parameters, initialization, learning rate, stopping criterion, activation functions, and numerical method used, and no clear consensus has been reached on how these concepts interplay with one-another. We will start to immerse ourselves into this complex and rich research area by introducing some complexity measures from the statistical learning theory research field.
+
+The "no free lunch" theorem postulates that there is no universal learner that will perform well for all problems [1]. For every learner there will be a task for which it fails, while another learner would have succeeded. Because there is no universal learner, one wants to limit the possible candidates (the hypothesis class), which can be interpreted as introducing some sort of prior to the system. In neural networks the hypothesis class corresponds to choosing a specific architecture and activation functions. Different hypotheses in the hypothesis class are then determined by different values of the neural network’s weights. So the learning task is to find the best weights, given the neural network’s architecture (the ”prior”).
+
+There are two kinds of error: the approximation error and the estimation error [1]. The approximation error is determined by the expressive power of the chosen neural network configuration. The estimation error represents the difference between the weight configuration that would have been ideal (given this specific neural network architecture) and the weight configuration found by the learning algorithm. The estimation error therefore depends on the training set size, because to have a good estimator a certain amount of training data is required. One can reduce the approximation error by allowing a wider class of possible candidates (i.e., a larger neural network size), but this can lead to overfitting, which increases the estimation error. There therefore exists a trade-off between these two errors. Side-note: Increasing the set of possible candidates can also be interpreted as making the prior more uninformative, which is typically desirable for generalization properties. Maybe this is related to why overparameterized neural networks generalize really well.
+
+Traditional complexity measures of the neural network’s architecture are the VC-dimension [2] and the Rademacher complexity [3]. The VC-dimension is a measure of the capacity of the model and can be used to bound the estimation error. It is defined as the size of the largest set of points that one can still obtain zero training error on using the model. The VC-dimension depends on the neural network size. However, it does not depend on the data distribution, which means that the bounds obtained for the generalization error are very loose. Tighter bounds can be obtained using the Rademacher Complexity, which measures the ability of the neural network’s architecture to fit randomly chosen labels.
+
+Zhang et al. [4] showed that these traditional complexity measures are incapable of explaining several features of the generalization behaviour of deep neural networks (DNNs). In particular, they showed that deep neural networks can easily fit random labels. Neural networks turn out to have such a high capacity that they can memorize the training data (hence ruling the VC-dimension ineffective as a generalization bound) and can obtain zero training error on random labels (when using an architecture that gave good generalization properties when training with real labels). Additionally, they find that explicit regularization techniques are unable to attenuate this phenomenon. Regularization, which adds a parameter norm penalty term to the loss function of neural networks, is a standard approach to prevent overfitting. Regularization does reduce the Rademacher Complexity, but is found to not necessarily affect the generalization error. The findings of Zhang et al. [4] therefore illustrate that the traditional complexity measures from statistical learning theory are insufficient to explain the good generalization capabilities of overparameterized DNNs.
+
+In recent years there has therefore been an active search for an appropriate complexity measure that captures the different generalization properties exhibited by neural networks, which conflict with our traditional and (for neural networks) incorrect notion that the complexity and the number of parameters are inversely proportional [5]. One line of research is on norm-based complexity measures, which was first introduced by Bartlett [6], who proposed that the size of the weights is a more useful indicator of generalization ability than the number of weights. This motivates the use of e.g., weight decay (also known as L2 regularization) as an explicit regularization technique, as this can be used to keep the weights small. Neyshabur et al. [7] proposed to combine this norm-based approach (see e.g., [8]), with the concept of expected sharpness. The notion of using the sharpness of obtained minima as a complexity measure for neural networks was most notably introduced by Keskar et al. [9] and Chaudhari et al. [10] and is determined by the eigenvalues of the Hessian matrix of the minimum. The idea is that flatter minima are more robust to small perturbations of the parameters and are therefore more generalizable. Additionally, flatter minima have lower description lengths (i.e., less precision is necessary to describe flatter minima, because moving slightly away from a flat minima doesn’t result in much error), which is favorable according to the minimum description length (MDL) principle [11, 12]. Flaws in the use of sharpness as a complexity measure were pointed out by Dinh et al. [13] and Neyshabur et al. [14], because sharpness is not a scale invariant measure. Neyshabur et al. [14] therefore propose to use the concept of "expected sharpness", which depends on the difference between the perturbed loss and the empirical loss, and combine this with the norm-based approach. However, this complexity measure is still incapable of explaining why overparameterized neural networks generalize well.
+
+An interesting line of research focuses on compression-based approaches to derive generalization bounds. Zhou et al. [15] show that models that tend to overfit are less compressible. Arora et al. [16] define the concept of noise stability, which means that when Gaussian noise is injected into a neural network, this noise has a decaying influence on subsequent layers. This can be seen as a different definition of the optimizer converging to a "flat minimum". This noise attenuation implies that the neural network can be compressed (Arora et al. [16] show that the error introduced by compressing the neural network using their algorithm is attenuated by later layers) and explains the good generalization capacity of deep nets.
+
+References <br>
+[1] S. Shalev-Shwartz and S. Ben-David. Understanding Machine Learning: From Theory to Algorithms. Cambridge University Press, 2014.
+
+[2] V. N. Vapnik and A. Chervonenkis. The necessary and sufficient conditions for consistency of the method of empirical risk minimization. Pattern Recognition and Image Analysis, 1(3):284–305, 1991.
+
+[3] P.L. Bartlett and S. Mendelson. Rademacher and Gaussian complexities: Risk bounds and structural results. Journal of Machine Learning Research, 3:463–482, 2002.
+
+[4] C. Zhang, S. Bengio, M. Hardt, B. Recht, and O. Vinyals. Understanding deep learning requires rethinking generalization. International Conference on Learning Representations, 2017.
+
+[5]  B. Neyshabur, R. Tomioka, and N. Srebro. In search of the real inductive bias: On the role of implicit regularization in deep learning. Proceeding of the International Conference on Learning Representations workshop track, 2015.
+
+[6] P. L. Bartlett. The sample complexity of pattern classification with neural networks: the size of the weights is more important than the size of the network. IEEE transactions on Information Theory, 44(2):525–536, 1998.
+
+[7] B. Neyshabur, S. Bhojanapalli, D. McAllester, and N. Srebro. Exploring generalization in deep learning. Advances in Neural Information Processing Systems, pages 5949–5958, 2017.
+
+[8] B. Neyshabur, R. Tomioka, and N. Srebro. Norm-based capacity control in neural networks. Proceeding of the 28th Conference on Learning Theory, 2015.
+
+[9] N.S. Keskar, D. Mudigere, J. Nocedal, M. Smelyanskiy, and P.T.P. Tang. On large
+batch training for deep learning: Generalization gap and sharp minima. ICLR, 2017.
+
+[10] P. Chaudhari, A. Choromanska, S. Soatto, Y. LeCun, C. Baldassi, C. Borgs, J. Chayes, L. Sagun, and R. Zecchina. Entropy-SGD: Biasing gradient descent into wide valleys. ICLR, 2017.
+
+[11] G. E. Hinton and D. van Camp. Keeping the neural networks simple by minimizing the description length of the weights. Proceedings of the Sixth Annual Conference on Computational Learning Theory, pages 5–13, 1993.
+
+[12] S. Hochreiter and J. Schmidhuber. Flat minima. Neural Computation, 9(1):1–42, 1997.
+
+[13] L. Dinh, R. Pascanu, S. Bengio, and Y. Bengio. Sharp minima can generalize for deep nets. ICML, 2017.
+
+[14] B. Neyshabur, S. Bhojanapalli, D. McAllester, and N. Srebro. Exploring generalization in deep learning. Advances in Neural Information Processing Systems, pages 5949–5958, 2017.
+
+[15] W. Zhou, V. Veitch, M. Austern, R. P. Adams, and P. Orbanz. Vacuous generalization bounds at the ImageNet scale: a PAC-Bayesian compression approach. ICLR, 2019.
+
+[16] S. Arora, R. Ge, B. Neyshabur, and Y. Zhang. Stronger generalization bounds for
+deep nets via a compression approach. ICML, 2018.
+
+
+
+	-->
