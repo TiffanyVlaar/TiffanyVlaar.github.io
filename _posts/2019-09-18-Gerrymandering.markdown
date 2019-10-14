@@ -13,6 +13,9 @@ Gerrymandering is a term originating from US politics and involves the redrawing
 ![gerry2]({{TiffanyVlaar.github.io}}/pics/gerry2.png)
 ![gerry2]({{TiffanyVlaar.github.io}}/pics/Croc.JPG)
 
-A characteristic of gerrymandering were often thought to be weirdly-shaped boundaries (hence the name gerrymandering - originating from salamanders and the name of the guy (Governor Gerry) who first introduced the term). Therefore, compactness of the drawn constituencies has often been used as a measure of fairness. However, this is neither a necessary nor sufficient condition for detecting gerrymandering. Sampling methods offer a viable alternative.
+A characteristic of gerrymandering were often thought to be weirdly-shaped boundaries (hence the name gerrymandering - originating from salamanders and the name of the guy (Governor Gerry) who first introduced the term [1]). Therefore, compactness of the drawn constituencies has often been used as a measure of fairness. However, this is neither a necessary nor sufficient condition for detecting gerrymandering [2]. Sampling methods offer a viable alternative.
 
 
+ [1] Griffith, E. (1907). The Rise and Development of the Gerrymander, Chicago: Scott, Foresman and Co.
+
+[2] Young, H. (1988). Measuring the Compactness of Legislative Districts. Legislative Studies Quarterly, 13(1), pp.105-115.
