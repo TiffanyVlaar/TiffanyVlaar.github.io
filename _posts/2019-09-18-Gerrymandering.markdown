@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gerrymandering - Evaluating fairness of Political Redistributing using MCMC"
+title:  "Gerrymandering - Evaluate fairness of Political Redistributing using MCMC"
 date:   2019-09-18 
 categories: jekyll update
 ---
@@ -12,6 +12,6 @@ Gerrymandering is a term originating from US politics and involves the redrawing
 ![gerry1]({{TiffanyVlaar.github.io}}/pics/gerry1.PNG)
 ![gerry2]({{TiffanyVlaar.github.io}}/pics/gerry2.PNG)
 
-A characteristic of gerrymandering were often thought to be weirdly-shaped boundaries (hence the name gerrymandering - originating from salamanders and the name of the guy (Governor Gerry) who first introduced the term). Therefore, compactness of the drawn constituencies has often been used as a measure of fairness. However, this is neither a necessary nor sufficient condition for detecting gerrymandering. Sampling methods offer a 
+A characteristic of gerrymandering were often thought to be weirdly-shaped boundaries (hence the name gerrymandering - originating from salamanders and the name of the guy (Governor Gerry) who first introduced the term). Therefore, compactness of the drawn constituencies has often been used as a measure of fairness. However, this is neither a necessary nor sufficient condition for detecting gerrymandering. Sampling methods offer a viable alternative.
 
 
