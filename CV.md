@@ -40,4 +40,4 @@ Software:
 
 Publications:
 - Leimkuhler, B., Matthews, C., and Vlaar, T.J., "Partitioned integrators for thermodynamic parameterization of neural networks" (2019). ArXiv preprint: [1908.11843](https://arxiv.org/abs/1908.11843)
-- Chojnacki, L., Cook, C.Q., Dalidovich, D., Hayward Sierens, L.E., Lantagne-Hurtubise, É., Melko, R.G., and Vlaar, T.J., “Shape dependence of two-cylinder Rényi entropies for free bosons on a lattice”, Phys. Rev. B 94, 165136 (2016). Available: [1607.05311](https://arxiv.org/abs/1607.05311). 
+- Chojnacki, L., Cook, C.Q., Dalidovich, D., Hayward Sierens, L.E., Lantagne-Hurtubise, É., Melko, R.G., and Vlaar, T.J., “Shape dependence of two-cylinder Rényi entropies for free bosons on a lattice”, Physical Review B 94, 165136 (2016). Available: [1607.05311](https://arxiv.org/abs/1607.05311). 
