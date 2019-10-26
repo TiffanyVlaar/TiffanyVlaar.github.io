@@ -5,9 +5,11 @@ date:   2019-01-11 01:42:09 +0100
 categories: jekyll update
 ---
 
-- Bayesian Neural Networks
+
+
+<!--- Bayesian Neural Networks
 - Guano Industry in South America
-- Unequal teaching evaluations for tutors with different nationalities
+- Unequal teaching evaluations for tutors with different nationalities-->
 
 <!---You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.-->
 
