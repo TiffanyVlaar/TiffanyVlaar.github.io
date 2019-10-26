@@ -22,7 +22,8 @@ Other Research Projects:
 - Stochastic Multiple Timestepping techniques for coupled systems of fast and slow variables
 
 Attended Workshops and Summerschools: 
-- Research Collaboration Visit in New York to meet Eric Vanden-Eijnden and 2019 Jonathan Weare (Courant, NYU)
+- Invited Poster presentation at Amazon Research Days, Edinburgh, November 2019
+- Research Collaboration Visit in New York to meet Eric Vanden-Eijnden and Jonathan Weare (Courant, NYU), October 2019
 - Presentation at Alan Turing’s UK-Japan robotics and AI research collaboration workshop, September 2019
 - Gene Golub SIAM summerschool on High-Performance Data Analytics, June 2019
 - CECAM - Computational mathematics for model reduction and predictive modelling in molecular and complex systems, May 2019

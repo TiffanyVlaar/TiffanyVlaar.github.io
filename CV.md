@@ -13,7 +13,7 @@ M. Sc. Theoretical Physics, Perimeter Scholars International programme, jointly 
 M. Sc. Applied Geophysics (Cum Laude), IDEA League programme, jointly offered by Delft University of Technology, the Netherlands, ETH Zürich, Switzerland, and RWTH Aachen, Germany. 2015
 
 B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013. <br>
-Completed extracurricular courses in Complex Analysis, Partial Differential Equations, and Dynamical Systems.
+Extracurricular courses in Complex Analysis, PDEs, and Dynamical Systems.
 
 
 Work and Teaching Experience:
@@ -40,4 +40,4 @@ Software:
 
 Publications:
 - Leimkuhler, B., Matthews, C., and Vlaar, T.J., "Partitioned integrators for thermodynamic parameterization of neural networks" (2019). ArXiv preprint: [1908.11843](https://arxiv.org/abs/1908.11843)
-- Chojnacki, L., Cook, C.Q., Dalidovich, D., Hayward Sierens, L.E., Lantagne-Hurtubise, É., Melko, R.G., and Vlaar, T.J., “Shape dependence of two-cylinder Rényi entropies for free bosons on a lattice”, Phys. Rev. B 94, 165136 (2016). Available: [arXiv:1607.05311](https://arxiv.org/abs/1607.05311). 
+- Chojnacki, L., Cook, C.Q., Dalidovich, D., Hayward Sierens, L.E., Lantagne-Hurtubise, É., Melko, R.G., and Vlaar, T.J., “Shape dependence of two-cylinder Rényi entropies for free bosons on a lattice”, Phys. Rev. B 94, 165136 (2016). Available: [1607.05311](https://arxiv.org/abs/1607.05311). 
