@@ -17,7 +17,7 @@ Extracurricular courses in Complex Analysis, PDEs, and Dynamical Systems.
 
 
 Work and Teaching Experience:
-- Supervise final year BSc project, 2019-2020
+- Co-Supervisor final year BSc project, 2019-2020
 - Tutor, University of Edinburgh, 2018-2020:
 	- Computing and Numerics (Python)
 	- Probability with Applications
