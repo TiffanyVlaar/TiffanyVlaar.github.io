@@ -5,7 +5,7 @@ date:   2019-01-11 01:42:09 +0100
 categories: jekyll update
 ---
 
-There was a time when Peru dominated the world market with their export of guano - seabird excrement - which turned out to be one of the best natural fertilizers in the world. A combination of the hot, dry climate and the massive amount of seabirds on rocky islands off Peru's coast led to the golden guano era for Peru in the 1840-1870s. Despite making for a nice anecdote, the guano industry in South America is fascinating from a political and historical viewpoint. 
+There was a time when Peru dominated the world market with their export of guano - seabird excrement - which turned out to be one of the best natural fertilizers in the world. A combination of the hot, dry climate and the massive amount of seabirds on rocky islands off Peru's coast led to the golden guano era for Peru in the 1840-1870s. <!---Despite making for a nice anecdote, the guano industry in South America is fascinating from a political and historical viewpoint. -->
 
 Back in the 1800s Europe and the US were desperate to find new fertilizers for their depleted soils, and Peru, by having access to the best guano in the world, could control the world market. Guano was declared state property of Peru in 1840, and the massive export of the substance seemed to provide wealth and prosperity to the peruvians for many years. Although the wealth was of course mostly concentrated in the hands of a select few, the guano era still managed to revitalize the economy and cause a literary boom as well - and Lima was floroushing.
 
