@@ -29,6 +29,8 @@ Our MCMC algorithm will then work as follows:
 1) Running the MCMC algorithm will change the color/spin of wards, which will affect the energy of the newly created constituency map.  <br>
 2) We accept a proposed MCMC move, i.e., a move of a ward to a neighbouring constituency, with a Metropolis-Hastings step. If the move resulted in a map with a lower energy than the previous map, the move is more likely to be accepted. It is however important to also sometimes allow increases in energy to prevent the algorithm from getting stuck in local minima.
 
+
+
 And that's it! I intend to publish more blogposts on this topic in the near future - so stay tuned!
 
 
