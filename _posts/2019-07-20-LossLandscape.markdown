@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Loss Landscape"
-date:   2019-06-17 
+date:   2019-07-20 
 categories: jekyll update
 ---
 
