@@ -13,7 +13,7 @@ Lets start with the easiet method - pruning [4,5]. There are 4 steps:
 <li> Remove a bunch of weights - and all connections to/from these weights. </li>
     >  To select which weights to remove, one can use e.g., a magnitude-based measure [12] or information about the loss surface [4].
 <li> Train the new sparser network until it generalizes well. </li>
-<li> Repeat step 1-3 until the desired sparsity level has been achieved. 
+<li> Repeat step 1-3 until the desired sparsity level has been achieved. </li>
 </ol>
 
 <!---Neural networks are well-known to be overparametrized, and several papers have indicated that the true number of required active weights is much smaller than the model size typically used [1, 2]. At the same time there is a huge interest in deploying neural networks in real-time on mobile devices and other resource-constrained computing environments. Sparsity in neural networks is therefore considered a desirable property as it reduces memory storage and unnecessary computational resources, and thus limits the energy consumption which otherwise would rapidly deplete the batteries of mobile devices. 
