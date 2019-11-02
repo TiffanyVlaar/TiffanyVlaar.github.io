@@ -5,7 +5,15 @@ date:   2019-05-10
 categories: jekyll update
 ---
 
-It is well-known that although overparametrized neural networks generalize well, the true number of weights required to obtain a good generalization performance is much smaller than model sizes typically used by practitioners [1,2,3]. If we would like to use neural networks in real-time on our mobile phones - we need sparser networks to save battery power and reduce memory storage required. In this blogpost I want to discuss the most important approaches to obtain sparsity in neural networks: pruning [4, 5, 1], dropout [6, 7], knowledge distillation [8, 9], sparsity-inducing priors [10], and various regularization based methods, such as L0 regularization [11]. 
+It is well-known that although overparametrized neural networks generalize well, the minimum number of weights required to obtain a good generalization performance is much smaller than model sizes typically used by practitioners [1,2,3]. If we would like to use neural networks in real-time on our mobile phones - we need sparser networks to save battery power and reduce memory storage. In this blogpost I want to discuss the most important approaches to obtain sparsity in neural networks: pruning [4, 5, 1], dropout [6, 7], knowledge distillation [8, 9], sparsity-inducing priors [10], and regularization based methods, such as L0 regularization [11]. 
+
+Lets start with the easiet method - pruning [4,5]. There are 3 steps:
+<ol>
+<li> Train a large network until it generalizes well </li>
+<li> Remove a bunch of weights - and all connections to/from these weights. </li>
+	> To select which weights to remove, one can use e.g., a magnitude-based measure [12] or information about the loss surface [4].
+<li> Train the new sparser network until it generalizes well. </li>
+</ol>
 
 <!---Neural networks are well-known to be overparametrized, and several papers have indicated that the true number of required active weights is much smaller than the model size typically used [1, 2]. At the same time there is a huge interest in deploying neural networks in real-time on mobile devices and other resource-constrained computing environments. Sparsity in neural networks is therefore considered a desirable property as it reduces memory storage and unnecessary computational resources, and thus limits the energy consumption which otherwise would rapidly deplete the batteries of mobile devices. 
 
