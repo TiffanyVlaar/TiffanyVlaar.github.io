@@ -31,7 +31,13 @@ A natural question would be: if sparser networks can get good generalization per
 
 Until recently, this was thought not to be possible. The redundancy of large, dense neural networks was thought to be vital to obtain good test accuracies. However, in 2018 Frankle and Carbin [15] claimed that they could actually train sparse networks from scratch and obtain good test accuracies. They find these sparse networks by pruning large, dense networks, but then reset the values of the weights of the sparse networks to their values before training, thus training the sparse network in isolation from the denser network. They argue that using the exact same initalization for the sparse network as was used for the larger network is important for obtaining good generalization performance for the sparse network. There is however some controversy surrounding this: Liu et al. [16] argue that using random initialization for the sparse network also leads to good test accuracies, Zhou et al. [17] think that one can ignore the magnitudes from the original initialization, but that the sign of the initial weights plays a key role, and Gale et al. [18] could not reproduce Frankle and Carbin's [15] results for larger models and more complex tasks. 
 
-The take-away message of all these papers is that pruning acts as an architecture search.
+***This emphasizes the need to establish better baselines to compare different methods***: claims made about the proficiency of developed methods are often disputed in subsequent papers which tested the methods on deeper networks or on different tasks, e.g., L0 regularization [11] was refuted in [16,18]. Despite this, all the papers mentioned above do share the same take-away message, namely 
+
+    Pruning effectively acts as an architecture search. 
+
+Pruning allows us to build a skeleton for the neural network, where the exact values of the trained parameters are less important [19].
+
+***Dropout***
 
 <!---Neural networks are well-known to be overparametrized, and several papers have indicated that the true number of required active weights is much smaller than the model size typically used [1, 2]. At the same time there is a huge interest in deploying neural networks in real-time on mobile devices and other resource-constrained computing environments. Sparsity in neural networks is therefore considered a desirable property as it reduces memory storage and unnecessary computational resources, and thus limits the energy consumption which otherwise would rapidly deplete the batteries of mobile devices. 
 
