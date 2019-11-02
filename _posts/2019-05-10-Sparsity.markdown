@@ -10,20 +10,19 @@ It is well-known that although overparametrized neural networks generalize well,
 Lets start with the easiest method - pruning [4,5]. There are 4 steps:
 <ol>
 <li> Train a large network until it generalizes well </li>
-<li> Remove a bunch of weights - and all connections to/from these weights. 
+<li> Remove a bunch of weights - and all connections to/from these weights. </li>
+
+        To select which weights to remove, one can use 
+        e.g., a magnitude-based measure [12] or information about the loss surface [4].
 
 
-         > To select which weights to remove, one can use 
-           e.g., a magnitude-based measure [12] or information about the loss surface [4].
-
-</li>
 <li> Train the new sparser network until it generalizes well. </li>
 <li> Repeat step 1-3 until the desired sparsity level has been achieved. </li>
 </ol>
 
 Pruning can result in networks with over 90% sparsity, without losing a noticeable amount of test accuracy compared to the original dense network. Pruning was originally conceived as a method to prevent overfitting and thus improve the generalization capacity of the network. In fact, pruning has indeed been found to increase accuracy in some cases [13]. At the other hand though, contrary to our intuition, large dense networks appear to generalize remarkably well (see my other blogpost on [Generalization Error]({{TiffanyVlaar.github.io}}/jekyll/update/2019/03/27/Generalization.html) for a further discussion on this topic), so why would pruning have this effect? 
 
-    > One explanation could arise from the minimum description length principle. 
+      One explanation could arise from the minimum description length principle. 
       Pruning limits the sensitivity of learned neural network parameters to 
       noise, which lowers the description length required and thus improves 
       the generalization capacity [14].
