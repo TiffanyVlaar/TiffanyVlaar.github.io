@@ -53,7 +53,7 @@ The main idea of the knowledge distillation method [8,9] is to distill knowledge
 
 I do want to note at this point that one should not directly equate the softmax outputs to model confidence, as shown by Gal and Ghahramani [23]. DNNs are typically overconfident in their predictions and can misclassify unidentifiable images with high confidence [24]. Furthermore, small adversarial perturbations to a training image can also completely change softmax outputs to random values [25].
 
-***Discussion***
+***Discussion*** <br>
 In the introduction I mentioned that sparsity in neural networks is desirable as it allows us to use neural networks in real-time on resource-constrained computing environments. In practice however, not all forms of sparsity are equally effective in lowering the computational cost. Most compression methods lead to networks with non-structured sparsity, which limits the speed-up obtained [29]. This should be taken into consideration when developing new compression methods.
 
 <!---Neural networks are well-known to be overparametrized, and several papers have indicated that the true number of required active weights is much smaller than the model size typically used [1, 2]. At the same time there is a huge interest in deploying neural networks in real-time on mobile devices and other resource-constrained computing environments. Sparsity in neural networks is therefore considered a desirable property as it reduces memory storage and unnecessary computational resources, and thus limits the energy consumption which otherwise would rapidly deplete the batteries of mobile devices. 
