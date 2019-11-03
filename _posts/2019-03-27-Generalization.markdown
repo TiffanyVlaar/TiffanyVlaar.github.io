@@ -16,9 +16,15 @@ Estimation error can be reduced by having a larger training set (thus leading to
 
 There are two classic complexity measures for the chosen neural network architecture: the VC-dimension [2] and the Rademacher complexity [3].
 <ol>
-<li> VC-dimension: defined as the largest dataset size on which one can obtain zero training error. It measures the networks capacity. </li>
+<li> VC-dimension: defined as the largest dataset size on which one can obtain zero training error using this network architecture. It effectively measures the network's capacity. </li>
 <li> Rademacher complexity: measures the network's ability to fit random labels. </li>
 </ol>
+
+Unfortunately, these measures were shown to be ineffective for measuring generalizability of overparameterized neural networks [4]: deep neural networks have the capacity to memorize the training data (which means the VC-dimension can't be used as a generalization bound) and architectures with good performance on real labels can simultaneously easily fit random labels (hence Rademacher complexity can't be used). Additionally, regularization techniques, which are used to combat overfitting by reducing the Rademacher complexity, are ruled uneffective for neural networks as they do not reliably change the generalization error.
+
+We need to turn to more recent ideas for complexity measures that can capture the properties of neural networks, especially ones that can explain why overparameterized neural networks don't overfit [5]. One well-known complexity measure is the sharpness of obtained minima [6,7]. Here sharpness of a minimum is measured by studying the eigenvalues of the Hessian.  Flatter minima are thought to be more robust to perturbations in the parameters and have lower description lengths (because moving away from a flat minima doesn't lead to a large error, so using less precision in the description of a flat minima is fine), which is better according to the minimum description length principle [8,9]. However, sharpness is not a scale invariant measure [10,11] - so some care must be taken in using this as a complexity measure. Some efforts were made to combine this idea with a norm-based complexity measure [11], where the norm-based approach is based on the idea that we should look at the size of the weights rather than at the amount of weights for our complexity measure [12,13]. However, neither of these approaches explain the generalization capacity of overparameterized neural networks.
+
+One other area of research I wanted to mention here relates compressibility of neural networks to their generalization ability. Zhou et al. [14] for example argue that it is more difficult to compress neural networks that overfit. Arora et al. [15] argue that networks with a higher noise stability can be compressed more - because noise stability means that the "noise" introduced by compressing the neural network is attenuated by later layers of the network. Noise stability is closely related to the concept of flat minima discussed before. Neural networks that can be compressed without a significant loss in accuracy, can be shown to (in their compressed form) generalize well.
 
 
 <!---
@@ -48,27 +54,25 @@ An interesting line of research focuses on compression-based approaches to deriv
 
 [5]  B. Neyshabur, R. Tomioka, and N. Srebro. In search of the real inductive bias: On the role of implicit regularization in deep learning. Proceeding of the International Conference on Learning Representations workshop track, 2015.
 
-[6] P. L. Bartlett. The sample complexity of pattern classification with neural networks: the size of the weights is more important than the size of the network. IEEE transactions on Information Theory, 44(2):525–536, 1998.
-
-[7] B. Neyshabur, S. Bhojanapalli, D. McAllester, and N. Srebro. Exploring generalization in deep learning. Advances in Neural Information Processing Systems, pages 5949–5958, 2017.
-
-[8] B. Neyshabur, R. Tomioka, and N. Srebro. Norm-based capacity control in neural networks. Proceeding of the 28th Conference on Learning Theory, 2015.
-
-[9] N.S. Keskar, D. Mudigere, J. Nocedal, M. Smelyanskiy, and P.T.P. Tang. On large
+[6] N.S. Keskar, D. Mudigere, J. Nocedal, M. Smelyanskiy, and P.T.P. Tang. On large
 batch training for deep learning: Generalization gap and sharp minima. ICLR, 2017.
 
-[10] P. Chaudhari, A. Choromanska, S. Soatto, Y. LeCun, C. Baldassi, C. Borgs, J. Chayes, L. Sagun, and R. Zecchina. Entropy-SGD: Biasing gradient descent into wide valleys. ICLR, 2017.
+[7] P. Chaudhari, A. Choromanska, S. Soatto, Y. LeCun, C. Baldassi, C. Borgs, J. Chayes, L. Sagun, and R. Zecchina. Entropy-SGD: Biasing gradient descent into wide valleys. ICLR, 2017.
 
-[11] G. E. Hinton and D. van Camp. Keeping the neural networks simple by minimizing the description length of the weights. Proceedings of the Sixth Annual Conference on Computational Learning Theory, pages 5–13, 1993.
+[8] G. E. Hinton and D. van Camp. Keeping the neural networks simple by minimizing the description length of the weights. Proceedings of the Sixth Annual Conference on Computational Learning Theory, pages 5–13, 1993.
 
-[12] S. Hochreiter and J. Schmidhuber. Flat minima. Neural Computation, 9(1):1–42, 1997.
+[9] S. Hochreiter and J. Schmidhuber. Flat minima. Neural Computation, 9(1):1–42, 1997.
 
-[13] L. Dinh, R. Pascanu, S. Bengio, and Y. Bengio. Sharp minima can generalize for deep nets. ICML, 2017.
+[10] L. Dinh, R. Pascanu, S. Bengio, and Y. Bengio. Sharp minima can generalize for deep nets. ICML, 2017.
 
-[14] B. Neyshabur, S. Bhojanapalli, D. McAllester, and N. Srebro. Exploring generalization in deep learning. Advances in Neural Information Processing Systems, pages 5949–5958, 2017.
+[11] B. Neyshabur, S. Bhojanapalli, D. McAllester, and N. Srebro. Exploring generalization in deep learning. Advances in Neural Information Processing Systems, pages 5949–5958, 2017.
 
-[15] W. Zhou, V. Veitch, M. Austern, R. P. Adams, and P. Orbanz. Vacuous generalization bounds at the ImageNet scale: a PAC-Bayesian compression approach. ICLR, 2019.
+[12] P. L. Bartlett. The sample complexity of pattern classification with neural networks: the size of the weights is more important than the size of the network. IEEE transactions on Information Theory, 44(2):525–536, 1998.
 
-[16] S. Arora, R. Ge, B. Neyshabur, and Y. Zhang. Stronger generalization bounds for
+[13] B. Neyshabur, R. Tomioka, and N. Srebro. Norm-based capacity control in neural networks. Proceeding of the 28th Conference on Learning Theory, 2015.
+
+[14] W. Zhou, V. Veitch, M. Austern, R. P. Adams, and P. Orbanz. Vacuous generalization bounds at the ImageNet scale: a PAC-Bayesian compression approach. ICLR, 2019.
+
+[15] S. Arora, R. Ge, B. Neyshabur, and Y. Zhang. Stronger generalization bounds for
 deep nets via a compression approach. ICML, 2018.
 
