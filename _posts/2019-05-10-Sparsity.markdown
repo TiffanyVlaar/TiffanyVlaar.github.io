@@ -5,7 +5,7 @@ date:   2019-05-10
 categories: jekyll update
 ---
 
-It is well-known that although overparametrized neural networks generalize well, the minimum number of weights required to obtain a good generalization performance is much smaller than model sizes typically used by practitioners [1,2,3]. If we would like to use neural networks in real-time on our mobile phones - we need sparser networks to save battery power and reduce memory storage. In this blogpost I want to discuss the most important approaches to obtain sparsity in neural networks: pruning [4, 5, 1], dropout [6, 7], knowledge distillation [8, 9], sparsity-inducing priors [10], and regularization based methods, such as L0 regularization [11]. 
+It is well-known that although overparametrized neural networks generalize well, the minimum number of weights required to obtain a good generalization performance is much smaller than model sizes typically used by practitioners [1,2,3]. If we would like to use neural networks in real-time on our mobile phones - we need sparser networks to save battery power and reduce memory storage. In this blogpost I want to discuss the most important approaches to obtain sparsity in neural networks: pruning [4, 5, 1], dropout [6, 7], and knowledge distillation [8, 9]. Other approaches not discussed here include sparsity-inducing priors [10], and regularization based methods, such as L0 regularization [11]. 
 
 ***Pruning***<br>
 Lets start with the easiest method - pruning [4,5]. There are 4 steps:
@@ -51,11 +51,15 @@ In dropout [6,7] we only use part of the network at a time. For each iteration w
 Dropout can be used to obtain sparse networks. For example, in targeted dropout [20] they use dropout to reduce the networks dependence on unimportant weights (e.g., weights with a small magnitude), which subsequently can easily be pruned away without a loss in accuracy. Other examples include sparse variational dropout [21] and Ising-dropout [22].
 
 ***Knowledge Distillation*** <br>
-The main idea of the knowledge distillation method [8,9] is to distill knowledge from a deep, dense "teacher" network to a small "student" network, while maintaining the same generalization capacity. To do so, one can utilize information which is hidden in confidence estimates 
+The main idea of the knowledge distillation method [8,9] is to distill knowledge from a deep, dense "teacher" network to a small "student" network, without losing test accuracy. There are confidence estimates hidden in the softmax layer outputs, which can be extracted by raising the temperature at the softmax layer. This "dark knowledge" allows the teacher network to confer more information to its student network. 
+
+I do want to note at this point that one should not directly equate the softmax outputs to model confidence, as shown by Gal and Ghahramani [23]. DNNs are typically overconfident in their predictions and can misclassify unidentifiable images with high confidence [24]. Furthermore, small adversarial perturbations to a training image can also completely change softmax outputs to random values [25].
+
+***Discussion***
+In the introduction I mentioned that sparsity in neural networks is desirable as it allows us to use neural networks in real-time on resource-constrained computing environments. In practice however, not all forms of sparsity are equally effective in lowering the computational cost. Most compression methods lead to networks with non-structured sparsity, which limits the speed-up obtained [29]. This should be taken into consideration when developing new compression methods.
 
 <!---Neural networks are well-known to be overparametrized, and several papers have indicated that the true number of required active weights is much smaller than the model size typically used [1, 2]. At the same time there is a huge interest in deploying neural networks in real-time on mobile devices and other resource-constrained computing environments. Sparsity in neural networks is therefore considered a desirable property as it reduces memory storage and unnecessary computational resources, and thus limits the energy consumption which otherwise would rapidly deplete the batteries of mobile devices. 
 
-Knowledge distillation was first proposed by Bucilu et al. [8] as a means to save computational resources and limit the memory footprint by distilling knowledge from a deep and complex network to a smaller network. The idea was picked up and generalized by Hinton et al. [9]. Ideally one wants to preserve the generalization capacity of the larger "teacher" network. This is done by transferring latent information, also known as "dark knowledge", which is hidden in the confidence estimates that the teacher assigns to all of the categories, to the smaller "student" network by matching the soft-max layer outputs (rather than just the predicted labels). By using a higher temperature at the softmax layer, the obtained information can be maximized, as at higher temperatures the soft-max layer outputs have higher entropies and are less spiked. This temperature needs to be set empirically and is shared by all training samples. It is important to note at this point that in contrast with general belief, the softmax outputs can not be directly equated to representing model confidence. As illustrated by Gal and Ghahramani [23] a model can be still be uncertain about its predictions despite having a high softmax output. Large neural networks tend to be overconfident in their predictions, e.g., when presented with new unrecognizable images far outside of any of the training classes, DNNs were shown to misclassify these as part of a specific training class with high confidence [24]. Additionally, Szegedy et al. [56] showed that introducing subtle perturbations to a training image can change the softmax outputs to arbitrary values (an example of an adversarial perturbation). Introducing a temperature scaling of the softmax can be seen as a way to mitigate this problem [25]. 
 
 In a Bayesian context, sparsity-inducing priors can also be used to achieve compression. Examples of sparsity-inducing priors are the Laplace prior, which can be interpreted as the Bayesian variant of L1 regularization/LASSO [26, 27]  (which attempts to minimise the sum of the absolute values of the network’s parameters), and the Horseshoe prior [28]. The horseshoe prior has heavy tails, which allows important nodes to remain un-shrunk, while its spike at the origin can turn off nodes and introduce severe sparsity. The ability of the horseshoe prior to leave important weights unaffected makes it sometimes preferable to the Laplace prior. Finally, it is important to note that in practice not all forms of sparsity are equally effective in reducing the computational cost. Many compression approaches result in non-structured sparsity which typically leads to limited speed-up [29]. A more thorough discussion of this is outside of the scope of this overview, but it is definitely something to keep in mind when designing new approaches for neural network compression.-->
 
@@ -110,13 +114,15 @@ model uncertainty in deep learning. arXiv:1506.02142, 2015.
 
 [24] A.M. Nguyen, J. Yosinski, and J. Clune. Deep neural networks are easily fooled: High confidence predictions for unrecognizable images. CoRR, 2014.
 
-[25] C. Guo, G. Pleiss, Y. Sun, and K. Q. Weinberger. On calibration of modern neural
+[25] C. Szegedy, W. Zaremba, I. Sutskever, J. Bruna, D. Erhan, I. Goodfellow, and R. Fergus. Intriguing properties of neural networks. ICLR, 2014.
+
+<!---[25] C. Guo, G. Pleiss, Y. Sun, and K. Q. Weinberger. On calibration of modern neural
 networks. ICML, pages 1321–1330, 2017.
 
 [26] R. Tibshirani. Regression shrinkage and selection via the lasso. Journal of the Royal Statistical Society. Series B, 58(1):267–288, 1996.
 
 [27] P. Williams. Bayesian regularization and pruning using a Laplace prior. Neural Computation, 7:117–143, 1995.
 
-[28] C.M. Carvalho, N.G. Polson, and J.G. Scott. The horseshoe estimator for sparse signals. Biometrika, 97(2):465–480, 2010.
+[28] C.M. Carvalho, N.G. Polson, and J.G. Scott. The horseshoe estimator for sparse signals. Biometrika, 97(2):465–480, 2010.-->
  
-[29] W. Wen, C. Wu, Y. Wang, Y. Chen, and H. Li. Learning structured sparsity in deep neural networks. NIPS, pages 2074–2082, 2016.
+[26] W. Wen, C. Wu, Y. Wang, Y. Chen, and H. Li. Learning structured sparsity in deep neural networks. NIPS, pages 2074–2082, 2016.
