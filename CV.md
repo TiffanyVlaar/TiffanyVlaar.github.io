@@ -28,6 +28,7 @@ Work and Teaching Experience:
 - Assistant at Junior Science Lab, Leiden University, 2013
 
 Leadership Experience: 
+- Founding member of [Piscopia Intiative](piscopiainitiative.home.blog), 2019.
 - Vice President SIAM Student Chapter University of Edinburgh, 2018-2020
 - Machine Learning Reading Group Organizer, University of Edinburgh, 2018
 - Member of Mathematics Outreach Team, University of Edinburgh, 2018
