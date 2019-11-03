@@ -42,8 +42,11 @@ Pruning allows us to build a skeleton for the neural network, where the exact va
 ***Dropout***
 In dropout [6,7] we only use part of the network at a time. For each iteration we randomly select weights that will be temporarily ignored ("dropped out"), where each weight has probability p of getting dropped. Weights which are switched off do not contribute to the forward pass and are not updated, but can be re-activated for the next iteration. The key idea of dropout is:
 
-    Dropout combines information from an ensemble of sparse networks, among which many weights are shared.
-    Randomly dropping out weights at each step mitigates overfitting by ensuring that the neural network doesn't memorise the full training set.
+    Dropout combines information from an ensemble of 
+    sparse networks, among which many weights are shared.
+    Randomly dropping out weights at each step mitigates 
+    overfitting by ensuring that the neural network 
+    doesn't memorise the full training set.
 
 Dropout can be used to obtain sparse networks. For example, in targeted dropout [20] they use dropout to reduce the networks dependence on unimportant weights (e.g., weights with a small magnitude), which subsequently can easily be pruned away without a loss in accuracy. Other examples include sparse variational dropout [21] and Ising-dropout [22].
 
