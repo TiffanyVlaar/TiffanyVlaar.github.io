@@ -39,7 +39,7 @@ Despite this, all the papers mentioned above do share the same take-away message
 
 Pruning allows us to build a skeleton for the neural network, where the exact values of the trained parameters are less important [19].
 
-***Dropout***
+***Dropout*** <br>
 In dropout [6,7] we only use part of the network at a time. For each iteration we randomly select weights that will be temporarily ignored ("dropped out"), where each weight has probability p of getting dropped. Weights which are switched off do not contribute to the forward pass and are not updated, but can be re-activated for the next iteration. The key idea of dropout is:
 
     Dropout combines information from an ensemble of 
@@ -50,7 +50,8 @@ In dropout [6,7] we only use part of the network at a time. For each iteration w
 
 Dropout can be used to obtain sparse networks. For example, in targeted dropout [20] they use dropout to reduce the networks dependence on unimportant weights (e.g., weights with a small magnitude), which subsequently can easily be pruned away without a loss in accuracy. Other examples include sparse variational dropout [21] and Ising-dropout [22].
 
-***Knowledge Distillation***
+***Knowledge Distillation*** <br>
+The main idea of the knowledge distillation method [8,9] is to distill knowledge from a deep, dense "teacher" network to a small "student" network, while maintaining the same generalization capacity. To do so, one can utilize information which is hidden in confidence estimates 
 
 <!---Neural networks are well-known to be overparametrized, and several papers have indicated that the true number of required active weights is much smaller than the model size typically used [1, 2]. At the same time there is a huge interest in deploying neural networks in real-time on mobile devices and other resource-constrained computing environments. Sparsity in neural networks is therefore considered a desirable property as it reduces memory storage and unnecessary computational resources, and thus limits the energy consumption which otherwise would rapidly deplete the batteries of mobile devices. 
 
