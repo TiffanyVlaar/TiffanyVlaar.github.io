@@ -5,6 +5,22 @@ date:   2019-03-27
 categories: jekyll update
 ---
 
+In this post I want to talk about generalization. The question of whether or not your trained neural network generalizes to unseen (test) data forms the core of machine learning research. We are aware of many factors that influence the generalization capacity of a trained neural network, such as the size of the network, the activation functions, the initialization, the optimizer, the stopping criterion - but we are lacking a theory that connects all of them. The statistical learning theory research field [1] offers several complexity measures [2,3], but these are all incapable of explaining several features of the generalization behaviour of neural networks [4]. They are still interesting to study though, so I will first describe these and then move on to some more recent approaches.
+
+There are two sources of error in neural networks [1]:
+<ol>
+<li> Approximation Error: caused by the choice of architecture of the neural network - each architecture has a limited expressive power. </li>
+<li> Estimation Error: caused by the difference between the ideal parameters and the learned parameters, given a specific neural network architecture. </li>
+</ol>
+Estimation error can be reduced by having a larger training set (thus leading to a better parameterization of the neural network). The approximation error can be reduced by using larger networks, but if this leads to overfitting, the estimation error is increased. 
+
+There are two classic complexity measures for the chosen neural network architecture: the VC-dimension [2] and the Rademacher complexity [3].
+<ol>
+<li> VC-dimension: defined as the largest dataset size on which one can obtain zero training error. It measures the networks capacity. </li>
+<li> Rademacher complexity: measures the network's ability to fit random labels. </li>
+</ol>
+
+
 <!---
 An important performance measure of a trained neural network is to analyze its capacity to generalize to unseen (test) data. Although a neural network (NN) can perform extremely well on the provided training data, it may easily have ended up in a minimum which does not generalize well, a phenomenon which is called overfitting. Several factors appear to influence the generalization capacity of a neural network, such as the number of parameters, initialization, learning rate, stopping criterion, activation functions, and numerical method used, and no clear consensus has been reached on how these concepts interplay with one-another. We will start to immerse ourselves into this complex and rich research area by introducing some complexity measures from the statistical learning theory research field.
 
@@ -19,8 +35,9 @@ Zhang et al. [4] showed that these traditional complexity measures are incapable
 In recent years there has therefore been an active search for an appropriate complexity measure that captures the different generalization properties exhibited by neural networks, which conflict with our traditional and (for neural networks) incorrect notion that the complexity and the number of parameters are inversely proportional [5]. One line of research is on norm-based complexity measures, which was first introduced by Bartlett [6], who proposed that the size of the weights is a more useful indicator of generalization ability than the number of weights. This motivates the use of e.g., weight decay (also known as L2 regularization) as an explicit regularization technique, as this can be used to keep the weights small. Neyshabur et al. [7] proposed to combine this norm-based approach (see e.g., [8]), with the concept of expected sharpness. The notion of using the sharpness of obtained minima as a complexity measure for neural networks was most notably introduced by Keskar et al. [9] and Chaudhari et al. [10] and is determined by the eigenvalues of the Hessian matrix of the minimum. The idea is that flatter minima are more robust to small perturbations of the parameters and are therefore more generalizable. Additionally, flatter minima have lower description lengths (i.e., less precision is necessary to describe flatter minima, because moving slightly away from a flat minima doesn’t result in much error), which is favorable according to the minimum description length (MDL) principle [11, 12]. Flaws in the use of sharpness as a complexity measure were pointed out by Dinh et al. [13] and Neyshabur et al. [14], because sharpness is not a scale invariant measure. Neyshabur et al. [14] therefore propose to use the concept of "expected sharpness", which depends on the difference between the perturbed loss and the empirical loss, and combine this with the norm-based approach. However, this complexity measure is still incapable of explaining why overparameterized neural networks generalize well.
 
 An interesting line of research focuses on compression-based approaches to derive generalization bounds. Zhou et al. [15] show that models that tend to overfit are less compressible. Arora et al. [16] define the concept of noise stability, which means that when Gaussian noise is injected into a neural network, this noise has a decaying influence on subsequent layers. This can be seen as a different definition of the optimizer converging to a "flat minimum". This noise attenuation implies that the neural network can be compressed (Arora et al. [16] show that the error introduced by compressing the neural network using their algorithm is attenuated by later layers) and explains the good generalization capacity of deep nets.
+-->
 
-References <br>
+***References*** <br>
 [1] S. Shalev-Shwartz and S. Ben-David. Understanding Machine Learning: From Theory to Algorithms. Cambridge University Press, 2014.
 
 [2] V. N. Vapnik and A. Chervonenkis. The necessary and sufficient conditions for consistency of the method of empirical risk minimization. Pattern Recognition and Image Analysis, 1(3):284–305, 1991.
@@ -55,6 +72,3 @@ batch training for deep learning: Generalization gap and sharp minima. ICLR, 201
 [16] S. Arora, R. Ge, B. Neyshabur, and Y. Zhang. Stronger generalization bounds for
 deep nets via a compression approach. ICML, 2018.
 
-
-
-	-->
