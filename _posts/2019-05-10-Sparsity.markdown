@@ -41,7 +41,7 @@ In dropout [6,7] we only use part of the network at a time. For each iteration w
 
 <mark>Dropout combines information from an ensemble of sparse networks, among which many weights are shared.</mark> 
 
-<span style="background-color: blue">MRandomly dropping out weights at each step mitigates overfitting by ensuring that the neural network doesn't memorise the full training set.</span>
+<span style="background-color: lightblue">Randomly dropping out weights at each step mitigates overfitting by ensuring that the neural network doesn't memorise the full training set.</span>
 
 Dropout can be used to obtain sparse networks. For example, in targeted dropout [20] they use dropout to reduce the networks dependence on unimportant weights (e.g., weights with a small magnitude), which subsequently can easily be pruned away without a loss in accuracy. Other examples include sparse variational dropout [21] and Ising-dropout [22].
 
