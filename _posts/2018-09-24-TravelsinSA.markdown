@@ -8,7 +8,7 @@ categories: jekyll update
 Main highlight of the trip was Kruger National Park:
 
 ![Krugerpic]({{TiffanyVlaar.github.io}}/pics/Giraffe.JPG)
-![Krugerpic2]({{TiffanyVlaar.github.io}}/pics/Rhino.JPG)
+<!---![Krugerpic2]({{TiffanyVlaar.github.io}}/pics/Rhino.JPG)-->
 ![Krugerpic3]({{TiffanyVlaar.github.io}}/pics/Elephants.JPG)
 <!---![Krugerpic4]({{TiffanyVlaar.github.io}}/pics/test.JPG)-->
 
