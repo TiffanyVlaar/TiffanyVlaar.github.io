@@ -45,6 +45,7 @@ Our MCMC algorithm will then work as follows:
 <li> We accept a proposed MCMC move, i.e., a move of a node to a neighbouring district, with a Metropolis-Hastings step. If the move resulted in a map with a lower energy than the previous map, the move is more likely to be accepted. It is however important to also sometimes allow increases in energy to prevent the algorithm from getting stuck in local minima. </li>
 </ol>
 
+This idea is based on work by Jonathan Mattingly at Duke University.
 
 
 <!---And that's it! I intend to publish more blogposts on this topic in the near future - so stay tuned!-->
