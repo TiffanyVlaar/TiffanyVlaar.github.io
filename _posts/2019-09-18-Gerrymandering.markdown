@@ -6,7 +6,12 @@ categories: jekyll update
 ---
 
 <!--- Redrawn Constituency Boundaries using Sampling Methods -->
-Gerrymandering is a term originating from US politics and involves the redrawing of constituency/electoral district boundaries to the benefit of a specific political party. Rule one of gerrymandering is to maximise the amount of "wasted votes" of your opposing political party, while minimising the amount for your own party. We consider votes for your party to be wasted in constituencies where your party lost, because these votes could instead have been used to allow your party to win in neighbouring swing constituencies. Similarly, in a constituency where your party won, a significant surplus in votes for your party are also wasted votes, i.e., it doesn't matter if you won with 80% of the votes or 55% of the votes. These surplus votes could have been moved to change the election outcome in neighbouring constituencies to your party's benefit. 
+***What is gerrymandering?***
+Consider a state X where 30% of voters vote for the blue party and 70% of voters vote for the red party. You'd expect that X's elected representatives would therefore be 30% blue and 70% red. But this is not the case in X. Instead, 60% of X's representatives are blue, and 40% are red.
+
+This is because in 2010, the blue party gerrymandered X. That is to say, blue redrew X's electoral district boundaries maps to its advantage in order to minimise their "wasted" votes and maximise that of their opponents. 
+<!---Gerrymandering is a term originating from US politics and involves the redrawing of constituency/electoral district boundaries to the benefit of a specific political party. Rule one of gerrymandering is to maximise the amount of "wasted votes" of your opposing political party, while minimising the amount for your own party. -->
+We consider votes for your party to be wasted in constituencies where your party lost, because these votes could instead have been used to tip a closer election in your party's favour in a neighbouring swing constituency. Similarly, in a constituency where your party won, a significant surplus in votes for your party are also wasted votes, i.e., it doesn't matter if you won with 80% of the votes or 55% of the votes. These surplus votes would have been better spent elsewhere. 
 
 ![gerry1]({{TiffanyVlaar.github.io}}/pics/gerry1.png)
 ![gerry2]({{TiffanyVlaar.github.io}}/pics/gerry2.png)
