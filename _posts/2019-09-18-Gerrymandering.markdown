@@ -7,12 +7,12 @@ categories: jekyll update
 
 <!--- Redrawn Constituency Boundaries using Sampling Methods -->
 ***What is gerrymandering?*** <br>
-Consider a state X where 30% of voters vote for the blue party and 70% of voters vote for the red party. You'd expect that X's elected representatives would therefore be 30% blue and 70% red. But this is not the case in X. Instead, 60% of X's representatives are blue, and 40% are red.
+Consider a two-party state X where 30% of voters vote for blue and 70% of voters vote for red. You'd expect that X's elected representatives would therefore be 30% from blue and 70% from red. But this is not the case in X. Instead, 60% of X's representatives are blue, and 40% are red.
 
-This is because in 2010, the blue party gerrymandered X. That is to say, the blue party redrew X's electoral district boundaries to their advantage -- they minimised the amount of "wasted" votes for their own party and maximised that for their opponents. 
+This is because in 2010, blue gerrymandered X. That is to say, blue redrew X's electoral district boundaries to their advantage -- they minimised the amount of "wasted" votes for their own party and maximised the amount of wasted votes for their opponents. 
 <!---Gerrymandering is a term originating from US politics and involves the redrawing of constituency/electoral district boundaries to the benefit of a specific political party. Rule one of gerrymandering is to 
 	maximise the amount of "wasted votes" of your opposing political party, while minimising the amount for your own party. -->
-We consider votes for party A to be wasted in districts where your party lost, because these votes could instead have been used to tip a closer election in party's A favour in a neighbouring swing district. Similarly, in a district where A won, a significant surplus in votes for A are also wasted votes -- a district only gets one representative for state X, which will be from party A regardless of whether A received 80% of the votes or 55% of the votes in this district. These surplus votes would have been better spent elsewhere. 
+We consider votes for blue to be wasted in districts where blue lost, because these votes could instead have been used to tip a closer election in blue's favour in a neighbouring swing district. Similarly, in a district where blue won, a significant surplus in votes for blue are also wasted votes -- a district only gets one representative for state X, which will be from the winning party regardless of whether this party received 80% of the votes or 55% of the votes in this district. These surplus votes would have been better spent elsewhere. 
 
 To illustrate this, consider the pictures below.
 
@@ -28,7 +28,7 @@ In practice, the gerrymandering people will do this by identifying areas where t
 So now that we understand how gerrymandering works, how can we detect if a state has been gerrymandered? A commonly thought characteristic for gerrymandering is weirdly-shaped district boundaries (hence the name gerrymandering - originating from a shape resembling a salamander and the name of the person (Governor Elbridge Gerry) who first introduced the term [1]). Therefore, compactness of the drawn districts has often been used as a measure of fairness. However, this is neither a necessary nor sufficient condition for detecting gerrymandering [2]. Sampling methods offer a viable alternative. 
 
 ***Using MCMC to study gerrymandering*** <br>
-I will use Markov Chain Monte Carlo (MCMC) to generate a range of potential district maps. Moves consist of swaps between neighbouring blocks in different districts and are accepted/rejected with a Metropolis-Hastings step. O will define an energy function using ideas from statistical physics [3], where low-energy states will correspond to "better" district maps, because these low-energy maps will better fit a set of pre-determined characteristics (such as compactness of the map) which we want good maps to obey. Low-energy states, i.e., "good maps", are visited more frequently by our sampling algorithm. 
+I will use Markov Chain Monte Carlo (MCMC) to generate a range of potential district maps. Moves consist of swaps between neighbouring blocks in different districts and are accepted/rejected with a Metropolis-Hastings step. I will define an energy function using ideas from statistical physics [3], where low-energy states will correspond to "better" district maps, because these low-energy maps will better fit a set of pre-determined characteristics (such as compactness of the map) which we want good maps to obey. Low-energy states, i.e., "good maps", are visited more frequently by our sampling algorithm. 
 
 <!--- ![gerry1]({{TiffanyVlaar.github.io}}/pics/Gerrymander.png) -->
 <br>
