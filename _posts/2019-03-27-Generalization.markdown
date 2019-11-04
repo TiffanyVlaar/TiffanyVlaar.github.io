@@ -5,7 +5,7 @@ date:   2019-03-27
 categories: jekyll update
 ---
 
-In this post I want to talk about generalization. The question of whether or not your trained neural network generalizes to unseen (test) data forms the core of machine learning research. We are aware of many factors that influence the generalization capacity of a trained neural network, such as the size of the network, the activation functions, the initialization, the optimizer, the stopping criterion - but we are lacking a theory that connects all of them. The statistical learning theory research field [1] offers several complexity measures [2,3], but these are all incapable of explaining several features of the generalization behaviour of neural networks [4]. They are still interesting to study though, so I will first describe these and then move on to some more recent approaches.
+In this post I want to talk about generalization. The question of whether or not your trained neural network generalizes to unseen (test) data forms the core of machine learning research. We are aware of many factors that influence the generalization capacity of a trained neural network, such as the size of the network, the activation functions, the initialization, the optimizer, and the stopping criterion - but we are lacking a theory that connects all of them. The statistical learning theory research field [1] offers several complexity measures [2,3], but these are all incapable of explaining several features of the generalization behaviour of neural networks [4]. They are still interesting to study though, so I will first describe these and then move on to some more recent approaches.
 
 There are two sources of error in neural networks [1]:
 <ol>
