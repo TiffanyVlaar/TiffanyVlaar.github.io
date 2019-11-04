@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 <!--- Redrawn Constituency Boundaries using Sampling Methods -->
-***What is gerrymandering?***
+***What is gerrymandering?*** <br>
 Consider a state X where 30% of voters vote for the blue party and 70% of voters vote for the red party. You'd expect that X's elected representatives would therefore be 30% blue and 70% red. But this is not the case in X. Instead, 60% of X's representatives are blue, and 40% are red.
 
 This is because in 2010, the blue party gerrymandered X. That is to say, blue redrew X's electoral district boundaries maps to its advantage in order to minimise their "wasted" votes and maximise that of their opponents. 
