@@ -35,7 +35,9 @@ Until recently, this was thought not to be possible. The redundancy of large, de
 Claims made about the proficiency of developed methods are often disputed in subsequent papers which tested the methods on deeper networks or on different tasks, e.g., L0 regularization [11] was refuted in [16,18]. <br>
 Despite this, all the papers mentioned above do share the same take-away message, namely 
 
-<span style="color:red">some **Pruning effectively acts as an architecture search. ** text</span> 
+---
+<span style="color:red">Pruning effectively acts as an architecture search.text</span> <br>
+---
 
 Pruning allows us to build a skeleton for the neural network, where the exact values of the trained parameters are less important [19].
 
