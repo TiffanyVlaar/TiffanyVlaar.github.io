@@ -31,7 +31,7 @@ So now that we understand how gerrymandering works, how can we detect if a state
 I will use Markov Chain Monte Carlo (MCMC) to generate a range of potential district maps. Moves consist of swaps between neighbouring blocks in different districts and are accepted/rejected with a Metropolis-Hastings step. I will define an energy function using ideas from statistical physics [3], where low-energy states will correspond to "better" district maps, because these low-energy maps will better fit a set of pre-determined characteristics (such as compactness of the map) which we want good maps to obey. Low-energy states, i.e., "good maps", are visited more frequently by our sampling algorithm. 
 <!--- ![gerry1]({{TiffanyVlaar.github.io}}/pics/Gerrymander.png) -->
 
-I can now set up our district map in a statistical physics framework - using a few steps: <br>
+I can now set up our districts map in a statistical physics framework - using a few steps: <br>
 1) Consider each block to be a node in a graph structure. <br>
 2) Draw connections between neighbouring blocks/nodes, even if these neighbours are located in different districts. <br>
 3) Associate each node with the district it belongs to. For a two-district system we do this using an Ising spin model, where each node has a spin associated with it which either points up or down, depending on which district belongs to. Neighbouring nodes which have the same spin will have an interaction energy. For a multiple-district system one can use the generalized version of the Ising model, which is called the Potts model. Each district has a different 'spin' or color associated with it, and nodes assume the color/spin of the district they belong to. <br>
