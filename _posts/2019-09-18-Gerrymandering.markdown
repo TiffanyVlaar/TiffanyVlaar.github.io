@@ -9,7 +9,7 @@ categories: jekyll update
 ***What is gerrymandering?*** <br>
 Consider a two-party state X where 30% of voters vote for blue and 70% of voters vote for red. You'd expect that X's elected representatives would therefore be 30% blue and 70% red. But this is not the case in X. Instead, 60% of X's representatives are blue, and 40% are red.
 
-This is because in 2010, blue gerrymandered X. That is to say, blue redrew X's electoral district boundaries to their advantage -- they minimised the amount of "wasted" votes for their own party and maximised the amount of wasted votes for their opponents. 
+This is because in 2010, blue gerrymandered X. That is to say, blue redrew X's electoral district boundaries to their advantage - they minimised the amount of "wasted" votes for their own party and maximised the amount of wasted votes for their opponents. 
 <!---Gerrymandering is a term originating from US politics and involves the redrawing of constituency/electoral district boundaries to the benefit of a specific political party. Rule one of gerrymandering is to 
 	maximise the amount of "wasted votes" of your opposing political party, while minimising the amount for your own party. -->
 We consider votes for blue to be wasted in districts where blue lost, because these votes could instead have been used to tip a closer election in blue's favour in a neighbouring swing district. Similarly, in a district where blue won, a significant surplus in votes for blue are also wasted votes -- a district only gets one representative for state X, which will be from the winning party regardless of whether this party received 80% of the votes or 55% of the votes in this district. These surplus votes would have been better spent elsewhere. 
@@ -29,9 +29,8 @@ So now that we understand how gerrymandering works, how can we detect if a state
 
 ***Using MCMC to study gerrymandering*** <br>
 I will use Markov Chain Monte Carlo (MCMC) to generate a range of potential district maps. Moves consist of swaps between neighbouring blocks in different districts and are accepted/rejected with a Metropolis-Hastings step. I will define an energy function using ideas from statistical physics [3], where low-energy states will correspond to "better" district maps, because these low-energy maps will better fit a set of pre-determined characteristics (such as compactness of the map) which we want good maps to obey. Low-energy states, i.e., "good maps", are visited more frequently by our sampling algorithm. 
-
 <!--- ![gerry1]({{TiffanyVlaar.github.io}}/pics/Gerrymander.png) -->
-<br>
+
 I can now set up our district map in a statistical physics framework - using a few steps: <br>
 1) Consider each block to be a node in a graph structure. <br>
 2) Draw connections between neighbouring blocks/nodes, even if these neighbours are located in different districts. <br>
