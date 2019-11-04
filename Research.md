@@ -23,7 +23,7 @@ Other Research Projects:
 
 Attended Workshops and Summerschools: 
 - Invited Poster presentation at Amazon Research Days, Edinburgh, November 2019
-- Research Collaboration Visit in New York to meet Eric Vanden-Eijnden and Jonathan Weare (Courant, NYU), October 2019
+- Research Collaboration Visit in New York to meet Joan Bruna, Eric Vanden-Eijnden, Stanislaw Jastrzebski and Jonathan Weare (NYU), October 2019
 - Presentation at Alan Turing’s UK-Japan robotics and AI research collaboration workshop, September 2019
 - Gene Golub SIAM summerschool on High-Performance Data Analytics, June 2019
 - CECAM - Computational mathematics for model reduction and predictive modelling in molecular and complex systems, May 2019
