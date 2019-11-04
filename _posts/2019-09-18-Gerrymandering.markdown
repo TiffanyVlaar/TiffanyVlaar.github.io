@@ -46,9 +46,8 @@ Our MCMC algorithm will then work as follows:
 
 
 <!---And that's it! I intend to publish more blogposts on this topic in the near future - so stay tuned!-->
-
-
- [1] Griffith, E. (1907). The Rise and Development of the Gerrymander, Chicago: Scott, Foresman and Co.
+***References*** <br>
+[1] Griffith, E. (1907). The Rise and Development of the Gerrymander, Chicago: Scott, Foresman and Co.
 
 [2] Young, H. (1988). Measuring the Compactness of Legislative Districts. Legislative Studies Quarterly, 13(1), pp.105-115.
 
