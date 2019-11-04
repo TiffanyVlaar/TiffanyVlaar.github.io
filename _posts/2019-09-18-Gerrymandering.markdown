@@ -31,11 +31,13 @@ So now that we understand how gerrymandering works, how can we detect if a state
 I will use Markov Chain Monte Carlo (MCMC) to generate a range of potential district maps. Moves consist of swaps between neighbouring blocks in different districts and are accepted/rejected with a Metropolis-Hastings step. I will define an energy function using ideas from statistical physics [3], where low-energy states will correspond to "better" district maps, because these low-energy maps will better fit a set of pre-determined characteristics (such as compactness of the map) which we want good maps to obey. Low-energy states, i.e., "good maps", are visited more frequently by our sampling algorithm. 
 <!--- ![gerry1]({{TiffanyVlaar.github.io}}/pics/Gerrymander.png) -->
 
-I can now set up our district map in a statistical physics framework - using a few steps: <br>
-1) Consider each block of voters to be a node in a graph structure. <br>
-2) Draw connections between neighbouring nodes, even if these neighbours are located in different districts. <br>
-3) Associate each node with the district it belongs to. For a two-district system we do this using an Ising spin model, where each node has a spin associated with it which either points up or down, depending on which district belongs to. Neighbouring nodes which have the same spin will have an interaction energy. For a multiple-district system one can use the generalized version of the Ising model, which is called the Potts model. Each district has a different 'spin' or color associated with it, and nodes assume the color/spin of the district they belong to. <br>
-4) I define an energy function for the map, which consists of different terms that measure how well the district map obeys certain desirable criteria. Examples of such criteria would be compactness of each district and that the population of each district is about the same size. Lower energy maps better obey these criteria and are therefore desirable. 
+I can now set up our district map in a statistical physics framework - using a few steps:
+<ol>
+<li> Consider each block of voters to be a node in a graph structure. </li>
+<li> Draw connections between neighbouring nodes, even if these neighbours are located in different districts. </li>
+<li> Associate each node with the district it belongs to. For a two-district system we do this using an Ising spin model, where each node has a spin associated with it which either points up or down, depending on which district belongs to. Neighbouring nodes which have the same spin will have an interaction energy. For a multiple-district system one can use the generalized version of the Ising model, which is called the Potts model. Each district has a different 'spin' or color associated with it, and nodes assume the color/spin of the district they belong to. </li>
+<li> I define an energy function for the map, which consists of different terms that measure how well the district map obeys certain desirable criteria. Examples of such criteria would be compactness of each district and that the population of each district is about the same size. Lower energy maps better obey these criteria and are therefore desirable. </li>
+</ol>
 
 Our MCMC algorithm will then work as follows:
 <ol>
@@ -47,9 +49,9 @@ Our MCMC algorithm will then work as follows:
 
 <!---And that's it! I intend to publish more blogposts on this topic in the near future - so stay tuned!-->
 ***References*** <br>
-[1] Griffith, E. (1907). The Rise and Development of the Gerrymander, Chicago: Scott, Foresman and Co.
+[1] E. Griffith. The Rise and Development of the Gerrymander. Chicago: Scott, Foresman and Co, 1907.
 
-[2] Young, H. (1988). Measuring the Compactness of Legislative Districts. Legislative Studies Quarterly, 13(1), pp.105-115.
+[2] H. Young. Measuring the Compactness of Legislative Districts. Legislative Studies Quarterly, 13(1):105-115, 1988.
 
-[3] Chou, C. and Li, S. (2006). Taming the Gerrymander—Statistical physics approach to Political Districting Problem. Physica A: Statistical Mechanics and its Applications, 369(2), pp.799-808.
+[3] C. Chou and S. Li. Taming the Gerrymander—Statistical physics approach to Political Districting Problem. Physica A: Statistical Mechanics and its Applications, 369(2):799-808, 2006.
 
