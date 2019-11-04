@@ -17,5 +17,5 @@ We also visited the Drakensbergen national park and nearby Royal Natal National 
 ![amphitheatre]({{TiffanyVlaar.github.io}}/pics/Drakensbergen.JPG)
 
 On the western cape some hidden pearls along the Garden Route are: Hermanus, Knysna and Towerkop National Park.
-[Hermanus]({{TiffanyVlaar.github.io}}/pics/Hermanus.JPG)
+![Hermanus]({{TiffanyVlaar.github.io}}/pics/Hermanus.JPG)
 <!--- de Hel -->
