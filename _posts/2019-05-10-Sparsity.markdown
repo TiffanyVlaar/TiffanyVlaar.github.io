@@ -22,7 +22,7 @@ Lets start with the easiest method - pruning [4,5]. There are 4 steps:
 
 Pruning can result in networks with over 90% sparsity, without losing a noticeable amount of test accuracy compared to the original dense network. Pruning was originally conceived as a method to prevent overfitting and thus improve the generalization capacity of the network. In fact, pruning has indeed been found to increase accuracy in some cases [13]. At the other hand though, contrary to our intuition, large dense networks appear to generalize remarkably well (see my other blogpost on [Generalization Error]({{TiffanyVlaar.github.io}}/jekyll/update/2019/03/27/Generalization.html) for a further discussion on this topic), so why would pruning have this effect? 
 
-<span style="color:blue"> One explanation could arise from the minimum description length principle. Pruning makes the learned neural network parameters less sensitive to noise, which lowers the description length required and thus improves the generalization capacity [14].</span> 
+<span style="background-color: lightblue">   One explanation could arise from the minimum description length principle. Pruning makes the learned neural network parameters less sensitive to noise, which lowers the description length required and thus improves the generalization capacity [14].</span>
 
 A natural question would be: if sparser networks can get good generalization performance, why bother starting with a dense network and then doing the whole pruning procedure? Can't you just start off with a sparser network and train this? 
 
@@ -32,16 +32,15 @@ Until recently, this was thought not to be possible. The redundancy of large, de
 Claims made about the proficiency of developed methods are often disputed in subsequent papers which tested the methods on deeper networks or on different tasks, e.g., L0 regularization [11] was refuted in [16,18]. <br>
 Despite this, all the papers mentioned above do share the same take-away message, namely 
 
-<span style="color:red">   Pruning effectively acts as an architecture search. </span> <br>
+<!---<span style="color:red">   Pruning effectively acts as an architecture search. </span> <br>-->
+<span style="background-color: lightblue">   Pruning effectively acts as an architecture search.</span>
 
 Pruning allows us to build a skeleton for the neural network, where the exact values of the trained parameters are less important [19].
 
 ***Dropout*** <br>
 In dropout [6,7] we only use part of the network at a time. For each iteration we randomly select weights that will be temporarily ignored ("dropped out"), where each weight has probability p of getting dropped. Weights which are switched off do not contribute to the forward pass and are not updated, but can be re-activated for the next iteration. The key idea of dropout is:
 
-<mark>Dropout combines information from an ensemble of sparse networks, among which many weights are shared.</mark> 
-
-<span style="background-color: lightblue">Randomly dropping out weights at each step mitigates overfitting by ensuring that the neural network doesn't memorise the full training set.</span>
+<span style="background-color: lightblue">Dropout combines information from an ensemble of sparse networks, among which many weights are shared. Randomly dropping out weights at each step mitigates overfitting by ensuring that the neural network doesn't memorise the full training set.</span>
 
 Dropout can be used to obtain sparse networks. For example, in targeted dropout [20] they use dropout to reduce the networks dependence on unimportant weights (e.g., weights with a small magnitude), which subsequently can easily be pruned away without a loss in accuracy. Other examples include sparse variational dropout [21] and Ising-dropout [22].
 
