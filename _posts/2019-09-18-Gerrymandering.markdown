@@ -38,11 +38,14 @@ I can now set up our district map in a statistical physics framework - using a f
 4) I define an energy function for the map, which consists of different terms that measure how well the district map obeys certain desirable criteria. Examples of such criteria would be compactness of each district and that the population of each district is about the same size. Lower energy maps better obey these criteria and are therefore desirable. 
 
 Our MCMC algorithm will then work as follows:
-1) Running the MCMC algorithm will change the color/spin of nodes, which will affect the energy of the newly created district map.  <br>
-2) We accept a proposed MCMC move, i.e., a move of a node to a neighbouring district, with a Metropolis-Hastings step. If the move resulted in a map with a lower energy than the previous map, the move is more likely to be accepted. It is however important to also sometimes allow increases in energy to prevent the algorithm from getting stuck in local minima.
+<ol>
+<li> Running the MCMC algorithm will change the color/spin of nodes, which will affect the energy of the newly created district map. </li>
+<li> We accept a proposed MCMC move, i.e., a move of a node to a neighbouring district, with a Metropolis-Hastings step. If the move resulted in a map with a lower energy than the previous map, the move is more likely to be accepted. It is however important to also sometimes allow increases in energy to prevent the algorithm from getting stuck in local minima. </li>
+</ol>
 
 
-And that's it! I intend to publish more blogposts on this topic in the near future - so stay tuned!
+
+<!---And that's it! I intend to publish more blogposts on this topic in the near future - so stay tuned!-->
 
 
  [1] Griffith, E. (1907). The Rise and Development of the Gerrymander, Chicago: Scott, Foresman and Co.
