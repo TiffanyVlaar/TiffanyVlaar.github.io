@@ -36,7 +36,7 @@ I can now set up our district map in a statistical physics framework - using a f
 <li> Consider each block of voters to be a node in a graph structure. </li>
 <li> Draw connections between neighbouring nodes, even if these neighbours are located in different districts. </li>
 <li> Associate each node with the district it belongs to. For a two-district system we do this using an Ising spin model, where each node has a spin associated with it which either points up or down, depending on which district belongs to. Neighbouring nodes which have the same spin will have an interaction energy. For a multiple-district system one can use the generalized version of the Ising model, which is called the Potts model. Each district has a different 'spin' or color associated with it, and nodes assume the color/spin of the district they belong to. </li>
-<li> I define an energy function for the map, which consists of different terms that measure how well the district map obeys certain desirable criteria. Examples of such criteria would be compactness of each district and that the population of each district is about the same size. Lower energy maps better obey these criteria and are therefore desirable. </li>
+<li> I then define an energy function for the map, which consists of different terms that measure how well the district map obeys certain desirable criteria. Examples of such criteria would be compactness of each district and that the population of each district is about the same size. Lower energy maps better obey these criteria and are therefore desirable. </li>
 </ol>
 
 Our MCMC algorithm will then work as follows:
