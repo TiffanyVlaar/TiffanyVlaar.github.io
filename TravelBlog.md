@@ -8,7 +8,8 @@ permalink: /TravelBlog/
 
 ![Africapic]({{TiffanyVlaar.github.io}}/pics/test.JPG)
 
-<!--[Travels in Australia]({{TiffanyVlaar.github.io}}/jekyll/update/2018/09/05/TravelsinAustralia.html)
+Travels in Australia
+<!---[Travels in Australia]({{TiffanyVlaar.github.io}}/jekyll/update/2018/09/05/TravelsinAustralia.html)-->
 
 Wave Rock
 ![AUpic]({{TiffanyVlaar.github.io}}/pics/WaveRock.JPG)-->
