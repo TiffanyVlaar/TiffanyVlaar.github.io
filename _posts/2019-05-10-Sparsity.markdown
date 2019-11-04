@@ -22,10 +22,8 @@ Lets start with the easiest method - pruning [4,5]. There are 4 steps:
 
 Pruning can result in networks with over 90% sparsity, without losing a noticeable amount of test accuracy compared to the original dense network. Pruning was originally conceived as a method to prevent overfitting and thus improve the generalization capacity of the network. In fact, pruning has indeed been found to increase accuracy in some cases [13]. At the other hand though, contrary to our intuition, large dense networks appear to generalize remarkably well (see my other blogpost on [Generalization Error]({{TiffanyVlaar.github.io}}/jekyll/update/2019/03/27/Generalization.html) for a further discussion on this topic), so why would pruning have this effect? 
 
-    One explanation could arise from the minimum description length principle. 
-    Pruning makes the learned neural network parameters less sensitive to 
-    noise, which lowers the description length required and thus improves 
-    the generalization capacity [14].
+One explanation could arise from the minimum description length principle. Pruning makes the learned neural network parameters less sensitive to noise, which lowers the description length required and thus improves the generalization capacity [14].
+---
 
 A natural question would be: if sparser networks can get good generalization performance, why bother starting with a dense network and then doing the whole pruning procedure? Can't you just start off with a sparser network and train this? 
 
@@ -37,6 +35,7 @@ Despite this, all the papers mentioned above do share the same take-away message
 
 ---
 <span style="color:red">Pruning effectively acts as an architecture search.text</span> <br>
+
 ---
 
 Pruning allows us to build a skeleton for the neural network, where the exact values of the trained parameters are less important [19].
