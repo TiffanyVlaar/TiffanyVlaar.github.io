@@ -6,7 +6,7 @@ permalink: /research/
 
 Research Interests: Deep Learning Theory, Numerical methods for Stochastic Differential Equations (SDEs), Bayesian statistics, Sampling Methods.
 
-Papers:
+Paper:
 [Partitioned integrators for thermodynamic parameterization of neural networks](https://arxiv.org/abs/1908.11843) <br>
 Accepted as digital acceptance to NeurIPS 2019 Machine Learning and the Physical Sciences workshop!
 
