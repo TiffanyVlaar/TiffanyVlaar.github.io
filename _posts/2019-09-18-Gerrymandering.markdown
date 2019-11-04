@@ -32,7 +32,7 @@ I will use Markov Chain Monte Carlo (MCMC) to generate a range of potential dist
 <!--- ![gerry1]({{TiffanyVlaar.github.io}}/pics/Gerrymander.png) -->
 
 I can now set up our districts map in a statistical physics framework - using a few steps: <br>
-1) Consider each block to be a node in a graph structure. <br>
+1) Consider each block of voters to be a node in a graph structure. <br>
 2) Draw connections between neighbouring blocks/nodes, even if these neighbours are located in different districts. <br>
 3) Associate each node with the district it belongs to. For a two-district system we do this using an Ising spin model, where each node has a spin associated with it which either points up or down, depending on which district belongs to. Neighbouring nodes which have the same spin will have an interaction energy. For a multiple-district system one can use the generalized version of the Ising model, which is called the Potts model. Each district has a different 'spin' or color associated with it, and nodes assume the color/spin of the district they belong to. <br>
 4) I define an energy function for our map, which consists of different terms that measure how well the district map obeys certain desirable criteria. Examples of such criteria would be compactness of each district and that the population of each district is about the same size. Lower energy maps better obey these criteria and are therefore desirable. 
