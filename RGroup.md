@@ -4,7 +4,7 @@ title: Machine Learning Reading Group
 permalink: /MLReadinggroup/
 ---
 
-This spring I will organize a Machine Learning Reading Group at the University of Edinburgh. Please stay tuned for the abstract and titles of the talks. A preliminary schedule will follow soon.
+I hope to organise a Machine Learning Reading Group at the University of Edinburgh next semester. Please stay tuned for more details. <!---the abstract and titles of the talks. A preliminary schedule will follow soon.-->
 
 In 2018-2019 I organized a Machine Learning Seminar. An overview of the talks is provided below. Please feel free to contact me if you want to get in touch with any of the speakers. 
 
