@@ -5,8 +5,7 @@ date:   2020-02-04
 categories: jekyll update
 ---
 
-We started the Piscopia Initiative in November.
-I'm very excited to announce that we'll be returning to Heriot-Watt University on the 27th of February for an informal lunch and information event.
+I'm co-founder of the UK-wide Piscopia Initiative, which aims to encourage female and non-binary participation in mathematics PhD programmes. All details on our events can be found on piscopia.co.uk
 
 
 <!---[gerry1]({{TiffanyVlaar.github.io}}/pics/gerry1.png)
