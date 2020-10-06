@@ -6,6 +6,8 @@ permalink: /CV/
 
 Education:
 
+Turing Enrichment student, Alan Turing Institute, UK. 2020-2021.
+
 PhD Applied Mathematics, MIGSAA, University of Edinburgh, Supervisor: Professor Benedict Leimkuhler. Ongoing.
 
 M. Sc. Theoretical Physics, Perimeter Scholars International programme, jointly offered by the Perimeter Institute for Theoretical Physics and the University of Waterloo in Ontario, Canada. 2016
@@ -28,7 +30,8 @@ Work and Teaching Experience:
 - Assistant at Junior Science Lab, Leiden University, 2013
 
 Leadership Experience: 
-- Founding member of the [Piscopia Initiative](https://piscopiainitiative.home.blog), 2019. Secured funding from the Clinton Foundation.
+- Founding member of the UK-wide [Piscopia Initiative](https://piscopiainitiative.home.blog), 2019-2021. Aim is to increase female and non-binary participation in mathematical research. 
+- Co-organiser of first UK-wide virtual Mathematics of Data Science (MathODS) graduate student conference, 2020.
 - Vice President SIAM Student Chapter University of Edinburgh, 2018-2020
 - Machine Learning Reading Group Organizer, University of Edinburgh, 2018
 - Member of Mathematics Outreach Team, University of Edinburgh, 2018
@@ -40,5 +43,6 @@ Software:
  MATLAB, Python, PyTorch, C++, TensorFlow
 
 Publications:
-- Leimkuhler, B., Matthews, C., and Vlaar, T.J., "Partitioned integrators for thermodynamic parameterization of neural networks" (2019). ArXiv preprint: [1908.11843](https://arxiv.org/abs/1908.11843)
+- Leimkuhler, B., Pouchon, T., Vlaar, T., and Storkey, A., "Constraint-Based Regularization of Neural Networks" (2020). ArXiv preprint: [2006.10114](https://arxiv.org/abs/2006.10114)
+- Leimkuhler, B., Matthews, C., and Vlaar, T.J., "Partitioned integrators for thermodynamic parameterization of neural networks", Foundations of Data Science 1 (4) , 457-489 (2019). Accepted as a digital acceptance to NeurIPS 2019 Machine Learning and the Physical Sciences workshop. Available [1908.11843](https://arxiv.org/abs/1908.11843)
 - Chojnacki, L., Cook, C.Q., Dalidovich, D., Hayward Sierens, L.E., Lantagne-Hurtubise, É., Melko, R.G., and Vlaar, T.J., “Shape dependence of two-cylinder Rényi entropies for free bosons on a lattice”, Physical Review B 94, 165136 (2016). Available: [1607.05311](https://arxiv.org/abs/1607.05311). 
