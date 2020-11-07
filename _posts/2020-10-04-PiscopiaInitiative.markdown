@@ -11,11 +11,11 @@ categories: jekyll update
 ***How do we do this?*** <br>
 We offer both UK-wide and university-specific events at 11 UK universities through our
 local Piscopia committees. These are all aimed at women and non-binary undergraduate/
-MSc students in mathematics and related disciplines, and have a number of aims. 
-Firstly, they raise awareness for the PhD opIon among our target group and increase the
+MSc students in mathematics and related disciplines, and have a number of aims.  <br>
+Firstly, they ***raise awareness*** for the PhD option among our target group and increase the
 attendees’ knowledge about doing a PhD and the application process. Further to this,
-they highlight women and non-binary role models. Finally, the events provide attendees
-with a support network and platform where they can ask questions in the future by
+they ***highlight women and non-binary role models***. Finally, the events provide attendees
+with a ***support network and platform*** where they can ask questions in the future by
 connecting them with their peers, women & non-binary researchers at their university, and
 the UK-wide Piscopia community.
 
