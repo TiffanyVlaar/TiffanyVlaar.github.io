@@ -9,8 +9,7 @@ categories: jekyll update
 6% of them go on to be professors [LMS report, 2013].*** I co-founded the Piscopia Initiative [(piscopia.co.uk)](https://piscopia.co.uk) to tackle this. We aim to encourage women and non-binary students to pursue a PhD in Mathematics. 
 
 ***How do we do this?*** <br>
-We offer both UK-wide and university-specific events at 11 UK universities through our
-local Piscopia committees. These are all aimed at women and non-binary undergraduate/
+We offer both UK-wide and university-specific events at [11 UK universities through our local Piscopia committees](https://piscopia.co.uk/the-piscopia-society/). These are all aimed at women and non-binary undergraduate/
 MSc students in mathematics and related disciplines, and have a number of aims.  <br>
 Firstly, they ***raise awareness*** for the PhD option among our target group and increase the
 attendees’ knowledge about doing a PhD and the application process. Further to this,
@@ -22,7 +21,7 @@ the UK-wide Piscopia community.
 Our events consist of: <br>
 • [PiWORKS monthly seminar series](https://piscopia.co.uk/piworks-seminar-series/) featuring women and non-binary mathematics researchers from UK universities working in diverse research areas. <br>
 • [PiDOORS](https://piscopia.co.uk/pidoors) an afternoon of talks by women who have a PhD in mathematics and who are currently working in industry. <br>
-• [Annual PiFORUM conference](https://piscopia.co.uk/welcome-to-piforum), consisting of talks by women and non-binary researchers, talks on PhD life, guidance on PhD applications, mock interviews for the attendees,
+• [Annual PiFORUM conference](https://piscopia.co.uk/welcome-to-piforum/), consisting of talks by women and non-binary researchers, talks on PhD life, guidance on PhD applications, mock interviews for the attendees,
 and plenty of time for questions and networking. <br>
 • Piscopia Society events at 11 different UK universities, held by local
 committees consisting of both PhD students and active student members, who
