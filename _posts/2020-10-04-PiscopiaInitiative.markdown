@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 ***Despite the fact that 40% of UK graduates in the mathematical sciences are female, only
-6% of them go on to be professors [LMS report, 2013].*** I co-founded the Piscopia Initiative [(piscopia.co.uk)](https://piscopia.co.uk) to tackle this. We aim to encourage women and non-binary students to pursue a PhD in Mathematics. 
+6% of them go on to be professors*** [LMS report, 2013]. I co-founded the Piscopia Initiative [(piscopia.co.uk)](https://piscopia.co.uk) to tackle this. We aim to encourage women and non-binary students to pursue a PhD in Mathematics. 
 
 ***How do we do this?*** <br>
 We offer both UK-wide and university-specific events at [11 UK universities through our local Piscopia committees](https://piscopia.co.uk/the-piscopia-society/). These are all aimed at women and non-binary undergraduate/
