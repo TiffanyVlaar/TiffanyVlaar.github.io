@@ -20,7 +20,7 @@ connecting them with their peers, women & non-binary researchers at their univer
 the UK-wide Piscopia community.
 
 Our events consist of: <br>
-• [PiWORKS monthly seminar series](https://piscopia.co.uk/piworks-seminarseries/) featuring women and non-binary mathematics researchers from UK universities working in diverse research areas. <br>
+• [PiWORKS monthly seminar series](https://piscopia.co.uk/piworks-seminar-series/) featuring women and non-binary mathematics researchers from UK universities working in diverse research areas. <br>
 • [PiDOORS](https://piscopia.co.uk/pidoors) an afternoon of talks by women who have a PhD in mathematics and who are currently working in industry. <br>
 • [Annual PiFORUM conference](piscopia.co.uk/welcome-to-piforum), consisting of talks by women and non-binary researchers, talks on PhD life, guidance on PhD applications, mock interviews for the attendees,
 and plenty of time for questions and networking. <br>
