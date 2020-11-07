@@ -29,6 +29,7 @@ Attended Workshops and Summerschools:
 - Poster at Foundations of Computational Mathematics, 2020. Cancelled due to pandemic.
 - Research Collaboration Visit to visit Gabriel Stoltz (CERMICS, Ecole des Ponts ParisTech), March 2020. Cancelled due to pandemic.
 - Molecular Simulation and Machine Learning conference, Temple University, Rome, January 2020.
+- Sampling algorithms on manifolds workshop, Isaac Newton Institute, Cambridge, November 2019.
 - Invited Poster presentation at Amazon Research Days, Edinburgh, November 2019.
 - Research Collaboration Visit at Courant Institute, NYU to meet Joan Bruna, Eric Vanden-Eijnden, Stanislaw Jastrzebski, Jonathan Weare, and John Chodera, October 2019.
 - Presentation at Alan Turing’s UK-Japan robotics and AI research collaboration workshop, September 2019.
