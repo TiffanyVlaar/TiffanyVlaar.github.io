@@ -39,7 +39,7 @@ B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013.
 - Commission work at Study Association “De Leidsche Flesch”, 2011
 
 ***Software:***
- MATLAB, Python, PyTorch, C++, TensorFlow
+ MATLAB, Python, PyTorch, C++.
 
 ***Publications:***
 - Leimkuhler, B., Pouchon, T., Vlaar, T., and Storkey, A., "Constraint-Based Regularization of Neural Networks" (2020). ***Accepted as spotlight presentation for NeurIPS 2020 Optimization for ML workshop.*** ArXiv preprint: [2006.10114](https://arxiv.org/abs/2006.10114)
