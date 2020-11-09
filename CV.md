@@ -19,8 +19,8 @@ B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013.
 
 ***Work and Teaching Experience:***
 - Co-Supervisor final year BSc project, 2019-2020
-- Reviewer for the NeurIPS 2020 "Machine Learning and the Physical Sciences" and "ML Retrospectives, Surveys and Meta-Analyses" workshops, 2020
-- Tutor, University of Edinburgh, 2018-2020. Courses: Computing and Numerics (Python), Probability with Applications, Several Variable Calculus and Differential Equations, Probability
+- Reviewer for the NeurIPS "Machine Learning and the Physical Sciences" and "ML Retrospectives, Surveys and Meta-Analyses" workshops, 2020
+- Tutor, University of Edinburgh, courses: Computing and Numerics (Python), Probability with Applications, Several Variable Calculus and Differential Equations, Probability, 2018-2020
 - Research Intern at Schlumberger Gould Research (Cambridge, UK), 2015
 - Tutor, Leiden University, 2012-2014: Tutoring covered all courses of the 1st year Physics BSc
 - Assistant at Junior Science Lab, Leiden University, 2013
