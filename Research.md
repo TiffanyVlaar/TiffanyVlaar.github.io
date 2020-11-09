@@ -7,8 +7,12 @@ permalink: /research/
 Research Interests: Molecular Dynamics, Deep Learning Theory, Numerical methods for Stochastic Differential Equations (SDEs), Bayesian statistics, Sampling Methods.
 
 Papers: <br>
-[Constraint-based Regularization of Neural Networks](https://arxiv.org/abs/2006.10114). Accepted as spotlight presentation for NeurIPS 2020 Optimization for ML workshop.<br>
-[Partitioned Integrators for Thermodynamic Parameterization of Neural Networks](https://arxiv.org/abs/1908.11843), Foundations of Data Science 1 (4) , 457-489 (2019). Accepted as digital acceptance to NeurIPS 2019 Machine Learning and the Physical Sciences workshop.
+[Constraint-based Regularization of Neural Networks](https://arxiv.org/abs/2006.10114). Accepted as spotlight presentation for NeurIPS 2020 Optimization for ML workshop. <br>
+In this paper we use constrained stochastic differential equations to train deep neural networks. We provide a general framework with accompanying discretization schemes and a statistical guarantee on the convergence of the
+training. This general framework enables the implementation of powerful new constraints, such as orthogonality of the weight matrix. 
+
+[Partitioned Integrators for Thermodynamic Parameterization of Neural Networks](https://arxiv.org/abs/1908.11843), Foundations of Data Science 1 (4) , 457-489 (2019). Accepted as digital acceptance to NeurIPS 2019 Machine Learning and the Physical Sciences workshop. <br>
+This thermodynamic parameterization technique for neural network training allows for enhanced exploration of problems with complicated loss landscapes, which are thought to arise in molecular dynamics applications
 
 <!---Check out my new blogpost about the paper [here]({{TiffanyVlaar.github.io}}/jekyll/update/2019/08/31/NewPaper.html)-->
 
