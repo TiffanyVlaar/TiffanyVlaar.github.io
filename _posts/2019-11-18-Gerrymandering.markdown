@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gerrymandering - Study Fairness of Political Redistricting using MCMC"
-date:   2019-09-18 
+date:   2019-11-18 
 categories: jekyll update
 ---
 
