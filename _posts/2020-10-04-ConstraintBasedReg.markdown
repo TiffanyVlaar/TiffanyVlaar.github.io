@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Constraint-Based Regularization of Neural Networks"
-date:   2020-07-10 01:42:09 +0100
+date:   2020-10-04 01:42:09 +0100
 categories: jekyll update
 ---
 
