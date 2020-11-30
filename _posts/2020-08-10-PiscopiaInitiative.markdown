@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Piscopia Initiative"
-date:   2020-07-10 
+date:   2020-08-10 
 categories: jekyll update
 ---
 
