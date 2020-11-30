@@ -16,4 +16,7 @@ weights and/or to limit the growth of gradients in deep NNs. For this purpose we
 As far as we are aware, we are the first to consider constrained SDEs for neural network training. We provide a general framework with accompanying discretization schemes that allows for user-defined constraints. In this framework, we provide a statistical guarantee on the convergence of the training. We also provide detailed implementation schemes for two specific constraints and testing to show that the approach stands up to scrutiny. Code to complement the paper will be released soon!
 
 You can find a preprint on [arXiv 2006.10114](https://arxiv.org/abs/2006.10114)
+and my video presentation for the work on [YouTube](https://youtu.be/5xhvuNPmCj4)
+
+This work was accepted as a spotlight presentation for the NeurIPS 2020 Optimization for Machine Learning workshop.
 
