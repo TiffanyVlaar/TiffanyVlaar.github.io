@@ -18,7 +18,7 @@ As far as we are aware, we are the first to consider constrained SDEs for neural
 You can find a preprint on [arXiv 2006.10114](https://arxiv.org/abs/2006.10114)
 and my video presentation for the work on [YouTube](https://youtu.be/5xhvuNPmCj4)
 
-This work was accepted as a spotlight presentation for the NeurIPS 2020 Optimization for Machine Learning workshop and received the best student paper award.
+This work was accepted as a spotlight presentation for the NeurIPS 2020 Optimization for Machine Learning workshop and I received the best student paper award.
 
 
 
