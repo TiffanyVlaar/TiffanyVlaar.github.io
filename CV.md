@@ -26,7 +26,7 @@ B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013.
 - Assistant at Junior Science Lab, Leiden University, 2013
 
 ***Leadership Experience:***
-- Founding member and current co-lead of the UK-wide [Piscopia Initiative]({{TiffanyVlaar.github.io}}/jekyll/update/2020/10/04/PiscopiaInitiative.html), 2019-2021. Aim is to increase female and non-binary participation in mathematical research. 
+- Founding member and current co-lead of the UK-wide [Piscopia Initiative]({{TiffanyVlaar.github.io}}/jekyll/update/2020/09/10/PiscopiaInitiative.html), 2019-2021. Aim is to increase female and non-binary participation in mathematical research. 
 - Co-organiser of first UK-wide virtual Mathematics of Data Science (MathODS) graduate student conference, 2020.
 - Vice President SIAM and IMA Student Chapter University of Edinburgh, 2018-2020
 - Machine Learning Reading Group Organizer, University of Edinburgh, 2018
