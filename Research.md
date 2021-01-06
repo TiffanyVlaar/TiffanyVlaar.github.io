@@ -7,7 +7,7 @@ permalink: /research/
 Research Interests: Molecular Dynamics, Deep Learning Theory, Numerical methods for Stochastic Differential Equations (SDEs), Bayesian statistics, Sampling Methods.
 
 Papers: <br>
-[Constraint-based Regularization of Neural Networks]({{TiffanyVlaar.github.io}}/jekyll/update/2020/07/10/ConstraintBasedReg). *Accepted as spotlight presentation for NeurIPS 2020 Optimization for ML workshop.* <br>
+[Constraint-based Regularization of Neural Networks]({{TiffanyVlaar.github.io}}/jekyll/update/2020/07/10/ConstraintBasedReg). *Accepted as spotlight presentation for NeurIPS 2020 Optimization for ML workshop and received best student paper award.* <br>
 In this paper we use constrained stochastic differential equations to train deep neural networks. We provide a general framework with accompanying discretization schemes and a statistical guarantee on the convergence of the
 training. This general framework enables the implementation of powerful new constraints, such as orthogonality of the weight matrix. 
 

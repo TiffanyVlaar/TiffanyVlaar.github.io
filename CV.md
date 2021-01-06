@@ -39,6 +39,6 @@ B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013.
  MATLAB, Python, PyTorch, C++.
 
 ***Publications:***
-- Leimkuhler, B., Pouchon, T., Vlaar, T., and Storkey, A., "Constraint-Based Regularization of Neural Networks" (2020). ***Accepted as spotlight presentation for NeurIPS 2020 Optimization for ML workshop.*** ArXiv preprint: [2006.10114](https://arxiv.org/abs/2006.10114)
+- Leimkuhler, B., Pouchon, T., Vlaar, T., and Storkey, A., "Constraint-Based Regularization of Neural Networks" (2020). ***Accepted as spotlight presentation for NeurIPS 2020 Optimization for ML workshop and received best student paper award.*** ArXiv preprint: [2006.10114](https://arxiv.org/abs/2006.10114)
 - Leimkuhler, B., Matthews, C., and Vlaar, T.J., "Partitioned integrators for thermodynamic parameterization of neural networks", Foundations of Data Science 1 (4) , 457-489 (2019). Accepted as a digital acceptance to NeurIPS 2019 Machine Learning and the Physical Sciences workshop. Available [1908.11843](https://arxiv.org/abs/1908.11843)
 - Chojnacki, L., Cook, C.Q., Dalidovich, D., Hayward Sierens, L.E., Lantagne-Hurtubise, É., Melko, R.G., and Vlaar, T.J., “Shape dependence of two-cylinder Rényi entropies for free bosons on a lattice”, Physical Review B 94, 165136 (2016). Available: [1607.05311](https://arxiv.org/abs/1607.05311). 
