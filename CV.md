@@ -5,9 +5,9 @@ permalink: /CV/
 ---
 
 ***Education:*** <br>
-Turing Enrichment student, Alan Turing Institute, UK. 2020-2021 [cancelled due to covid pandemic].
-
 PhD Applied Mathematics, MIGSAA, University of Edinburgh, Supervisor: Professor Benedict Leimkuhler. Ongoing.
+
+Turing Enrichment student, Alan Turing Institute, UK. 2020-2021 [cancelled due to covid pandemic].
 
 M. Sc. Theoretical Physics, Perimeter Scholars International programme, jointly offered by the Perimeter Institute for Theoretical Physics and the University of Waterloo in Ontario, Canada. 2016
 
@@ -18,6 +18,7 @@ B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013.
 
 
 ***Work and Teaching Experience:***
+- Reviewer for ICML, 2021. 
 - Co-Supervisor final year BSc project, 2019-2020
 - Reviewer for the NeurIPS "Machine Learning and the Physical Sciences" and "ML Retrospectives, Surveys and Meta-Analyses" workshops, 2020
 - Tutor, University of Edinburgh, courses: Computing and Numerics (Python), Probability with Applications, Several Variable Calculus and Differential Equations, Probability, 2018-2020
@@ -27,6 +28,7 @@ B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013.
 
 ***Leadership Experience:***
 - Founding member and current co-lead of the UK-wide [Piscopia Initiative]({{TiffanyVlaar.github.io}}/jekyll/update/2020/09/10/PiscopiaInitiative.html), 2019-2021. Aim is to increase female and non-binary participation in mathematical research. 
+- Committee member of the IMA, Early Careers Mathematicians Committee, 2021.
 - Co-organiser of first UK-wide virtual Mathematics of Data Science (MathODS) graduate student conference, 2020.
 - Vice President SIAM and IMA Student Chapter University of Edinburgh, 2018-2020
 - Machine Learning Reading Group Organizer, University of Edinburgh, 2018
