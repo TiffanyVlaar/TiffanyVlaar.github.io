@@ -7,14 +7,14 @@ permalink: /research/
 Research Interests: Mathematics for Deep Learning, Sampling Methods, Molecular Dynamics, Deep Learning Theory, Numerical methods for Stochastic Differential Equations (SDEs), Bayesian Deep Learning, and Physics-informed Machine Learning.
 
 Papers: <br>
-Multirate Training of Neural Networks, *preprint arXiv:2106.10771*, 2021.
+[Multirate Training of Neural Networks [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/06/02/Multirate), *preprint arXiv:2106.10771*, 2021.
 
-What can linear interpolation of neural network loss landscapes tell us?, *preprint arXiv:2106.16004*, 2021.
+[What can linear interpolation of neural network loss landscapes tell us? [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/07/06/LinearInterpolation), *preprint arXiv:2106.16004*, 2021.
 
-[Better Training using Weight-Constrained Stochastic Dynamics [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2020/10/04/ConstraintBasedReg). *ICML 2021*. 
+[Better Training using Weight-Constrained Stochastic Dynamics [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2020/10/04/ConstraintBasedReg), *ICML 2021*. <br>
 In this paper we use constrained stochastic differential equations to train deep neural networks. We provide a general framework with accompanying discretization schemes and a statistical guarantee on the convergence of the
 training. This general framework enables the implementation of powerful new constraints, such as orthogonality of the weight matrix. <br>
-Related workshop paper [Constraint-based Regularization of Neural Networks](https://arxiv.org/abs/2006.10114) was accepted as spotlight presentation for NeurIPS 2020 Optimization for ML workshop and received the best student paper award.* Presentation: [YouTube](https://youtu.be/5xhvuNPmCj4) <br>
+Related workshop paper [Constraint-based Regularization of Neural Networks](https://arxiv.org/abs/2006.10114) *was accepted as spotlight presentation for NeurIPS 2020 Optimization for ML workshop and received the best student paper award.* Presentation: [YouTube link](https://youtu.be/5xhvuNPmCj4) <br>
 
 [Partitioned Integrators for Thermodynamic Parameterization of Neural Networks]({{TiffanyVlaar.github.io}}/jekyll/update/2019/08/31/NewPaper.html)*, Foundations of Data Science 1 (4) , 457-489 (2019). Accepted as digital acceptance to NeurIPS 2019 Machine Learning and the Physical Sciences workshop.* <br>
 This thermodynamic parameterization technique for neural network training allows for enhanced exploration of problems with complicated loss landscapes, which are thought to arise in molecular dynamics applications.
