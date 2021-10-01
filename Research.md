@@ -7,9 +7,9 @@ permalink: /research/
 Research Interests: Mathematics for Deep Learning, Sampling Methods, Molecular Dynamics, Deep Learning Theory, Numerical methods for Stochastic Differential Equations (SDEs), Bayesian Deep Learning, and Physics-informed Machine Learning.
 
 Papers: <br>
-[Multirate Training of Neural Networks [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/06/02/Multirate), *preprint arXiv:2106.10771*, 2021.
+[Multirate Training of Neural Networks [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/07/06/Multirate), *preprint arXiv:2106.10771*, 2021.
 
-[What can linear interpolation of neural network loss landscapes tell us? [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/07/06/LinearInterpolation), *preprint arXiv:2106.16004*, 2021.
+[What can linear interpolation of neural network loss landscapes tell us? [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/06/02/LinearInterpolation), *preprint arXiv:2106.16004*, 2021.
 
 [Better Training using Weight-Constrained Stochastic Dynamics [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2020/10/04/ConstraintBasedReg), *ICML 2021*. <br>
 In this paper we use constrained stochastic differential equations to train deep neural networks. We provide a general framework with accompanying discretization schemes and a statistical guarantee on the convergence of the
