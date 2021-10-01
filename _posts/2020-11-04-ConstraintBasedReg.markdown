@@ -17,6 +17,7 @@ As far as we are aware, we are the first to consider constrained SDEs for neural
 
 This work was accepted for ICML 2021. <br>
 [arXiv link:2106.10704](https://arxiv.org/abs/2106.10704)
+This paper is joint work with Ben Leimkuhler, Timothee Pouchon, and Amos Storkey.
 <!---and my video presentation for the work on [YouTube](https://youtu.be/5xhvuNPmCj4)-->
 
 A related workshop paper on Constraint-based Regularization of Neural Networks [arXiv 2006.10114](https://arxiv.org/abs/2006.10114) received best student paper award for the NeurIPS 2020 Optimization for Machine Learning workshop.
