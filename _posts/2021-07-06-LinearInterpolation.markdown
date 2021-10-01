@@ -18,7 +18,6 @@ Further, we introduce several novel modes of analysis, including the use of line
 </ol>
 
 This paper is joint work with Jonathan Frankle.
-
 [arXiv preprint:2106.16004](https://arxiv.org/abs/2106.16004)
 
 
