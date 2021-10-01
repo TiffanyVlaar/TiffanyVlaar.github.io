@@ -2,7 +2,6 @@
 layout: post
 title:  "Guano Industry in South America"
 date:   2019-01-11 01:42:09 +0100
-categories: jekyll update
 ---
 
 There was a time when Peru dominated the world market with their export of guano - seabird excrement - which turned out to be one of the best natural fertilizers in the world. A combination of the hot, dry climate and the massive amount of seabirds on rocky islands off Peru's coast led to the golden guano era for Peru in the 1840-1870s. <!---Despite making for a nice anecdote, the guano industry in South America is fascinating from a political and historical viewpoint. -->
