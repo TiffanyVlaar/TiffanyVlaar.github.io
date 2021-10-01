@@ -5,6 +5,7 @@ date:   2021-07-06 05:42:09 +0100
 categories: jekyll update
 ---
 
+This paper is joint work with Jonathan Frankle.
 
 [arXiv preprint:2106.16004](https://arxiv.org/abs/2106.16004)
 

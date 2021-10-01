@@ -5,6 +5,7 @@ date:   2021-06-02 01:42:09 +0100
 categories: jekyll update
 ---
 
+This paper is joint work with my supervisor Ben Leimkuhler. 
 
 [arXiv preprint:2106.10771](https://arxiv.org/abs/2106.10771)
 
