@@ -29,7 +29,7 @@ optimization problems. ICLR, 2015. <br>
 [3] S. Fort and S. Jastrzebski. Large scale structure of neural network loss landscapes. ICML, 2019. <br>
 [4] Y. Hao, L. Dong, F. Wei, and K. Xu. Visualizing and understanding the effectiveness of BERT. 
 EMNLP, 2019. <br>
-[5] S. Jastrze ̧bski, Z. Kenton, D. Arpit, N. Ballas, A. Fischer, Y. Bengio, and A. Storkey. Three factors influencing minima in SGD. ICANN, 2018. <br>
+[5] S. Jastrzebski, Z. Kenton, D. Arpit, N. Ballas, A. Fischer, Y. Bengio, and A. Storkey. Three factors influencing minima in SGD. ICANN, 2018. <br>
 [6] B. Neyshabur, H. Sedghi, and C. Zhang. What is being transferred in transfer learning? NeurIPS, 2020. <br>
 [7] C. Li, H. Farkhoor, R. Liu, and J. Yosinski. Measuring the intrinsic dimension of objective
 landscapes. ICLR, 2018. <br>
