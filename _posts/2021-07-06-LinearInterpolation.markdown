@@ -9,15 +9,14 @@ Neural network loss landscapes are notoriously difficult to visualize. A common 
 
 An absence of obstacles along the linear path is frequently cited as an indication that "tasks are relatively easy to optimize" [1], where "the walk could just as well have taken a straight line without encountering any obstacles" [7]. 
 
-In this paper we put to the test whether using the popular 1D linear interpolation technique relates to success of optimization. We conclude that the shape of the linear path is in fact not a reliable indicator of test accuracy.
-
-Further, we introduce several novel modes of analysis, including the use of linear interpolation to study the role played by individual layers and substructures of the network. We find that:
+In this paper we put to the test whether using the popular 1D linear interpolation technique actually relates to success of optimization. Further, we introduce several novel modes of analysis, including the use of linear interpolation to study the role played by individual layers and substructures of the network. We find that:
 <ol>
-<li> The shape of the linear path of different layers can actively inform optimization procedures by using different optimizer hyperparameter choices for layers that do not exhibit barriers. </li>
+<li> The shape of the linear path is in fact not a reliable indicator of test accuracy. </li>
+<li> Custom per-layer optimization schemes can be obtained by studying the shape of the linear path of different layers. </li>
  <li> Layers have different levels of sensitivity to the choice of initialization. We introduce the concept of partial pre-training, where we initialize some layers to a trained (on CIFAR-10) or pre-trained (on ImageNet) state, while using random initialization for others. Doing so surprisingly leads to worsened test accuracy and (uncorrelated) effects on the shape of the linear path. </li>
 </ol>
 
-This paper is joint work with Jonathan Frankle.
+This paper is joint work with Jonathan Frankle (MIT).
 [arXiv preprint:2106.16004](https://arxiv.org/abs/2106.16004)
 
 
