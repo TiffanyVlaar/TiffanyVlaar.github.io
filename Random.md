@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Random
+title: (Random)
 permalink: /Random/
 ---
 
