@@ -9,6 +9,7 @@ In this work we propose multirate training of neural networks: partitioning neur
 
 <!---***Latent multiple time scales in deep learning *** <br>-->
 
+
 This paper is joint work with Ben Leimkuhler. <br>
 [arXiv preprint:2106.10771](https://arxiv.org/abs/2106.10771)
 
