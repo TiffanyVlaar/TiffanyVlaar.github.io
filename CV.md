@@ -5,7 +5,7 @@ permalink: /CV/
 ---
 
 ***Education:*** <br>
-PhD Applied Mathematics, MIGSAA, University of Edinburgh, Supervisor: Professor Benedict Leimkuhler. Ongoing. Expected: February 2022.
+PhD Mathematics, MIGSAA, University of Edinburgh, Supervisor: Professor Benedict Leimkuhler. Ongoing. Expected: February 2022.
 
 Turing Enrichment student, Alan Turing Institute, UK. 2020-2021.
 
@@ -39,7 +39,7 @@ B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013.
 - MIGSAA Student Representative for Scottish Mathematical Sciences Training Centre, 2017
 
 ***Software:***
- MATLAB, Python, PyTorch.
+Python, PyTorch, MATLAB.
 
 ***Publications:***
 - Vlaar, T. and B. Leimkuhler, "Multirate Training of Neural Networks", preprint [arXiv:2106.10771](https://arxiv.org/abs/2106.10771), 2021.
