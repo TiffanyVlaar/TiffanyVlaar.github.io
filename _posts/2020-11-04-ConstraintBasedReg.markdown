@@ -13,11 +13,12 @@ of vanishing/exploding gradients. Constraints can be used to control the magnitu
 weights and/or to limit the growth of gradients in deep NNs. For this purpose we propose two specific constraints, namely circle and orthogonality constraints, in our paper.  
 
 ***What are our contributions?*** <br> 
-As far as we are aware, we are the first to consider constrained SDEs for neural network training. We provide a general framework with accompanying discretization schemes that allows for user-defined constraints. In this framework, we provide a statistical guarantee on the convergence of the training. We also provide detailed implementation schemes for two specific constraints and testing to show that the approach stands up to scrutiny. Code to complement the paper will be released soon!
+As far as we are aware, we are the first to consider constrained SDEs for neural network training. We provide a general framework with accompanying discretization schemes that allows for user-defined constraints. In this framework, we provide a statistical guarantee on the convergence of the training. We also provide detailed implementation schemes for two specific constraints and testing to show that the approach stands up to scrutiny. 
 
 This work was accepted for ICML 2021. <br>
 This paper is joint work with Ben Leimkuhler, Timothee Pouchon, and Amos Storkey. <br>
-Link to arXiv version: [arXiv:2106.10704](https://arxiv.org/abs/2106.10704).
+Link to arXiv version: [arXiv:2106.10704](https://arxiv.org/abs/2106.10704). <br>
+Code: [https://github.com/ TiffanyVlaar/ConstrainedNNtraining](https://github.com/ TiffanyVlaar/ConstrainedNNtraining)
 <!---and my video presentation for the work on [YouTube](https://youtu.be/5xhvuNPmCj4)-->
 
 A related workshop paper on Constraint-based Regularization of Neural Networks ([arXiv 2006.10114](https://arxiv.org/abs/2006.10114)) received best student paper award for the NeurIPS 2020 Optimization for Machine Learning workshop.
