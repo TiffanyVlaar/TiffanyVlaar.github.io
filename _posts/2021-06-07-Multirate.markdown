@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Multirate Training of Neural Networks"
-date:   2021-07-06 01:42:09 +0100
+date:   2021-06-07 01:42:09 +0100
 categories: jekyll update
 ---
 
