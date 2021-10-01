@@ -12,7 +12,7 @@ Further, we use a multirate method (that partitions the network into "fast" and 
 <!---: partitioning neural network parameters into "fast" and "slow" parts which are trained simultaneously using different learning rates.-->
 <!---***Latent multiple time scales in deep learning *** <br>-->
 
-<img src="/pics/transfermultirate.png" width="500"/>
+<img src="/pics/transfermultirate.png" width="800"/>
 
 This paper is joint work with Ben Leimkuhler. <br>
 [arXiv preprint:2106.10771](https://arxiv.org/abs/2106.10771)
