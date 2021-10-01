@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Travel Blog
-permalink: /TravelBlog/
+title: Random
+permalink: /Random/
 ---
 
-[Travels in South Africa]({{TiffanyVlaar.github.io}}/jekyll/update/2018/09/24/TravelsinSA.html)
+[Guano Industry in South America]({{TiffanyVlaar.github.io}}/guano/2019-01-11-GuanoIndustryinSouthAmerica.html)
+<!---[Travels in South Africa]({{TiffanyVlaar.github.io}}/jekyll/update/2018/09/24/TravelsinSA.html)-->
 
+South african zebra (10/10 can recommend)
 ![Africapic]({{TiffanyVlaar.github.io}}/pics/test.JPG)
 
-Travels in Australia
+<!---Travels in Australia-->
 <!---[Travels in Australia]({{TiffanyVlaar.github.io}}/jekyll/update/2018/09/05/TravelsinAustralia.html)-->
 
 Wave Rock
