@@ -31,6 +31,6 @@ EMNLP, 2019. <br>
 [6] B. Neyshabur, H. Sedghi, and C. Zhang. What is being transferred in transfer learning? NeurIPS, 2020. <br>
 [7] C. Li, H. Farkhoor, R. Liu, and J. Yosinski. Measuring the intrinsic dimension of objective
 landscapes. ICLR, 2018. <br>
-[8] S. McCandlish, J. Kaplan, D. Amodei, and OpenAI Dota Team. An empirical model of large-batch training. arXiv:1812.06162, 2018.
+<!---[8] S. McCandlish, J. Kaplan, D. Amodei, and OpenAI Dota Team. An empirical model of large-batch training. arXiv:1812.06162, 2018.-->
 
 
