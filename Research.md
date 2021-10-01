@@ -4,9 +4,13 @@ title: Research
 permalink: /research/
 ---
 
-Research Interests: Molecular Dynamics, Deep Learning Theory, Numerical methods for Stochastic Differential Equations (SDEs), Bayesian statistics, Sampling Methods.
+Research Interests: Mathematics for Deep Learning, Sampling Methods, Molecular Dynamics, Deep Learning Theory, Numerical methods for Stochastic Differential Equations (SDEs), Bayesian Deep Learning, and Physics-informed Machine Learning.
 
 Papers: <br>
+Multirate Training of Neural Networks, preprint: arXiv:2106.10771, 2021.
+
+What can linear interpolation of neural network loss landscapes tell us?, preprint: arXiv:2106.16004, 2021.
+
 [Constraint-based Regularization of Neural Networks]({{TiffanyVlaar.github.io}}/jekyll/update/2020/10/04/ConstraintBasedReg). *Accepted as spotlight presentation for NeurIPS 2020 Optimization for ML workshop and I received the best student paper award.* <br>
 In this paper we use constrained stochastic differential equations to train deep neural networks. We provide a general framework with accompanying discretization schemes and a statistical guarantee on the convergence of the
 training. This general framework enables the implementation of powerful new constraints, such as orthogonality of the weight matrix. 
@@ -26,6 +30,9 @@ Other Research Projects:
 - Stochastic Multiple Timestepping techniques for coupled systems of fast and slow variables
 
 Attended Workshops and Summerschools: 
+- Talk at "ODE and SDE methods in machine learning" symposium, NUMDIFF-16, 2021.
+- Poster at Theory of Deep Learning workshop, Newton Institute, Cambridge, 2021.
+- Talk and poster presenter at ICML 2021.
 - Spotlight presentation at NeurIPS 2020 Optimization for ML workshop, December 2020.
 - Statistical Physics & Machine Learning summer school, Les Houches, July 2020.
 - Machine Learning Summer School (MLSS), Tuebingen, June 2020.
@@ -35,7 +42,7 @@ Attended Workshops and Summerschools:
 - Molecular Simulation and Machine Learning conference, Temple University, Rome, January 2020.
 - Sampling algorithms on manifolds workshop, Isaac Newton Institute, Cambridge, November 2019.
 - Invited Poster presentation at Amazon Research Days, Edinburgh, November 2019.
-- Research Collaboration Visit at Courant Institute, NYU to meet Joan Bruna, Eric Vanden-Eijnden, Stanislaw Jastrzebski, Jonathan Weare, and John Chodera, October 2019.
+- Research Collaboration Visit at Courant Institute, NYU to meet Joan Bruna, John Chodera, Stanislaw Jastrzebski, Eric Vanden-Eijnden, and Jonathan Weare, October 2019.
 - Presentation at Alan Turing’s UK-Japan robotics and AI research collaboration workshop, September 2019.
 - Gene Golub SIAM summerschool on High-Performance Data Analytics, June 2019.
 - CECAM - Computational mathematics for model reduction and predictive modelling in molecular and complex systems, May 2019.
