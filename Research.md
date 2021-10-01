@@ -11,7 +11,7 @@ Papers: <br>
 
 [What can linear interpolation of neural network loss landscapes tell us? [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/06/02/LinearInterpolation), *preprint arXiv:2106.16004*, 2021.
 
-[Better Training using Weight-Constrained Stochastic Dynamics [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2020/10/04/ConstraintBasedReg), *ICML 2021*. <br>
+[Better Training using Weight-Constrained Stochastic Dynamics [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2020/11/04/ConstraintBasedReg), *ICML 2021*. <br>
 In this paper we use constrained stochastic differential equations to train deep neural networks. We provide a general framework with accompanying discretization schemes and a statistical guarantee on the convergence of the
 training. This general framework enables the implementation of powerful new constraints, such as orthogonality of the weight matrix. <br>
 Related workshop paper [Constraint-based Regularization of Neural Networks](https://arxiv.org/abs/2006.10114) *was accepted as spotlight presentation for NeurIPS 2020 Optimization for ML workshop and received the best student paper award.* Presentation: [YouTube link](https://youtu.be/5xhvuNPmCj4) <br>
