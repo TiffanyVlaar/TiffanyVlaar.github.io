@@ -6,8 +6,8 @@ permalink: /about/
 
 <!---Hi there! I’m Tiffany.-->
 
-<!---<img src="/pics/me.jpg" alt="me" width="100"/>-->
-![Me]({{TiffanyVlaar.github.io}}/pics/me.jpeg =100x20)
+<img src="/pics/me.jpeg" alt="me" width="100"/>
+<!---![Me]({{TiffanyVlaar.github.io}}/pics/me.jpeg =100x20)-->
 
 I'm a PhD student at the University of Edinburgh, where I develop new neural network optimization techniques based on discretized stochastic differential equations, inspired by molecular dynamics. <!--- and will be using this blog to post about my own research and other research topics that sparked my interest.--> I'm always looking for new collaborators (and in fact currently searching for a postdoc position for September 2022!), so if you are interested in my work, please feel free to drop me an email. 
 
