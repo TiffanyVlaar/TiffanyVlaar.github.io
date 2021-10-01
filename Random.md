@@ -4,7 +4,7 @@ title: (Random)
 permalink: /Random/
 ---
 
-<!---[Guano Industry in South America]({{TiffanyVlaar.github.io}}/pics/guanopost.markdown)-->
+[Guano Industry in South America]({{TiffanyVlaar.github.io}}/pics/guanopost.markdown)
 <!---[Travels in South Africa]({{TiffanyVlaar.github.io}}/jekyll/update/2018/09/24/TravelsinSA.html)-->
 
 South african zebra (10/10 can recommend)
