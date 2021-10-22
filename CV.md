@@ -44,6 +44,7 @@ Python, PyTorch, MATLAB.
 ***Publications:***
 - Vlaar, T. and B. Leimkuhler, "Multirate Training of Neural Networks", preprint [arXiv:2106.10771](https://arxiv.org/abs/2106.10771), 2021.
 - Vlaar, T. and J. Frankle, "What can linear interpolation of neural network loss landscapes tell us?", preprint [arXiv:2106.16004](https://arxiv.org/abs/2106.16004), 2021.
+- Vlaar, T., "Neural Network Behavior at the Classification Boundary", accepted for NeurIPS 2021 I (Still) Can’t Believe It’s Not Better (ICBINB) workshop. Preprint available on request.
 - Leimkuhler, B., Vlaar, T., Pouchon, T., and Storkey, A., "Better Training using Weight-Constrained Stochastic Dynamics", ICML, PMLR 139, 2021. Available: [arXiv:2106.10704](https://arxiv.org/abs/2106.10704)
 - Leimkuhler, B., Pouchon, T., Vlaar, T., and Storkey, A., "Constraint-Based Regularization of Neural Networks" (2020). Accepted as spotlight presentation for NeurIPS 2020 Optimization for ML workshop and received best student paper award. Available [arXiv:2006.10114](https://arxiv.org/abs/2006.10114)
 - Leimkuhler, B., Matthews, C., and Vlaar, T.J., "Partitioned integrators for thermodynamic parameterization of neural networks", Foundations of Data Science 1 (4) , 457-489 (2019). Accepted as a digital acceptance to NeurIPS 2019 Machine Learning and the Physical Sciences workshop. Available [arXiv:1908.11843](https://arxiv.org/abs/1908.11843)
