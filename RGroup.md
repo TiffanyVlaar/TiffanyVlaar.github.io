@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine Learning Reading Group
+title: ML Reading Group
 permalink: /MLReadinggroup/
 ---
 
