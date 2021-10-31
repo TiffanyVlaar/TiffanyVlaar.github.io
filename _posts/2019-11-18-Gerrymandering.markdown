@@ -28,15 +28,15 @@ In practice, the gerrymandering people will do this by identifying areas where t
 So now that we understand how gerrymandering works, how can we detect if a state has been gerrymandered? A commonly thought characteristic for gerrymandering is weirdly-shaped district boundaries (hence the name gerrymandering - originating from a shape resembling a salamander and the name of the person (Governor Elbridge Gerry) who first introduced the term [1]). Therefore, compactness of the drawn districts has often been used as a measure of fairness. However, this is neither a necessary nor sufficient condition for detecting gerrymandering [2]. Sampling methods offer a viable alternative. 
 
 ***Using MCMC to study gerrymandering*** <br>
-I will use Markov Chain Monte Carlo (MCMC) to generate a range of potential district maps. Moves consist of swaps between neighbouring blocks of voters in different districts and are accepted/rejected with a Metropolis-Hastings step. I will define an energy function using ideas from statistical physics [3], where low-energy states will correspond to "better" district maps, because these low-energy maps will better fit a set of pre-determined characteristics (such as compactness of the map) which we want good maps to obey. Low-energy states, i.e., "good maps", are visited more frequently by our sampling algorithm. 
+One can use Markov Chain Monte Carlo (MCMC) to generate a range of potential district maps. Moves consist of swaps between neighbouring blocks of voters in different districts and are accepted/rejected with a Metropolis-Hastings step. One can define an energy function using ideas from statistical physics [3], where low-energy states will correspond to "better" district maps, because these low-energy maps will better fit a set of pre-determined characteristics (such as compactness of the map) which we want good maps to obey. Low-energy states, i.e., "good maps", are visited more frequently by our sampling algorithm. 
 <!--- ![gerry1]({{TiffanyVlaar.github.io}}/pics/Gerrymander.png) -->
 
-I can now set up our district map in a statistical physics framework - using a few steps:
+Now a district map can be set up in a statistical physics framework - using a few steps:
 <ol>
 <li> Consider each block of voters to be a node in a graph structure. </li>
 <li> Draw connections between neighbouring nodes, even if these neighbours are located in different districts. </li>
 <li> Associate each node with the district it belongs to. For a two-district system we do this using an Ising spin model, where each node has a spin associated with it which either points up or down, depending on which district belongs to. Neighbouring nodes which have the same spin will have an interaction energy. For a multiple-district system one can use the generalized version of the Ising model, which is called the Potts model. Each district has a different 'spin' or color associated with it, and nodes assume the color/spin of the district they belong to. </li>
-<li> I then define an energy function for the map, which consists of different terms that measure how well the district map obeys certain desirable criteria. Examples of such criteria would be compactness of each district and that the population of each district is about the same size. Lower energy maps better obey these criteria and are therefore desirable. </li>
+<li> IDefine an energy function for the map, which consists of different terms that measure how well the district map obeys certain desirable criteria. Examples of such criteria would be compactness of each district and that the population of each district is about the same size. Lower energy maps better obey these criteria and are therefore desirable. </li>
 </ol>
 
 Our MCMC algorithm will then work as follows:
@@ -45,7 +45,9 @@ Our MCMC algorithm will then work as follows:
 <li> We accept a proposed MCMC move, i.e., a move of a node to a neighbouring district, with a Metropolis-Hastings step. If the move resulted in a map with a lower energy than the previous map, the move is more likely to be accepted. It is however important to also sometimes allow increases in energy to prevent the algorithm from getting stuck in local minima. </li>
 </ol>
 
-This idea is based on work by Jonathan Mattingly at Duke University.
+Acknowledgements: <br>
+This idea is based on work by Jonathan Mattingly at Duke University. <br>
+Together with my supervisor, Benedict Leimkuhler, I co-supervised a group of four excellent final year BSc students at the University of Edinburgh in 2019-2020, who used MCMC techniques to study gerrymandering in the UK.
 
 
 <!---And that's it! I intend to publish more blogposts on this topic in the near future - so stay tuned!-->
