@@ -5,9 +5,9 @@ permalink: /CV/
 ---
 
 ***Education:*** <br>
-PhD Mathematics, MIGSAA, University of Edinburgh, Supervisor: Professor Benedict Leimkuhler. Ongoing. Expected: February 2022.
+PhD Mathematics, MIGSAA, University of Edinburgh, Supervisor: Professor Benedict Leimkuhler. Ongoing. Expected: March 2022.
 
-Turing Enrichment student, Alan Turing Institute, UK. 2020-2021.
+Turing Enrichment student, Alan Turing Institute, UK. 2021.
 
 M. Sc. Theoretical Physics, Perimeter Scholars International programme, jointly offered by the Perimeter Institute for Theoretical Physics and the University of Waterloo in Ontario, Canada. 2016
 
