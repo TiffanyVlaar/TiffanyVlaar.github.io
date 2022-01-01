@@ -26,16 +26,10 @@ Pruning can result in networks with over 90% sparsity, without losing a noticeab
 
 A natural question would be: if sparser networks can get good generalization performance, why bother starting with a dense network and then doing the whole pruning procedure? Can't you just start off with a sparser network and train this? 
 
-Until recently, this was thought not to be possible. The redundancy of large, dense neural networks was thought to be vital to obtain good test accuracies. However, in 2018 Frankle and Carbin [15] claimed that they could actually train sparse networks from scratch and obtain good test accuracies. They find these sparse networks by pruning large, dense networks, but then reset the values of the weights of the sparse networks to their values before training, thus training the sparse network in isolation from the denser network. They argue that using the exact same initalization for the sparse network as was used for the larger network is important for obtaining good generalization performance for the sparse network. 
-<!---There is however some controversy surrounding this: Liu et al. [16] argue that using random initialization for the sparse network also leads to good test accuracies, Zhou et al. [17] think that one can ignore the magnitudes from the original initialization, but that the sign of the initial weights plays a key role, and Gale et al. [18] could not reproduce Frankle and Carbin's [15] results for larger models and more complex tasks.
+Until recently, this was thought not to be possible. The redundancy of large, dense neural networks was thought to be vital to obtain good test accuracies. However, in 2018 Frankle and Carbin [15] claimed that they could actually train sparse networks from scratch and obtain good test accuracies. They find these sparse networks by pruning large, dense networks, but then reset the values of the weights of the sparse networks to their values before training, thus training the sparse network in isolation from the denser network. They argue that using the exact same initalization for the sparse network as was used for the larger network is important for obtaining good generalization performance for the sparse network. As comments on this work Liu et al. [16] argue that using random initialization for the sparse network also leads to good test accuracies and Zhou et al. [17] think that one can ignore the magnitudes from the original initialization, but that the sign of the initial weights plays a key role.
 
-***This emphasizes the need to establish better baselines to compare different methods***: <br>
-Claims made about the proficiency of developed methods are often disputed in subsequent papers which tested the methods on deeper networks or on different tasks, e.g., L0 regularization [11] was refuted in [16,18]. <br>
-Despite this, all the papers mentioned above do share  -->
+All these papers share the same take-away message:
 
-The take-away message is
-
-<!---<span style="color:red">   Pruning effectively acts as an architecture search. </span> <br>-->
 <span style="background-color: lightblue">   Pruning effectively acts as an architecture search.</span>
 
 Pruning allows us to build a skeleton for the neural network, where the exact values of the trained parameters are less important [19].
@@ -54,11 +48,6 @@ I do want to note at this point that one should not directly equate the softmax 
 
 ***Discussion*** <br>
 In the introduction I mentioned that sparsity in neural networks is desirable as it allows us to use neural networks in real-time on resource-constrained computing environments. In practice however, not all forms of sparsity are equally effective in lowering the computational cost. Most compression methods lead to networks with non-structured sparsity, which limits the amount of speed-up obtained [29]. Something to consider when developing new compression methods.
-
-<!---Neural networks are well-known to be overparametrized, and several papers have indicated that the true number of required active weights is much smaller than the model size typically used [1, 2]. At the same time there is a huge interest in deploying neural networks in real-time on mobile devices and other resource-constrained computing environments. Sparsity in neural networks is therefore considered a desirable property as it reduces memory storage and unnecessary computational resources, and thus limits the energy consumption which otherwise would rapidly deplete the batteries of mobile devices. 
-
-
-In a Bayesian context, sparsity-inducing priors can also be used to achieve compression. Examples of sparsity-inducing priors are the Laplace prior, which can be interpreted as the Bayesian variant of L1 regularization/LASSO [26, 27]  (which attempts to minimise the sum of the absolute values of the network’s parameters), and the Horseshoe prior [28]. The horseshoe prior has heavy tails, which allows important nodes to remain un-shrunk, while its spike at the origin can turn off nodes and introduce severe sparsity. The ability of the horseshoe prior to leave important weights unaffected makes it sometimes preferable to the Laplace prior. Finally, it is important to note that in practice not all forms of sparsity are equally effective in reducing the computational cost. Many compression approaches result in non-structured sparsity which typically leads to limited speed-up [29]. A more thorough discussion of this is outside of the scope of this overview, but it is definitely something to keep in mind when designing new approaches for neural network compression.-->
 
 ***References*** <br>
 [1] S. Han, J. Pool, J. Tran, and W. Dally. Learning both weights and connections for efficient neural network. NIPS, 28:1135–1143, 2015.
@@ -112,14 +101,5 @@ model uncertainty in deep learning. arXiv:1506.02142, 2015.
 [24] A.M. Nguyen, J. Yosinski, and J. Clune. Deep neural networks are easily fooled: High confidence predictions for unrecognizable images. CoRR, 2014.
 
 [25] C. Szegedy, W. Zaremba, I. Sutskever, J. Bruna, D. Erhan, I. Goodfellow, and R. Fergus. Intriguing properties of neural networks. ICLR, 2014.
-
-<!---[25] C. Guo, G. Pleiss, Y. Sun, and K. Q. Weinberger. On calibration of modern neural
-networks. ICML, pages 1321–1330, 2017.
-
-[26] R. Tibshirani. Regression shrinkage and selection via the lasso. Journal of the Royal Statistical Society. Series B, 58(1):267–288, 1996.
-
-[27] P. Williams. Bayesian regularization and pruning using a Laplace prior. Neural Computation, 7:117–143, 1995.
-
-[28] C.M. Carvalho, N.G. Polson, and J.G. Scott. The horseshoe estimator for sparse signals. Biometrika, 97(2):465–480, 2010.-->
  
 [26] W. Wen, C. Wu, Y. Wang, Y. Chen, and H. Li. Learning structured sparsity in deep neural networks. NIPS, pages 2074–2082, 2016.

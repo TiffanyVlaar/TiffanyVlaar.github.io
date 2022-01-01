@@ -16,8 +16,4 @@ In November, I will host [PiDOORS](https://piscopia.co.uk/pidoors), an afternoon
 
 By the end of this academic year, we hope to have self-sufficient local Piscopia committees, who are able to recruit new members to continue the legacy of the initiative and are confident in hosting successful events. 
 
-<!---[gerry1]({{TiffanyVlaar.github.io}}/pics/gerry1.png)
-![gerry2]({{TiffanyVlaar.github.io}}/pics/gerry2.png)-->
-
-
 
