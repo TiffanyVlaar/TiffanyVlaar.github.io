@@ -5,7 +5,7 @@ permalink: /CV/
 ---
 
 ***Education:*** <br>
-PhD Mathematics, MIGSAA, University of Edinburgh, Supervisor: Professor Benedict Leimkuhler. Ongoing. Expected: March 2022.
+PhD Mathematics, MIGSAA, University of Edinburgh, Supervisor: Professor Benedict Leimkuhler. Expected: March 2022.
 
 Turing Enrichment student, Alan Turing Institute, UK. 2021.
 
