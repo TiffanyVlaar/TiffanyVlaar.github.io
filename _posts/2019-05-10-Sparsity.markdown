@@ -26,11 +26,14 @@ Pruning can result in networks with over 90% sparsity, without losing a noticeab
 
 A natural question would be: if sparser networks can get good generalization performance, why bother starting with a dense network and then doing the whole pruning procedure? Can't you just start off with a sparser network and train this? 
 
-Until recently, this was thought not to be possible. The redundancy of large, dense neural networks was thought to be vital to obtain good test accuracies. However, in 2018 Frankle and Carbin [15] claimed that they could actually train sparse networks from scratch and obtain good test accuracies. They find these sparse networks by pruning large, dense networks, but then reset the values of the weights of the sparse networks to their values before training, thus training the sparse network in isolation from the denser network. They argue that using the exact same initalization for the sparse network as was used for the larger network is important for obtaining good generalization performance for the sparse network. There is however some controversy surrounding this: Liu et al. [16] argue that using random initialization for the sparse network also leads to good test accuracies, Zhou et al. [17] think that one can ignore the magnitudes from the original initialization, but that the sign of the initial weights plays a key role, and Gale et al. [18] could not reproduce Frankle and Carbin's [15] results for larger models and more complex tasks. 
+Until recently, this was thought not to be possible. The redundancy of large, dense neural networks was thought to be vital to obtain good test accuracies. However, in 2018 Frankle and Carbin [15] claimed that they could actually train sparse networks from scratch and obtain good test accuracies. They find these sparse networks by pruning large, dense networks, but then reset the values of the weights of the sparse networks to their values before training, thus training the sparse network in isolation from the denser network. They argue that using the exact same initalization for the sparse network as was used for the larger network is important for obtaining good generalization performance for the sparse network. 
+<!---There is however some controversy surrounding this: Liu et al. [16] argue that using random initialization for the sparse network also leads to good test accuracies, Zhou et al. [17] think that one can ignore the magnitudes from the original initialization, but that the sign of the initial weights plays a key role, and Gale et al. [18] could not reproduce Frankle and Carbin's [15] results for larger models and more complex tasks.
 
 ***This emphasizes the need to establish better baselines to compare different methods***: <br>
 Claims made about the proficiency of developed methods are often disputed in subsequent papers which tested the methods on deeper networks or on different tasks, e.g., L0 regularization [11] was refuted in [16,18]. <br>
-Despite this, all the papers mentioned above do share the same take-away message, namely 
+Despite this, all the papers mentioned above do share  -->
+
+The take-away message is
 
 <!---<span style="color:red">   Pruning effectively acts as an architecture search. </span> <br>-->
 <span style="background-color: lightblue">   Pruning effectively acts as an architecture search.</span>
