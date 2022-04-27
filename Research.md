@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-Research Interests: Mathematics for Deep Learning, Sampling Methods, Molecular Dynamics, Numerical methods for Stochastic Differential Equations, Understanding Deep Learning, and Physics-informed Machine Learning.
+Research Interests: Mathematics for Deep Learning, Sampling Methods, Numerical methods for Stochastic Differential Equations, Understanding Deep Learning, and Physics-informed Machine Learning.
 
 Papers: <br>
 [Multirate Training of Neural Networks [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/06/07/Multirate), *preprint arXiv:2106.10771*, 2021.
@@ -32,6 +32,8 @@ Other Research Projects:
 - Stochastic Multiple Timestepping techniques for coupled systems of fast and slow variables
 
 Attended Workshops and Summerschools: 
+- Poster at Machine Learning and Dynamical Systems symposium, Fields Institute, 2022.
+- Poster at "Connections between interacting particle dynamics and data science" ICMS workshop, 2022.
 - Talk at "ODE and SDE methods in machine learning" symposium, NUMDIFF-16, 2021.
 - Poster at Theory of Deep Learning workshop, Newton Institute, Cambridge, 2021.
 - Talk and poster presenter at ICML 2021.
