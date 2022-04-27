@@ -22,22 +22,22 @@ B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013.
 - Board Member [One World Seminar on Mathematics of Machine Learning](https://oneworldml.org).
 - Committee member of the IMA, Early Careers Mathematicians Committee, 2021.
 - Co-organiser of first UK-wide virtual Mathematics of Data Science (MathODS) graduate student conference, 2020.
-- Vice President SIAM and IMA Student Chapter University of Edinburgh, 2018-2020
+- Vice President SIAM and IMA Student Chapter University of Edinburgh, 2018-2020.
 
 ***Work and Teaching Experience:***
-- Co-Supervisor final year BSc project, 2019-2020
-- Tutor, University of Edinburgh, courses: Machine Learning in Python, Computing and Numerics (Python), Probability with Applications, Several Variable Calculus and Differential Equations, Engineering Mathematics, Probability 2018-2022
-- Research Intern at Schlumberger Gould Research (Cambridge, UK), 2015
-- Tutor, Leiden University, 2012-2014: Tutoring covered all courses of the 1st year Physics BSc
-- Assistant at Junior Science Lab, Leiden University, 2013
+- Co-Supervisor final year BSc project, 2019-2020.
+- Tutor, University of Edinburgh, courses: Machine Learning in Python, Computing and Numerics (Python), Probability with Applications, Several Variable Calculus and Differential Equations, Engineering Mathematics, Probability, 2018-2022.
+- Research Intern at Schlumberger Gould Research (Cambridge, UK), 2015.
+- Tutor, Leiden University, 2012-2014: Tutoring covered all courses of the 1st year Physics BSc.
+- Assistant at Junior Science Lab, Leiden University, 2013.
 
 ***Service:***
 - Reviewer for ICML, 2021 and 2022.
-- Reviewer for the NeurIPS "Machine Learning and the Physical Sciences" and "ML Retrospectives, Surveys and Meta-Analyses" workshops, 2020
-- Member of Mathematics Outreach Team, University of Edinburgh, 2018
-- MIGSAA Mentor, 2018
-- Machine Learning Reading Group Organizer, University of Edinburgh, 2018
-- MIGSAA Student Representative for Scottish Mathematical Sciences Training Centre, 2017
+- Reviewer for the NeurIPS "Machine Learning and the Physical Sciences" and "ML Retrospectives, Surveys and Meta-Analyses" workshops, 2020.
+- Member of Mathematics Outreach Team, University of Edinburgh, 2018.
+- MIGSAA Mentor, 2018.
+- Machine Learning Reading Group Organizer, University of Edinburgh, 2018.
+- MIGSAA Student Representative for Scottish Mathematical Sciences Training Centre, 2017.
 
 ***Software:***
 Python, PyTorch, MATLAB.
