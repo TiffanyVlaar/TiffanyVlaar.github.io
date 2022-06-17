@@ -7,7 +7,7 @@ permalink: /CV/
 ***Upcoming position:*** Postdoctoral Researcher, School of Computer Science, McGill University (2022-2024).
 
 ***Education:*** <br>
-PhD Mathematics, University of Edinburgh (MIGSAA CDT). 2022.
+Ph.D. Mathematics, University of Edinburgh (MIGSAA CDT). 2022.
 
 Turing Enrichment student, Alan Turing Institute, UK. 2021.
 
