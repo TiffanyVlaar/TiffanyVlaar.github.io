@@ -4,7 +4,7 @@ title: Resume
 permalink: /CV/
 ---
 
-*Upcoming position (2022-2024):* Postdoctoral Researcher, School of Computer Science, McGill University.
+***Upcoming position:*** Postdoctoral Researcher, School of Computer Science, McGill University (2022-2024).
 
 ***Education:*** <br>
 PhD Mathematics, MIGSAA, University of Edinburgh, Supervisor: Professor Benedict Leimkuhler, 2022.
