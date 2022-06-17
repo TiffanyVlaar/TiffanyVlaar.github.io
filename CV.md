@@ -4,8 +4,10 @@ title: Resume
 permalink: /CV/
 ---
 
+*Upcoming position (2022-2024):* Postdoctoral Researcher, School of Computer Science, McGill University.
+
 ***Education:*** <br>
-PhD Mathematics, MIGSAA, University of Edinburgh, Supervisor: Professor Benedict Leimkuhler. Expected: May 2022.
+PhD Mathematics, MIGSAA, University of Edinburgh, Supervisor: Professor Benedict Leimkuhler, 2022.
 
 Turing Enrichment student, Alan Turing Institute, UK. 2021.
 
@@ -43,8 +45,8 @@ B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013.
 Python, PyTorch, MATLAB.
 
 ***Publications:***
-- Vlaar, T. and Leimkuhler, B., "Multirate Training of Neural Networks", preprint [arXiv:2106.10771](https://arxiv.org/abs/2106.10771), 2021.
-- Vlaar, T. and Frankle, J., "What can linear interpolation of neural network loss landscapes tell us?", preprint [arXiv:2106.16004](https://arxiv.org/abs/2106.16004), 2021.
+- Vlaar, T. and Leimkuhler, B., "Multirate Training of Neural Networks", ICML, 2022. [arXiv:2106.10771](https://arxiv.org/abs/2106.10771)
+- Vlaar, T. and Frankle, J., "What can linear interpolation of neural network loss landscapes tell us?", ICML, 2022. [arXiv:2106.16004](https://arxiv.org/abs/2106.16004)
 - Vlaar, T., "Neural Network Behavior at the Classification Boundary", poster accepted for NeurIPS 2021 I (Still) Can’t Believe It’s Not Better (ICBINB) workshop. Preprint available on request.
 - Leimkuhler, B., Vlaar, T., Pouchon, T., and Storkey, A., "Better Training using Weight-Constrained Stochastic Dynamics", ICML, PMLR 139, 2021. Available: [arXiv:2106.10704](https://arxiv.org/abs/2106.10704)
 - Leimkuhler, B., Pouchon, T., Vlaar, T., and Storkey, A., "Constraint-Based Regularization of Neural Networks" (2020). Accepted as spotlight presentation for NeurIPS 2020 Optimization for ML workshop and received best student paper award. Available [arXiv:2006.10114](https://arxiv.org/abs/2006.10114)

@@ -7,9 +7,9 @@ permalink: /research/
 Research Interests: Mathematics for Deep Learning, Sampling Methods, Numerical methods for Stochastic Differential Equations, Understanding Deep Learning, and Physics-informed Machine Learning.
 
 Papers: <br>
-[Multirate Training of Neural Networks [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/06/07/Multirate), *preprint arXiv:2106.10771*, 2021.
+[Multirate Training of Neural Networks [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/06/07/Multirate), *ICML 2022*. arXiv:2106.10771
 
-[What can linear interpolation of neural network loss landscapes tell us? [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/06/02/LinearInterpolation), *preprint arXiv:2106.16004*, 2021.
+[What can linear interpolation of neural network loss landscapes tell us? [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/06/02/LinearInterpolation), *ICML 2022*. arXiv:2106.16004
 
 [Better Training using Weight-Constrained Stochastic Dynamics [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2020/11/04/ConstraintBasedReg), *ICML 2021*. <br>
 In this paper we use constrained stochastic differential equations to train deep neural networks. We provide a general framework with accompanying discretization schemes and a statistical guarantee on the convergence of the
@@ -33,6 +33,7 @@ Other Research Projects:
 
 Attended Workshops and Summerschools: 
 - Poster at Machine Learning and Dynamical Systems symposium, Fields Institute, 2022.
+- Two spotlight talks and posters at ICML, 2022.
 - Poster at "Connections between interacting particle dynamics and data science" ICMS workshop, 2022.
 - Talk at "ODE and SDE methods in machine learning" symposium, NUMDIFF-16, 2021.
 - Poster at Theory of Deep Learning workshop, Newton Institute, Cambridge, 2021.

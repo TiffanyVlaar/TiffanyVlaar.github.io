@@ -16,8 +16,8 @@ In this paper we put to the test whether using the popular 1D linear interpolati
  <li> Layers have different levels of sensitivity to the choice of initialization. We introduce the concept of partial pre-training, where we initialize some layers to a trained (on CIFAR-10) or pre-trained (on ImageNet) state, while using random initialization for others. Doing so surprisingly leads to worsened test accuracy and (uncorrelated) effects on the shape of the linear path. </li>
 </ol>
 
-This paper is joint work with Jonathan Frankle (MIT).
-[arXiv preprint:2106.16004](https://arxiv.org/abs/2106.16004)
+This paper is joint work with Jonathan Frankle (MIT, MosaicML) and has been accepted to ICML 2022.
+[arXiv:2106.16004](https://arxiv.org/abs/2106.16004)
 
 
 *References* <br>
