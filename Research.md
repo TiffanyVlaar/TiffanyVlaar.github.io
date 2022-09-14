@@ -32,7 +32,7 @@ Other Research Projects:
 - Stochastic Multiple Timestepping techniques for coupled systems of fast and slow variables
 
 Attended Workshops and Summerschools: 
-- Poster at Machine Learning and Dynamical Systems symposium, Fields Institute, 2022.
+<!--- Poster at Machine Learning and Dynamical Systems symposium, Fields Institute, 2022.-->
 - Two spotlight talks and posters at ICML, 2022.
 - Poster at "Connections between interacting particle dynamics and data science" ICMS workshop, 2022.
 - Talk at "ODE and SDE methods in machine learning" symposium, NUMDIFF-16, 2021.

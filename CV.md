@@ -4,7 +4,7 @@ title: Resume
 permalink: /CV/
 ---
 
-***Upcoming position:*** Postdoctoral Researcher, School of Computer Science, McGill University (2022-2024).
+***Upcoming position:*** Postdoctoral Researcher, Mila & School of Computer Science, McGill University (2022-2024).
 
 ***Education:*** <br>
 Ph.D. Mathematics, University of Edinburgh (MIGSAA CDT). 2022.
