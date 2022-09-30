@@ -4,7 +4,7 @@ title: ML Reading Group
 permalink: /MLReadinggroup/
 ---
 
-In 2018-2019 I organized a Machine Learning Seminar. An overview of the talks is provided below. Please feel free to contact me if you want to get in touch with any of the speakers. 
+In 2018-2019 I organized a Machine Learning Seminar for the Mathematics department at the University of Edinburgh. An overview of the talks is provided below. Please feel free to contact me if you want to get in touch with any of the speakers. 
 
 23 October - Tim Hurst "Utilising continuum limits of the p-Laplacian in semi-supervised learning"
 
