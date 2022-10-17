@@ -10,7 +10,7 @@ Together with fellow PhD students Bella Deutsch and Mary LLewellyn, I co-founded
 
 We launched a targeted approach to address this issue by hosting a [conference](https://piscopia.co.uk/welcome-to-piforum/) and PhD information events at universities throughout Scotland in 2019-2020. 
 
-In 2020 Mary and me extended the scheme to go UK-wide and launched local Piscopia committees at [13 UK universities](https://piscopia.co.uk/the-piscopia-society/). Our local committees offer approachable points of contacts for students. We set up seminar series featuring women researchers from across the UK working in diverse areas of mathematics both in [academia](https://piscopia.co.uk/piworks-seminar-series/) and [industry](https://piscopia.co.uk/pidoors).
+In 2020 Mary and me extended the scheme to go UK-wide and launched local Piscopia committees at [15 UK universities](https://piscopia.co.uk/the-piscopia-society/). Our local committees offer approachable points of contacts for students. We set up seminar series featuring women researchers from across the UK working in diverse areas of mathematics both in [academia](https://piscopia.co.uk/piworks-seminar-series/) and [industry](https://piscopia.co.uk/pidoors).
 
 Our events aim to:
 <ol>
