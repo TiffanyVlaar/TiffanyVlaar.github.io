@@ -10,16 +10,16 @@ Together with fellow PhD students Bella Deutsch and Mary LLewellyn, I co-founded
 
 We launched a targeted approach to address this issue by hosting a [conference](https://piscopia.co.uk/welcome-to-piforum/) and PhD information events at universities throughout Scotland in 2019-2020. 
 
-In 2020 Mary and me extended the scheme to go UK-wide and launched local Piscopia committees at [15 UK universities](https://piscopia.co.uk/the-piscopia-society/). Our local committees offer approachable points of contacts for students. We set up seminar series featuring women researchers from across the UK working in diverse areas of mathematics both in [academia](https://piscopia.co.uk/piworks-seminar-series/) and [industry](https://piscopia.co.uk/pidoors).
+In 2020, Mary and me extended the scheme to go UK-wide and launched local Piscopia committees at [15 UK universities](https://piscopia.co.uk/the-piscopia-society/). Our local committees offer approachable points of contacts for students, qquip the students with the information they may be hesitant to seek, and provide them with women and non-binary role models at their own university. In parallel, we also set up UK-wide events, e.g. on [Non-traditional career paths into academia](https://www.eventbrite.com/e/non-traditional-career-paths-into-academia-tickets-244633193467) and seminar series featuring women researchers from across the UK working in diverse areas of mathematics both in [academia](https://piscopia.co.uk/piworks-seminar-series/) and [industry](https://piscopia.co.uk/pidoors).
 
 Our events aim to:
 <ol>
-<li> Raise awareness for the PhD option among women and non-binary people and increase the attendees' knowledge about what it is like to study for a PhD in Mathematics and the application process. 
-<li> Highlight women and non-binary role models. 
-<li> Provide attendees with a support network and platform where they can ask questions in the future by connecting them with their peers, women & non-binary researchers at their university, and the UK-wide Piscopia community.
+<li> Raise awareness for the PhD option among women and non-binary people and increase the attendees' knowledge about what it is like to study and apply for a PhD in Mathematics (and wider STEM).
+<li> Highlight women and non-binary role models in Mathematics research.
+<li> Provide attendees with a support network and platform where they can ask questions in the future by connecting them with their peers, women & non-binary researchers at their university, and the UK-wide Piscopia community.<br>
 </ol>
 
-We are grateful for all the support we gained along the way from many universities, professors, and organizations such as the International Centre for Mathematical Sciences (ICMS), The Heilbronn Institute for Mathematical Research, the Clinton Foundation, Maplesoft, the Maxwell Institute Graduate School for Analysis and Its Applications, the Edinburgh Mathematical Society (EMS), and the London Mathematical Society (LMS).
+We are grateful for all the support we gained along the way from many universities, professors, and organizations such as the International Centre for Mathematical Sciences (ICMS), The Heilbronn Institute for Mathematical Research, the Clinton Foundation, Maplesoft, the Maxwell Institute Graduate School for Analysis and Its Applications, the Edinburgh Mathematical Society (EMS), and the London Mathematical Society (LMS). <br>
 
 I am also grateful to all our wonderful local committee members and our new Piscopia co-leads: Gemma Crowe, Xell Brunet-Guasch, and Victoria Ironmonger, who are continuing the legacy of the initiative.
 
