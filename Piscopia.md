@@ -23,7 +23,7 @@ We are grateful for all the support we gained along the way from many universiti
 
 I am also grateful to all our wonderful local committee members and our new Piscopia co-leads: Gemma Crowe, Xell Brunet-Guasch, and Victoria Ironmonger, who are continuing the legacy of the initiative.
 
-<img src="/pics/Banner_Piscopia.png" width="500"/>
+<img src="/pics/Banner_Piscopia.png" width="900"/>
 
 <!--
 In 2018-2019 I organized a Machine Learning Seminar for the Mathematics department at the University of Edinburgh. An overview of the talks is provided below. Please feel free to contact me if you want to get in touch with any of the speakers. 
