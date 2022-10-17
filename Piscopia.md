@@ -4,7 +4,7 @@ title: Piscopia
 permalink: /Piscopia/ 
 ---
 
-<span <img src="/pics/Banner_Piscopia.png" width="200"/> </span>
+<img src="/pics/Banner_Piscopia.png" width="500"/>
 
 Together with fellow PhD students Bella Deutsch and Mary LLewellyn, I co-founded the Piscopia Initiative [(piscopia.co.uk)](https://piscopia.co.uk) in 2019 to encourage women and non-binary students to pursue a PhD in mathematics. 
 
