@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Piscopia Initiative
+title: Piscopia
 permalink: /Piscopia/ 
 ---
 
