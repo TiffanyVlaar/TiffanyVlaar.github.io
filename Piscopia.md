@@ -4,8 +4,6 @@ title: Piscopia
 permalink: /Piscopia/ 
 ---
 
-<img src="/pics/Banner_Piscopia.png" width="500"/>
-
 Together with fellow PhD students Bella Deutsch and Mary LLewellyn, I co-founded the Piscopia Initiative [(piscopia.co.uk)](https://piscopia.co.uk) in 2019 to encourage women and non-binary students to pursue a PhD in mathematics. 
 
 *Although 40% of UK graduates in the mathematical sciences are female, only 6% of them go on to be professors [LMS report, 2013].* 
@@ -24,6 +22,8 @@ Our events aim to:
 We are grateful for all the support we gained along the way from many universities, professors, and organizations such as the International Centre for Mathematical Sciences (ICMS), The Heilbronn Institute for Mathematical Research, the Clinton Foundation, Maplesoft, the Maxwell Institute Graduate School for Analysis and Its Applications, the Edinburgh Mathematical Society (EMS), and the London Mathematical Society (LMS). <br>
 
 I am also grateful to all our wonderful local committee members and our new Piscopia co-leads: Gemma Crowe, Xell Brunet-Guasch, and Victoria Ironmonger, who are continuing the legacy of the initiative.
+
+<img src="/pics/Banner_Piscopia.png" width="500"/>
 
 <!--
 In 2018-2019 I organized a Machine Learning Seminar for the Mathematics department at the University of Edinburgh. An overview of the talks is provided below. Please feel free to contact me if you want to get in touch with any of the speakers. 
