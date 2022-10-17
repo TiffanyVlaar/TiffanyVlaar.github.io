@@ -4,23 +4,23 @@ title: Resume
 permalink: /CV/
 ---
 
-***Upcoming position:*** Postdoctoral Researcher, Mila & School of Computer Science, McGill University.
+***Current Position:*** Postdoctoral Researcher, Mila & School of Computer Science, McGill University.
 
 ***Education:*** <br>
 Ph.D. Mathematics, University of Edinburgh (MIGSAA CDT). 2022.
 
 Turing Enrichment student, Alan Turing Institute, UK. 2021.
 
-M. Sc. Theoretical Physics, Perimeter Scholars International programme, jointly offered by the Perimeter Institute for Theoretical Physics and the University of Waterloo in Ontario, Canada. 2016
+M. Sc. Theoretical Physics, Perimeter Scholars International programme, jointly offered by the Perimeter Institute for Theoretical Physics and the University of Waterloo in Ontario, Canada. 2016.
 
-M. Sc. Applied Geophysics (Cum Laude), IDEA League programme, jointly offered by Delft University of Technology, the Netherlands, ETH Zürich, Switzerland, and RWTH Aachen, Germany. 2015
+M. Sc. Applied Geophysics (Cum Laude), IDEA League programme, jointly offered by Delft University of Technology, the Netherlands, ETH Zürich, Switzerland, and RWTH Aachen, Germany. 2015.
 
-B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013. <br>
+B. Sc. Physics, Leiden University, the Netherlands. 2013. <br> <!--Graduated at age 18 in 2013. <br>-->
 <!---Extracurricular courses in Complex Analysis, PDEs, and Dynamical Systems.-->
 
 
 ***Leadership Experience:***
-- Founding member and current co-lead of the UK-wide [Piscopia Initiative]({{TiffanyVlaar.github.io}}/jekyll/update/2020/09/10/PiscopiaInitiative.html), 2019-2022. The aim is to increase women and non-binary participation in mathematical research. 
+- Founding member and co-lead of the UK-wide [Piscopia Initiative]({{TiffanyVlaar.github.io}}/jekyll/update/2020/09/10/PiscopiaInitiative.html), 2019-2022. The aim is to increase women and non-binary participation in mathematical research. 
 - Board Member [One World Seminar on Mathematics of Machine Learning](https://www.oneworldml.org).
 - Committee member of the IMA, Early Careers Mathematicians Committee, 2021.
 - Co-organiser of first UK-wide virtual Mathematics of Data Science (MathODS) graduate student conference, 2020.
