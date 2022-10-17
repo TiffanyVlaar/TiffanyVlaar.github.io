@@ -14,9 +14,9 @@ In 2020, Mary and me extended the scheme to go UK-wide and launched local Piscop
 
 Our events aim to:
 <ol>
-<li> Raise awareness for the PhD option among women and non-binary people and increase the attendees' knowledge about what it is like to study and apply for a PhD in Mathematics (and wider STEM).
-<li> Highlight women and non-binary role models in Mathematics research.
-<li> Provide attendees with a support network and platform where they can ask questions in the future by connecting them with their peers, women & non-binary researchers at their university, and the UK-wide Piscopia community.<br>
+<li> Raise awareness for the PhD option among women and non-binary people and increase the attendees' knowledge about what it is like to study and apply for a PhD in Mathematics (and wider STEM).</li>
+<li> Highlight women and non-binary role models in Mathematics research.</li>
+<li> Provide attendees with a support network and platform where they can ask questions in the future by connecting them with their peers, women & non-binary researchers at their university, and the UK-wide Piscopia community.</li>
 </ol>
 
 We are grateful for all the support we gained along the way from many universities, professors, and organizations such as the International Centre for Mathematical Sciences (ICMS), The Heilbronn Institute for Mathematical Research, the Clinton Foundation, Maplesoft, the Maxwell Institute Graduate School for Analysis and Its Applications, the Edinburgh Mathematical Society (EMS), and the London Mathematical Society (LMS). <br>
