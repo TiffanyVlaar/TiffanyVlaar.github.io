@@ -34,7 +34,7 @@ Other Research Projects:
 Selected Workshops and Summerschools: 
 <!--- Poster at Machine Learning and Dynamical Systems symposium, Fields Institute, 2022.-->
 - Two spotlight talks and posters at ICML, 2022.
-- Poster, "Connections between interacting particle dynamics & data science" ICMS workshop, 2022.
+- Poster, "Interacting particle dynamics and data science" ICMS workshop, 2022.
 - Talk at "ODE and SDE methods in machine learning" symposium, NUMDIFF-16, 2021.
 - Poster at Theory of Deep Learning workshop, Newton Institute, Cambridge, 2021.
 - Talk and poster presenter at ICML 2021.
