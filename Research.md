@@ -55,7 +55,7 @@ Selected Workshops and Summerschools:
 - MIGSAA Advanced PhD Course - Diffusion Processes, Autumn 2018.
 - Poster presentation at CSide Conference, University of Glasgow, November 2018.
 <!--- i-like Workshop, Newcastle University, June 2018.-->
-- Masterclass Prof. David Dunson (Duke University) on Scalable Bayesian Inference, June 2018.
+- Masterclass Prof. David Dunson (Duke University) on Scalable Bayesian Inference, 2018.
 - Alan Turing Institute - Data-driven modelling of complex systems, May 2018.
 
 
