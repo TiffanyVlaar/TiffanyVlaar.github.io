@@ -47,7 +47,7 @@ Selected Workshops and Summerschools:
 - Molecular Simulation and Machine Learning conference, Temple University, Rome, January 2020.
 - Sampling algorithms on manifolds workshop, Isaac Newton Institute, Cambridge, November 2019.
 - Invited Poster presentation at Amazon Research Days, Edinburgh, November 2019.
-- Research Collaboration Visit at Courant Institute, NYU hosted by Jonathan Weare. Engaging discussions with Joan Bruna, Stanislaw Jastrzebski, Mark Tuckerman, Eric Vanden-Eijnden, and Jonathan Weare, October 2019.
+- Research Collaboration Visit at Courant Institute, NYU, October 2019. Discussions with Joan Bruna, Stanislaw Jastrzebski, Mark Tuckerman, Eric Vanden-Eijnden, and Jonathan Weare (host).
 - Talk at Alan Turing’s UK-Japan robotics & AI research collaboration workshop, 2019.
 - Gene Golub SIAM summerschool on High-Performance Data Analytics, June 2019.
 - CECAM - Computational mathematics for model reduction and predictive modelling in molecular and complex systems, May 2019.
