@@ -43,19 +43,19 @@ Selected Workshops and Summerschools:
 - Machine Learning Summer School (MLSS), Tuebingen, June 2020.
 - Invited talk at Structural Inference in High Dimensional models, Mathematics of Learning conference, Bordeaux, 2020. Cancelled due to pandemic.
 <!-- Poster at Foundations of Computational Mathematics, 2020. Cancelled due to pandemic.-->
-- Research Collaboration Visit to visit Gabriel Stoltz (CERMICS, Ecole des Ponts ParisTech), March 2020. Cancelled due to pandemic.
+- Research Collaboration Visit Gabriel Stoltz (CERMICS, Ecole des Ponts ParisTech), 2020. Cancelled due to pandemic.
 - Molecular Simulation and Machine Learning conference, Temple University, Rome, January 2020.
 - Sampling algorithms on manifolds workshop, Isaac Newton Institute, Cambridge, November 2019.
 - Invited Poster presentation at Amazon Research Days, Edinburgh, November 2019.
 - Research Collaboration Visit at Courant Institute, NYU hosted by Jonathan Weare. Engaging discussions with Joan Bruna, Stanislaw Jastrzebski, Mark Tuckerman, Eric Vanden-Eijnden, and Jonathan Weare, October 2019.
-- Talk at Alan Turing’s UK-Japan robotics and AI research collaboration workshop, September 2019.
+- Talk at Alan Turing’s UK-Japan robotics & AI research collaboration workshop, 2019.
 - Gene Golub SIAM summerschool on High-Performance Data Analytics, June 2019.
 - CECAM - Computational mathematics for model reduction and predictive modelling in molecular and complex systems, May 2019.
 - ICMS - Modelling Camp, May 2019.
 - MIGSAA Advanced PhD Course - Diffusion Processes, Autumn 2018.
 - Poster presentation at CSide Conference, University of Glasgow, November 2018.
 <!--- i-like Workshop, Newcastle University, June 2018.-->
-- Masterclass Professor David Dunson (Duke University) on Scalable Bayesian Inference, June 2018.
+- Masterclass Prof. David Dunson (Duke University) on Scalable Bayesian Inference, June 2018.
 - Alan Turing Institute - Data-driven modelling of complex systems, May 2018.
 
 
