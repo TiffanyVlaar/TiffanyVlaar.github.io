@@ -13,6 +13,6 @@ Further, we use a multirate method (that partitions the network into "fast" and 
 <img src="/pics/transfermultirate2.png" width="800"/>
 
 This paper is joint work with Ben Leimkuhler and has been accepted to ICML 2022. <br>
-The latest version can be found at [arXiv:2106.10771](https://arxiv.org/abs/2106.10771).[[Corrigendum]]({{TiffanyVlaar.github.io}}/docs/Corrigendum.pdf)[[Slides]]({{TiffanyVlaar.github.io}}/slides/ICML_Multirate.pdf)
+The latest version can be found on the arXiv: [[paper]](https://arxiv.org/abs/2106.10771)[[errata]]({{TiffanyVlaar.github.io}}/docs/Corrigendum.pdf)[[slides]]({{TiffanyVlaar.github.io}}/slides/ICML_Multirate.pdf)[[poster]]({{TiffanyVlaar.github.io}}/docs/ICML_MultiratePoster.pdf)
 <!--This work was also presented at the "ODE and SDE methods in machine learning" symposium, NUMDIFF-16, 2021.-->
 
