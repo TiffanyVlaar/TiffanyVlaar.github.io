@@ -21,9 +21,9 @@ B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013.
 
 ***Leadership Experience:***
 - Board Member [One World Seminar on Mathematics of Machine Learning](https://www.oneworldml.org).
-- Founding member and co-lead of the UK-wide [Piscopia Initiative]({{TiffanyVlaar.github.io}}/jekyll/update/2020/09/10/PiscopiaInitiative.html), 2019-2022. The aim is to increase women and non-binary participation in mathematical research. 
-- Committee member of the IMA, Early Careers Mathematicians Committee, 2021.
-- Co-organiser of first UK-wide virtual Mathematics of Data Science (MathODS) graduate student conference, 2020.
+- Founding member and co-lead of the UK-wide [Piscopia Initiative]({{TiffanyVlaar.github.io}}/Piscopia), 2019-2022. The aim is to increase women and non-binary participation in mathematical research. 
+- Committee member of the [IMA](https://ima.org.uk), Early Career Mathematicians Committee, 2021.
+- Co-organiser of first UK-wide virtual [Mathematics of Data Science (MathODS)](https://maths-of-data.github.io) graduate student conference, 2020.
 - Vice President SIAM and IMA Student Chapter University of Edinburgh, 2018-2020.
 
 ***Work and Teaching Experience:***
@@ -38,15 +38,15 @@ B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013.
 - Reviewer for the NeurIPS "Machine Learning and the Physical Sciences" and "ML Retrospectives, Surveys and Meta-Analyses" workshops, 2020.
 - Member of Mathematics Outreach Team, University of Edinburgh, 2018.
 - MIGSAA Mentor, 2018.
-- Machine Learning Reading Group Organizer, University of Edinburgh, 2018.
+- Machine Learning Reading Group Organizer, Mathematics Department, University of Edinburgh, 2018.
 - MIGSAA Student Representative for Scottish Mathematical Sciences Training Centre, 2017.
 
 ***Software:***
 Python, PyTorch, MATLAB.
 
 ***Publications:***
-- Vlaar, T. and Leimkuhler, B., "Multirate Training of Neural Networks", ICML, 2022. [arXiv:2106.10771](https://arxiv.org/abs/2106.10771)
-- Vlaar, T. and Frankle, J., "What can linear interpolation of neural network loss landscapes tell us?", ICML, 2022. [arXiv:2106.16004](https://arxiv.org/abs/2106.16004)
+- Vlaar, T. and Leimkuhler, B., "Multirate Training of Neural Networks", ICML, PMLR 162, 2022. Available: [arXiv:2106.10771](https://arxiv.org/abs/2106.10771)[[errata]]({{TiffanyVlaar.github.io}}/docs/Corrigendum.pdf)
+- Vlaar, T. and Frankle, J., "What can linear interpolation of neural network loss landscapes tell us?", ICML, PMLR 162, 2022. Available: [arXiv:2106.16004](https://arxiv.org/abs/2106.16004)
 - Vlaar, T., "Neural Network Behavior at the Classification Boundary", poster accepted for NeurIPS 2021 I (Still) Can’t Believe It’s Not Better (ICBINB) workshop. Preprint available on request.
 - Leimkuhler, B., Vlaar, T., Pouchon, T., and Storkey, A., "Better Training using Weight-Constrained Stochastic Dynamics", ICML, PMLR 139, 2021. Available: [arXiv:2106.10704](https://arxiv.org/abs/2106.10704)
 - Leimkuhler, B., Pouchon, T., Vlaar, T., and Storkey, A., "Constraint-Based Regularization of Neural Networks" (2020). Accepted as spotlight presentation for NeurIPS 2020 Optimization for ML workshop and received best student paper award. Available [arXiv:2006.10114](https://arxiv.org/abs/2006.10114)
