@@ -7,7 +7,7 @@ permalink: /research/
 Research Interests: Mathematics for Deep Learning, Sampling Methods, Numerical methods for Stochastic Differential Equations, Understanding Deep Learning, and Physics-informed Machine Learning.
 
 Papers: <br>
-[Multirate Training of Neural Networks [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/06/07/Multirate), *ICML 2022*. arXiv:2106.10771
+[Multirate Training of Neural Networks]({{TiffanyVlaar.github.io}}/jekyll/update/2021/06/07/Multirate) [[paper]](https://arxiv.org/abs/2106.10771)[[errata]]({{TiffanyVlaar.github.io}}/docs/Corrigendum.pdf)[[blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/06/07/Multirate), *ICML 2022*. arXiv:2106.10771
 
 [What can linear interpolation of neural network loss landscapes tell us? [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/06/02/LinearInterpolation), *ICML 2022*. arXiv:2106.16004
 
