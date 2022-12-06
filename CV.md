@@ -20,6 +20,7 @@ B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013.
 
 
 ***Leadership Experience:***
+- ICLR 2023 workshop co-organizer "Mathematical and Empirical Understanding of Foundation Models".
 - Board Member [One World Seminar on Mathematics of Machine Learning](https://www.oneworldml.org).
 - Founding member and co-lead of the UK-wide [Piscopia Initiative]({{TiffanyVlaar.github.io}}/Piscopia), 2019-2022. The aim is to increase women and non-binary participation in mathematical research. 
 - Committee member of the [IMA](https://ima.org.uk), Early Career Mathematicians Committee, 2021.
@@ -27,10 +28,11 @@ B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013.
 - Vice President SIAM and IMA Student Chapter University of Edinburgh, 2018-2020.
 
 ***Work and Teaching Experience:***
+- Postdoctoral Researcher, Mila & McGill University (current).
 - Co-Supervisor final year BSc project, 2019-2020.
 - Tutor, University of Edinburgh, courses: Machine Learning in Python, Computing and Numerics (Python), Probability with Applications, Several Variable Calculus and Differential Equations, Engineering Mathematics, Probability, 2018-2022.
 - Research Intern at Schlumberger Gould Research (Cambridge, UK), 2015.
-- Tutor, Leiden University, 2012-2014: Tutoring covered all courses of the 1st year Physics BSc.
+- Tutor, Leiden University, covered all courses of the 1st year Physics BSc, 2012-2014.
 - Assistant at Junior Science Lab, Leiden University, 2013.
 
 ***Service:***
