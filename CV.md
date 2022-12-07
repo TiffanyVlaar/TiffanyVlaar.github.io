@@ -36,6 +36,7 @@ B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013.
 - Assistant at Junior Science Lab, Leiden University, 2013.
 
 ***Service:***
+- Co-organizer NeurIPS Social for Early-Career Researchers Interested in Machine Learning & Climate Change with roundtable discussions, 2022.
 - Reviewer for ICML, 2021 and 2022.
 - Reviewer for the NeurIPS "Machine Learning and the Physical Sciences" and "ML Retrospectives, Surveys and Meta-Analyses" workshops, 2020.
 - Member of Mathematics Outreach Team, University of Edinburgh, 2018.
