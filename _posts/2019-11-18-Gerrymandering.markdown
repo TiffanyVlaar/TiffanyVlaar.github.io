@@ -38,7 +38,7 @@ A MCMC algorithm will then work as follows:
 
 Acknowledgements: <br>
 This idea is based on work by Jonathan Mattingly at Duke University. <br>
-Together with my supervisor, Benedict Leimkuhler, I co-supervised a group of four excellent final year BSc students at the University of Edinburgh in 2019-2020, who used MCMC techniques to study gerrymandering in the UK.
+Together with my supervisor, Benedict Leimkuhler, I co-supervised a group of three excellent final year BSc students at the University of Edinburgh in 2019-2020, who used MCMC techniques to study gerrymandering in the UK.
 
 ***References*** <br>
 [1] E. Griffith. The Rise and Development of the Gerrymander. Chicago: Scott, Foresman and Co, 1907.
