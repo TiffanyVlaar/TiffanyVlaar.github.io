@@ -48,7 +48,7 @@ B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013.
 Python, PyTorch, MATLAB.
 
 ***Publications:***
-- Vlaar, T. and Leimkuhler, B., "Multirate Training of Neural Networks", ICML, PMLR 162, 2022. Available: [arXiv:2106.10771](https://arxiv.org/abs/2106.10771), [[errata]]({{TiffanyVlaar.github.io}}/docs/Corrigendum.pdf)
+- Vlaar, T. and Leimkuhler, B., "Multirate Training of Neural Networks", ICML, PMLR 162, 2022. Available: [arXiv:2106.10771](https://arxiv.org/abs/2106.10771)
 - Vlaar, T. and Frankle, J., "What can linear interpolation of neural network loss landscapes tell us?", ICML, PMLR 162, 2022. Available: [arXiv:2106.16004](https://arxiv.org/abs/2106.16004)
 - Vlaar, T., "Neural Network Behavior at the Classification Boundary", poster accepted for NeurIPS 2021 I (Still) Can’t Believe It’s Not Better (ICBINB) workshop. Preprint available on request.
 - Leimkuhler, B., Vlaar, T., Pouchon, T., and Storkey, A., "Better Training using Weight-Constrained Stochastic Dynamics", ICML, PMLR 139, 2021. Available: [arXiv:2106.10704](https://arxiv.org/abs/2106.10704)
