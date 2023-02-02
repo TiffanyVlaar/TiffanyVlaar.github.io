@@ -4,8 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-Upcoming talk:
-Oxford Data Science seminar series, 6 February.
+Upcoming research talk:
+Oxford Data Science seminar, Mathematical Institute, 6 February 2023.
 
 Research Interests: Mathematics for Deep Learning, Sampling Methods, Numerical methods for Stochastic Differential Equations, Climate Change AI, Understanding Deep Learning, and Physics-informed Machine Learning.
 
