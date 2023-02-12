@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-Upcoming research talks:
+Upcoming research talks: <br>
 Oxford Data Science seminar, Mathematical Institute, 6 February 2023. <br>
 TU Wien Machine Learning research unit, 14 March 2023. <br>
 Oberwolfach meeting on Constrained Dynamics, Stochastic Numerical Methods and the Modeling of Complex Systems, May 2024 (TBC).
