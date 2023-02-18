@@ -4,11 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-Upcoming research talks: <br>
-Oxford Data Science seminar, Mathematical Institute, 6 February 2023. <br>
-TU Wien Machine Learning research unit, 14 March 2023. <br>
-Oberwolfach meeting on Constrained Dynamics, Stochastic Numerical Methods and the Modeling of Complex Systems, May 2024 (TBC).
-
 Research Interests: Mathematics for Deep Learning, Sampling Methods, Numerical methods for Stochastic Differential Equations, Climate Change AI, Understanding Deep Learning, and Physics-informed Machine Learning.
 
 Papers: <br>
@@ -36,8 +31,11 @@ Other Research Projects:
 - Applying Bayesian inference techniques to stochastic models (in particular Langevin dynamics models) for flocking
 - Stochastic Multiple Timestepping techniques for coupled systems of fast and slow variables
 
-Selected Workshops and Summerschools: 
+Selected Research Talks, Workshops, and Summerschools: 
 <!--- Poster at Machine Learning and Dynamical Systems symposium, Fields Institute, 2022.-->
+- Oberwolfach meeting on Constrained Dynamics, Stochastic Numerical Methods and the Modeling of Complex Systems, 2024 (TBC).
+- Talk, TU Wien Machine Learning research unit, 2023.
+- Talk, Oxford Data Science seminar, Mathematical Institute, 2023.
 - Two spotlight talks and posters at ICML, 2022.
 - Poster, "Interacting particle dynamics and data science" ICMS workshop, 2022.
 - Talk at "ODE and SDE methods in machine learning" symposium, NUMDIFF-16, 2021.
