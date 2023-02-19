@@ -34,6 +34,7 @@ Other Research Projects:
 Selected Research Talks, Workshops, and Summerschools: 
 <!--- Poster at Machine Learning and Dynamical Systems symposium, Fields Institute, 2022.-->
 - Oberwolfach meeting on Constrained Dynamics, Stochastic Numerical Methods and the Modeling of Complex Systems, 2024 (TBC).
+- Organizer, Mathematical and Empirical Understanding of Foundation Models Workshop, ICLR 2023.
 - Talk, TU Wien Machine Learning research unit, 2023.
 - Talk, Oxford Data Science seminar, Mathematical Institute, 2023.
 - Two spotlight talks and posters at ICML, 2022.
