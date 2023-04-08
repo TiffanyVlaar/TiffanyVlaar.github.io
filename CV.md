@@ -15,7 +15,7 @@ M. Sc. Theoretical Physics, Perimeter Scholars International programme, jointly 
 
 M. Sc. Applied Geophysics (Cum Laude), IDEA League programme, jointly offered by Delft University of Technology, the Netherlands, ETH Zürich, Switzerland, and RWTH Aachen, Germany. 2015.
 
-B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013. <br>
+B. Sc. Physics, Leiden University, the Netherlands. <br> <!--Graduated at age 18 in 2013.--> 
 <!---Extracurricular courses in Complex Analysis, PDEs, and Dynamical Systems.-->
 
 
