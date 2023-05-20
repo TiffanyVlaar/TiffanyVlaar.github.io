@@ -36,7 +36,7 @@ B. Sc. Physics, Leiden University, the Netherlands. 2013. <br> <!--Graduated at 
 - Assistant at Junior Science Lab, Leiden University, 2013.
 
 ***Service:***
-- Reviewer for Advances in Approximate Bayesian Inference (AABI), 2023.
+<!-- Reviewer for Advances in Approximate Bayesian Inference (AABI), 2023.-->
 - Reviewer for CVPR, Women in Computer Vision Workshop, 2023.
 - Co-organizer NeurIPS Social for Early-Career Researchers Interested in Machine Learning & Climate Change with roundtable discussions, 2022.
 - Reviewer for ICML, 2021 and 2022.
