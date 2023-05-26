@@ -36,7 +36,7 @@ B. Sc. Physics, Leiden University, the Netherlands. 2013. <br> <!--Graduated at 
 - Assistant at Junior Science Lab, Leiden University, 2013.
 
 ***Service:***
-<!-- Reviewer for Advances in Approximate Bayesian Inference (AABI), 2023.-->
+- Reviewer for Advances in Approximate Bayesian Inference (AABI), 2023.
 - Reviewer for CVPR, Women in Computer Vision Workshop, 2023.
 - Co-organizer NeurIPS Social for Early-Career Researchers Interested in Machine Learning & Climate Change with roundtable discussions, 2022.
 - Reviewer for ICML, 2021 and 2022.
@@ -50,6 +50,7 @@ B. Sc. Physics, Leiden University, the Netherlands. 2013. <br> <!--Graduated at 
 Python, PyTorch, MATLAB.
 
 ***Publications:***
+- Müller, M., Vlaar, T., Rolnick, D., and Hein, M., "Normalization Layers Are All That Sharpness-Aware Minimization Needs", preprint (under review), 2023.
 - Vlaar, T. and Leimkuhler, B., "Multirate Training of Neural Networks", ICML, PMLR 162, 2022. Available: [arXiv:2106.10771](https://arxiv.org/abs/2106.10771)
 - Vlaar, T. and Frankle, J., "What can linear interpolation of neural network loss landscapes tell us?", ICML, PMLR 162, 2022. Available: [arXiv:2106.16004](https://arxiv.org/abs/2106.16004)
 - Vlaar, T., "Neural Network Behavior at the Classification Boundary", poster accepted for NeurIPS 2021 I (Still) Can’t Believe It’s Not Better (ICBINB) workshop. Preprint available on request.
