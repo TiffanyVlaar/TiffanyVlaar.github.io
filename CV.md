@@ -4,7 +4,8 @@ title: CV
 permalink: /CV/
 ---
 
-***Current Position:*** Postdoctoral Researcher, Mila & School of Computer Science, McGill University.
+Upcoming Lecturer (assistant professor) in Applied Mathematics. <br>
+Postdoctoral Experience: Postdoc Researcher, Mila - Quebec AI Institute & School of Computer Science, McGill University. 2022-2023.
 
 ***Education:*** <br>
 Ph.D. Mathematics, University of Edinburgh (MIGSAA CDT). 2022.
@@ -15,20 +16,21 @@ M. Sc. Theoretical Physics, Perimeter Scholars International programme, jointly 
 
 M. Sc. Applied Geophysics (Cum Laude), IDEA League programme, jointly offered by Delft University of Technology, the Netherlands, ETH Zürich, Switzerland, and RWTH Aachen, Germany. 2015.
 
-B. Sc. Physics, Leiden University, the Netherlands. 2013. <br> <!--Graduated at age 18 in 2013.--> 
+B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013. <br> <!----> 
 <!---Extracurricular courses in Complex Analysis, PDEs, and Dynamical Systems.-->
 
 
 ***Leadership Experience:***
 - ICLR 2023 workshop co-organizer "Mathematical and Empirical Understanding of Foundation Models".
 - Board Member [One World Seminar on Mathematics of Machine Learning](https://www.oneworldml.org).
+- Co-organizer NeurIPS Social for Early-Career Researchers Interested in Machine Learning & Climate Change with roundtable discussions, 2022.
 - Founding member and co-lead of the UK-wide [Piscopia Initiative]({{TiffanyVlaar.github.io}}/Piscopia), 2019-2022. The aim is to increase women and non-binary participation in mathematical research. 
 - Committee member of the [IMA](https://ima.org.uk), Early Career Mathematicians Committee, 2021.
 - Co-organiser of first UK-wide virtual [Mathematics of Data Science (MathODS)](https://maths-of-data.github.io) graduate student conference, 2020.
 - Vice President SIAM and IMA Student Chapter University of Edinburgh, 2018-2020.
 
 ***Work and Teaching Experience:***
-- Postdoctoral Researcher, Mila & McGill University (current).
+- Postdoctoral Researcher, Mila & McGill University, 2022-2023.
 - Co-Supervisor final year BSc project, 2019-2020.
 - Tutor, University of Edinburgh, courses: Machine Learning in Python, Computing and Numerics (Python), Probability with Applications, Several Variable Calculus and Differential Equations, Engineering Mathematics, Probability, 2018-2022.
 - Research Intern at Schlumberger Gould Research (Cambridge, UK), 2015.
@@ -38,7 +40,6 @@ B. Sc. Physics, Leiden University, the Netherlands. 2013. <br> <!--Graduated at 
 ***Service:***
 - Reviewer for Advances in Approximate Bayesian Inference (AABI), 2023.
 - Reviewer for CVPR, Women in Computer Vision Workshop, 2023.
-- Co-organizer NeurIPS Social for Early-Career Researchers Interested in Machine Learning & Climate Change with roundtable discussions, 2022.
 - Reviewer for ICML, 2021 and 2022.
 - Reviewer for the NeurIPS "Machine Learning and the Physical Sciences" and "ML Retrospectives, Surveys and Meta-Analyses" workshops, 2020.
 - Member of Mathematics Outreach Team, University of Edinburgh, 2018.
