@@ -4,13 +4,14 @@ title: CV
 permalink: /CV/
 ---
 
-Upcoming Lecturer (assistant professor) in Applied Mathematics. <br>
+Upcoming Lecturer (Assistant Professor) in Applied Mathematics. <br>
+
 Postdoctoral Experience: Postdoc Researcher, Mila - Quebec AI Institute & School of Computer Science, McGill University. 2022-2023.
 
 ***Education:*** <br>
 Ph.D. Mathematics, University of Edinburgh (MIGSAA CDT). 2022.
 
-Turing Enrichment student, Alan Turing Institute, UK. 2021.
+Turing Enrichment student, Alan Turing Institute, UK, 3 months (in-person) and 6 months remote engagement. 2021.
 
 M. Sc. Theoretical Physics, Perimeter Scholars International programme, jointly offered by the Perimeter Institute for Theoretical Physics and the University of Waterloo in Ontario, Canada. 2016.
 
@@ -51,7 +52,7 @@ B. Sc. Physics, Leiden University, the Netherlands. Graduated at age 18 in 2013.
 Python, PyTorch, MATLAB.
 
 ***Publications:***
-- Müller, M., Vlaar, T., Rolnick, D., and Hein, M., "Normalization Layers Are All That Sharpness-Aware Minimization Needs", preprint (under review), 2023.
+- Müller, M., Vlaar, T., Rolnick, D., and Hein, M., "Normalization Layers Are All That Sharpness-Aware Minimization Needs", preprint (under review), 2023. Available: [arXiv:2306.04226](https://arxiv.org/abs/2306.04226)
 - Vlaar, T. and Leimkuhler, B., "Multirate Training of Neural Networks", ICML, PMLR 162, 2022. Available: [arXiv:2106.10771](https://arxiv.org/abs/2106.10771)
 - Vlaar, T. and Frankle, J., "What can linear interpolation of neural network loss landscapes tell us?", ICML, PMLR 162, 2022. Available: [arXiv:2106.16004](https://arxiv.org/abs/2106.16004)
 - Vlaar, T., "Neural Network Behavior at the Classification Boundary", poster accepted for NeurIPS 2021 I (Still) Can’t Believe It’s Not Better (ICBINB) workshop. Preprint available on request.
