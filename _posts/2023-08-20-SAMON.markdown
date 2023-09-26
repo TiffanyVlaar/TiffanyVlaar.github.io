@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Normalization layers are all SAM needs"
+title:  "Normalization Layers are All SAM Needs"
 date:   2023-09-26 09:42:09 +0100
 categories: jekyll update
 ---
@@ -13,7 +13,7 @@ Further, we observe that training with SAM-ON can in fact increase sharpness, ca
 If this sparked your interest, check out the full paper on: [arXiv:2306.04226](https://arxiv.org/abs/2306.04226). <br>
 This paper is joint work with Max Müller, David Rolnick, and Matthias Hein and has been accepted to NeurIPS 2023. 
 
-<img src="/pics/transfermultirate2.png" width="800"/>
+<img src="/pics/SAMON.png" width="800"/>
 
 
 
