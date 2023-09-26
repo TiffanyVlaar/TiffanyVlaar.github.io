@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What can Linear Interpolation of Neural Network Loss Landscapes tell us?"
-date:   2021-06-02 05:42:09 +0100
+date:   2021-10-02 05:42:09 +0100
 categories: jekyll update
 ---
 
