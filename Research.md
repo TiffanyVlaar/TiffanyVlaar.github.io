@@ -7,11 +7,11 @@ permalink: /research/
 Research Interests: Understanding Foundation Models, Mathematics for Deep Learning, Sampling Methods, Numerical methods for Stochastic Differential Equations, Climate Change AI, and Physics-informed Machine Learning.
 
 Papers: <br>
-[Normalization Layers Are All That Sharpness-Aware Minimization Needs](https://arxiv.org/abs/2306.04226), *NeurIPS* 2023.
+[Normalization Layers Are All That Sharpness-Aware Minimization Needs [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2023/08/20/SAMON)[[paper]](https://arxiv.org/abs/2306.04226), *NeurIPS* 2023.
 
-[Multirate Training of Neural Networks [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/06/07/Multirate)[[paper]](https://arxiv.org/abs/2106.10771)[[errata]]({{TiffanyVlaar.github.io}}/docs/Corrigendum.pdf)[[slides]]({{TiffanyVlaar.github.io}}/slides/ICML_Multirate.pdf)[[poster]]({{TiffanyVlaar.github.io}}/docs/ICML_MultiratePoster.pdf), *ICML 2022*. 
+[Multirate Training of Neural Networks [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/10/07/Multirate)[[paper]](https://arxiv.org/abs/2106.10771)[[errata]]({{TiffanyVlaar.github.io}}/docs/Corrigendum.pdf)[[slides]]({{TiffanyVlaar.github.io}}/slides/ICML_Multirate.pdf)[[poster]]({{TiffanyVlaar.github.io}}/docs/ICML_MultiratePoster.pdf), *ICML 2022*. 
 
-[What can linear interpolation of neural network loss landscapes tell us? [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/06/02/LinearInterpolation)[[paper]](https://proceedings.mlr.press/v162/vlaar22a.html)[[slides]]({{TiffanyVlaar.github.io}}/slides/ICML_LinearInterpolation.pdf)[[poster]]({{TiffanyVlaar.github.io}}/docs/Poster_LinearInterpolation_ICML.pdf), *ICML 2022*. 
+[What can linear interpolation of neural network loss landscapes tell us? [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/10/02/LinearInterpolation)[[paper]](https://proceedings.mlr.press/v162/vlaar22a.html)[[slides]]({{TiffanyVlaar.github.io}}/slides/ICML_LinearInterpolation.pdf)[[poster]]({{TiffanyVlaar.github.io}}/docs/Poster_LinearInterpolation_ICML.pdf), *ICML 2022*. 
 
 [Better Training using Weight-Constrained Stochastic Dynamics [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2020/11/04/ConstraintBasedReg), *ICML 2021*. <br>
 In this paper we use constrained stochastic differential equations to train deep neural networks. We provide a general framework with accompanying discretization schemes and a statistical guarantee on the convergence of the
