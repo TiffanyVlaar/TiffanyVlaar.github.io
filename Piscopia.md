@@ -25,8 +25,8 @@ I am also grateful to all our wonderful local committee members and our new Pisc
 
 <img src="/pics/Banner_Piscopia.png" width="900"/>
 
-There are many other excellent initiatives that aim to increase diversity.
-An example right here in Edinburgh is the Aurora Ensemble, which aims to promote classical music by underrepresented composers. [https://auroraensembleedinburgh.wordpress.com]{https://auroraensembleedinburgh.wordpress.com}
+There are many other excellent initiatives that aim to increase diversity. <br>
+An example right here in Edinburgh is the Aurora Ensemble, which aims to promote classical music by underrepresented composers. [https://auroraensembleedinburgh.wordpress.com](https://auroraensembleedinburgh.wordpress.com)
 
 <!--
 In 2018-2019 I organized a Machine Learning Seminar for the Mathematics department at the University of Edinburgh. An overview of the talks is provided below. Please feel free to contact me if you want to get in touch with any of the speakers. 
