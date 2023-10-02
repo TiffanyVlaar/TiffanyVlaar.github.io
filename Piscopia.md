@@ -26,7 +26,10 @@ I am also grateful to all our wonderful local committee members and our new Pisc
 <img src="/pics/Banner_Piscopia.png" width="900"/>
 
 There are many other excellent initiatives that aim to increase diversity. <br>
-An example right here in Edinburgh is the Aurora Ensemble, which aims to promote classical music by underrepresented composers. [https://auroraensembleedinburgh.wordpress.com](https://auroraensembleedinburgh.wordpress.com)
+Some upcoming events are:
+- [Black Heroes of Mathematics Conference](https://www.icms.org.uk/events/2023/black-heroes-mathematics-conference-2023), online, 3-4 October 2023.
+- An online panel discussion on the academic job search hosted by EWM, 19 October 2023, 3pm CEST. [Sign up link](https://forms.gle/ZEy6AosQM9YMhf786). 
+- A concert by the newly founded Aurora Ensemble in Edinburgh on 22 October 2023, which aims to promote classical music by underrepresented composers. [https://auroraensembleedinburgh.wordpress.com](https://auroraensembleedinburgh.wordpress.com)
 
 <!--
 In 2018-2019 I organized a Machine Learning Seminar for the Mathematics department at the University of Edinburgh. An overview of the talks is provided below. Please feel free to contact me if you want to get in touch with any of the speakers. 
