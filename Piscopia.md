@@ -28,7 +28,7 @@ I am also grateful to all our wonderful local committee members and our new Pisc
 There are many other excellent initiatives that aim to increase diversity. <br>
 Some upcoming events are:
 - [Black Heroes of Mathematics Conference](https://www.icms.org.uk/events/2023/black-heroes-mathematics-conference-2023), online, 3-4 October 2023.
-- An online panel discussion on the academic job search hosted by EWM, 19 October 2023, 3pm CEST. [Sign up link](https://forms.gle/ZEy6AosQM9YMhf786). 
+- An online panel discussion on the academic job search hosted by EWM, 19 October 2023, 3pm CEST. [More info](https://www.europeanwomeninmaths.org/activity/ewm-forum-academic-job-search-panel/).[Sign up link](https://forms.gle/ZEy6AosQM9YMhf786). 
 - A concert by the newly founded Aurora Ensemble in Edinburgh on 22 October 2023, which aims to promote classical music by underrepresented composers. [https://auroraensembleedinburgh.wordpress.com](https://auroraensembleedinburgh.wordpress.com)
 
 <!--
