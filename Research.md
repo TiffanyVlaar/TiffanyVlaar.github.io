@@ -38,6 +38,7 @@ Other Research Projects:
 Selected Research Talks, Workshops, and Summerschools: 
 <!--- Poster at Machine Learning and Dynamical Systems symposium, Fields Institute, 2022.-->
 - Oberwolfach meeting on Constrained Dynamics, Stochastic Numerical Methods and the Modeling of Complex Systems, 2024 (TBC).
+- NeurIPS, 2023.
 - Invited Talk, Montreal Machine Learning and Optimization Seminar, 2023.
 - Invited Talk, CRM Applied Mathematics Lab Seminar, 2023.
 - Invited Talk, RMT-OPT-ML Seminar, 2023.
