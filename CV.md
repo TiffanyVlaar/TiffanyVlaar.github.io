@@ -4,7 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-Upcoming Lecturer (Assistant Professor) in Applied Mathematics. <br>
+Lecturer in Applied Mathematics at the University of Glasgow. Current. <br>
 
 Postdoctoral Experience: Postdoc Researcher, Mila - Quebec AI Institute & School of Computer Science, McGill University. 2022-2023.
 
