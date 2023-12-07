@@ -4,6 +4,11 @@ title: Research
 permalink: /research/
 ---
 
+**I am open to supervising PhD students.** <br>
+Funding is available, but competitive. More information can be found [here](https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/). Shortlisting starts on 1 January 2024 and continues until all funded places are awarded. <br>
+Please feel free to reach out to me. In your email please include your CV, university transcripts, and any dissertations/papers you may have written (but do not worry if you do not have publications at this stage).
+
+
 Research Interests: Understanding Foundation Models, Mathematics for Deep Learning, Sampling Methods, Numerical methods for Stochastic Differential Equations, Climate Change AI, and Physics-informed Machine Learning.
 
 Papers: <br>
