@@ -4,19 +4,19 @@ title: CV
 permalink: /CV/
 ---
 
-  **Lecturer** (Assistant Prof.) in Applied Mathematics at the University of Glasgow. Current. <br>
+  *Lecturer* (Assistant Prof.) in Applied Mathematics at the University of Glasgow. Current. <br>
 
-  **Postdoctoral Researcher Computer Science**, Mila - Quebec AI Institute & School of Computer Science, McGill University. 2022-2023.
+  *Postdoctoral Researcher Computer Science*, Mila - Quebec AI Institute & McGill University. 2022-2023.
 
-  **Ph.D. Mathematics**, University of Edinburgh (MIGSAA CDT). 2022.
+  *Ph.D. Mathematics*, University of Edinburgh (MIGSAA CDT). 2022.
 
-  **Turing Enrichment student**, Alan Turing Institute, UK, 3 months (in-person) and 6 months remote engagement. 2021.
+  *Turing Enrichment student*, Alan Turing Institute, UK, 3 months (in-person) and 6 months remote engagement. 2021.
 
-  **M. Sc. Theoretical Physics**, Perimeter Scholars International programme, jointly offered by the Perimeter Institute for Theoretical Physics and the University of Waterloo in Ontario, Canada. 2016.
+  *M. Sc. Theoretical Physics*, Perimeter Scholars International programme, jointly offered by the Perimeter Institute for Theoretical Physics and the University of Waterloo in Ontario, Canada. 2016.
 
-  **M. Sc. Applied Geophysics** (Cum Laude), IDEA League programme, jointly offered by Delft University of Technology, the Netherlands, ETH Zürich, Switzerland, and RWTH Aachen, Germany. 2015.
+  *M. Sc. Applied Geophysics* (Cum Laude), IDEA League programme, jointly offered by Delft University of Technology, the Netherlands, ETH Zürich, Switzerland, and RWTH Aachen, Germany. 2015.
 
-  **B. Sc. Physics**, Leiden University, the Netherlands. 2013. <br> <!----> 
+  *B. Sc. Physics*, Leiden University, the Netherlands. 2013. <br> <!----> 
 <!---Extracurricular courses in Complex Analysis, PDEs, and Dynamical Systems.-->
 
 
