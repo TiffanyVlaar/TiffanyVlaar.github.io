@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi there, I'm Tiffany (she/her), a Lecturer (Assistant Prof.) at the University of Glasgow working in the areas of mathematics of deep learning and physics-inspired machine learning for applications in climate change.
 
-I'm always looking for new collaborators and am open to supervising students, so if you are interested in [my research]({{TiffanyVlaar.github.io}}/research), please feel free to drop me an email. 
+I'm always looking for new collaborators and am [open to supervising students]({{TiffanyVlaar.github.io}}/docs/supervision.md), so if you are interested in [my research]({{TiffanyVlaar.github.io}}/research), please feel free to drop me an email. 
 
 I'll be attending NeurIPS 2023 if you want to try to catch me there.
 
