@@ -4,10 +4,10 @@ title: Research
 permalink: /research/
 ---
 
-**Supervision**
+**Supervision** <br>
 I am open to supervising PhD students. Funding is available, but competitive. More information can be found [here](https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/). <br>
 Shortlisting starts on 1 January 2024 and continues until all funded places are awarded. <br>
-The University of Glasgow also offers James McCune Smith scholarships for black UK domiciled students [more info](https://www.gla.ac.uk/scholarships/mccune-smith/). The application deadline for this scholarship is 31 January.  
+The University of Glasgow also offers [James McCune Smith scholarships](https://www.gla.ac.uk/scholarships/mccune-smith/) for black UK domiciled students. The application deadline for this scholarship is 31 January.  
 
 Please feel free to reach out to me to discuss your application. <br>
 In your email please include your CV, university transcripts, and any dissertations/papers you may have written (but do not worry if you do not have any publications at this stage).
