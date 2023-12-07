@@ -4,14 +4,17 @@ title: Research
 permalink: /research/
 ---
 
-**I am open to supervising PhD students.** <br>
-Funding is available, but competitive. More information can be found [here](https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/). Shortlisting starts on 1 January 2024 and continues until all funded places are awarded. <br>
-Please feel free to reach out to me. In your email please include your CV, university transcripts, and any dissertations/papers you may have written (but do not worry if you do not have publications at this stage).
+**Supervision**
+I am open to supervising PhD students. Funding is available, but competitive. More information can be found [here](https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/). <br>
+Shortlisting starts on 1 January 2024 and continues until all funded places are awarded. <br>
+The University of Glasgow also offers James McCune Smith scholarships for black UK domiciled students [more info](https://www.gla.ac.uk/scholarships/mccune-smith/). The application deadline for this scholarship is 31 January.  
 
+Please feel free to reach out to me to discuss your application. <br>
+In your email please include your CV, university transcripts, and any dissertations/papers you may have written (but do not worry if you do not have any publications at this stage).
 
-Research Interests: Understanding Foundation Models, Mathematics for Deep Learning, Sampling Methods, Numerical methods for Stochastic Differential Equations, Climate Change AI, and Physics-informed Machine Learning.
+**Research Interests**: Understanding Foundation Models, Mathematics for Deep Learning, Sampling Methods, Numerical methods for Stochastic Differential Equations, Climate Change AI, and Physics-informed Machine Learning.
 
-Papers: <br>
+**Papers:** <br>
 [Normalization Layers Are All That Sharpness-Aware Minimization Needs [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2023/09/26/SAMON)[[paper]](https://arxiv.org/abs/2306.04226), *NeurIPS* 2023.
 
 [Multirate Training of Neural Networks [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/10/07/Multirate)[[paper]](https://arxiv.org/abs/2106.10771)[[errata]]({{TiffanyVlaar.github.io}}/docs/Corrigendum.pdf)[[slides]]({{TiffanyVlaar.github.io}}/slides/ICML_Multirate.pdf)[[poster]]({{TiffanyVlaar.github.io}}/docs/ICML_MultiratePoster.pdf), *ICML 2022*. 
@@ -30,7 +33,7 @@ This thermodynamic parameterization technique for neural network training allows
 
 
 
-Other Research Projects:
+**Other Research Projects:**
 - Deep learning framework for the unit commitment problem.
 - Gerrymandering in the United Kingdom: Interpreting political geography in a statistical physics framework and using Markov Chain Monte Carlo methods for Assessing the Fairness of Political Constituencies. Related blogpost: [Gerrymandering blog]({{TiffanyVlaar.github.io}}/jekyll/update/2019/11/18/Gerrymandering.html)
 - Introducing sparsity in neural networks using sampling. <br>
@@ -40,7 +43,7 @@ Other Research Projects:
 - Stochastic Multiple Timestepping techniques for coupled systems of fast and slow variables.
 - From my days at the Perimeter Institute for Theoretical Physics, a study on the shape dependence of two-cylinder Rényi entropies for free bosons on a lattice, which [appeared in Physical Review B](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.165136).
 
-Selected Research Talks, Workshops, and Summerschools: 
+**Selected Research Talks, Workshops, and Summerschools:**
 <!--- Poster at Machine Learning and Dynamical Systems symposium, Fields Institute, 2022.-->
 - Oberwolfach meeting on Constrained Dynamics, Stochastic Numerical Methods and the Modeling of Complex Systems, 2024 (TBC).
 - NeurIPS, 2023.
