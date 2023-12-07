@@ -4,6 +4,21 @@ title: Piscopia
 permalink: /Piscopia/ 
 ---
 
+The Piscopia Initiative [(piscopia.co.uk)](https://piscopia.co.uk) hosts PhD information and networking events across the UK. <br>
+These events are specifically aimed at women and non-binary Mathematics students, although anyone is welcome to attend. <br>
+For upcoming events please see: [https://piscopia.co.uk/whats-on/](https://piscopia.co.uk/whats-on/).
+
+I give some more details on the aims and type of events hosted by Piscopia below, but also want to use this page to highlight other excellent initiatives that aim to increase diversity.
+
+Some upcoming events/opportunitites are:
+- Free online panel discussions for Early Career Researchers on e.g. grants, academic job search, and publications, offered by the LMS: [https://www.lms.ac.uk/careers/ecr-professional-development](https://www.lms.ac.uk/careers/ecr-professional-development).
+- [Black Heroes of Mathematics 2023 Conference](https://www.icms.org.uk/events/2023/black-heroes-mathematics-conference-2023), talk recordings are available.
+- An online panel discussion on the academic job search hosted by EWM, 19 October 2023, 3pm CEST. [More info](https://www.europeanwomeninmaths.org/activity/ewm-forum-academic-job-search-panel/). 
+- [New in ML](https://newinml.github.io) NeurIPS 2023 workshop. Abstract deadline 5 October 2023. Workshop day 11 December 2023.
+- A concert by the Aurora Ensemble in Edinburgh on 16 February 2024, which aims to promote classical music by underrepresented composers. [https://auroraensembleedinburgh.wordpress.com](https://auroraensembleedinburgh.wordpress.com)
+
+**Piscopia Initiative**
+
 Together with fellow PhD students Bella Deutsch and Mary LLewellyn, I co-founded the Piscopia Initiative [(piscopia.co.uk)](https://piscopia.co.uk) in 2019 to encourage women and non-binary students to pursue a PhD in mathematics. 
 
 *Although 40% of UK graduates in the mathematical sciences are female, only 6% of them go on to be professors [LMS report, 2013].* 
@@ -25,13 +40,13 @@ I am also grateful to all our wonderful local committee members and our new Pisc
 
 <img src="/pics/Banner_Piscopia.png" width="900"/>
 
-There are many other excellent initiatives that aim to increase diversity. <br>
+<!--There are many other excellent initiatives that aim to increase diversity. <br>
 Some upcoming events are:
 - [Black Heroes of Mathematics Conference](https://www.icms.org.uk/events/2023/black-heroes-mathematics-conference-2023), online, 3-4 October 2023.
 - [New in ML](https://newinml.github.io) NeurIPS 2023 workshop. Abstract deadline 5 October 2023.
 - An online panel discussion on the academic job search hosted by EWM, 19 October 2023, 3pm CEST. [More info](https://www.europeanwomeninmaths.org/activity/ewm-forum-academic-job-search-panel/). [Sign up link](https://forms.gle/ZEy6AosQM9YMhf786). 
 - A concert by the newly founded Aurora Ensemble in Edinburgh on 22 October 2023, which aims to promote classical music by underrepresented composers. [https://auroraensembleedinburgh.wordpress.com](https://auroraensembleedinburgh.wordpress.com)
-
+-->
 <!--
 In 2018-2019 I organized a Machine Learning Seminar for the Mathematics department at the University of Edinburgh. An overview of the talks is provided below. Please feel free to contact me if you want to get in touch with any of the speakers. 
 
