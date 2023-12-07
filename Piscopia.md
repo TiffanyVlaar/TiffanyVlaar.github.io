@@ -10,7 +10,7 @@ For upcoming events please see: [https://piscopia.co.uk/whats-on/](https://pisco
 
 I give some more details on the aims and type of events hosted by Piscopia below, but also want to use this page to highlight other excellent initiatives that aim to increase diversity.
 
-Some upcoming events/opportunitites are:
+Some upcoming events/opportunities are:
 - Free online panel discussions for Early Career Researchers on e.g. grants, academic job search, and publications, offered by the LMS: [https://www.lms.ac.uk/careers/ecr-professional-development](https://www.lms.ac.uk/careers/ecr-professional-development).
 - [Black Heroes of Mathematics 2023 Conference](https://www.icms.org.uk/events/2023/black-heroes-mathematics-conference-2023), talk recordings are available.
 - An online panel discussion on the academic job search hosted by EWM, 19 October 2023, 3pm CEST. [More info](https://www.europeanwomeninmaths.org/activity/ewm-forum-academic-job-search-panel/). 
