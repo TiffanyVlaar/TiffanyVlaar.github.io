@@ -4,12 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-**Supervision**: I am open to supervising students. See [here]({{TiffanyVlaar.github.io}}/docs/supervision.md) for more information. If you are interested in my research, please feel free to reach out to me to discuss PhD (or MSc Research) options at the University of Glasgow. <br>
-In your email please include your CV, university transcripts, and any dissertations/papers you may have written (but do not worry if you do not have any publications at this stage).
-
-Funding is available, but competitive. More information can be found [here](https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/). <br>
-Shortlisting starts on 1 January 2024 and continues until all funded places are awarded. <br>
-The University of Glasgow also offers [James McCune Smith scholarships](https://www.gla.ac.uk/scholarships/mccune-smith/) for black UK domiciled students. The application deadline is 31 January 2024.  
+**Supervision**: I am open to supervising research students. Please see [here]({{TiffanyVlaar.github.io}}/docs/supervision.md) for more information.
 
 **Research Interests**: Understanding Foundation Models, Mathematics for Deep Learning, Sampling Methods, Numerical methods for Stochastic Differential Equations, Climate Change AI, and Physics-informed Machine Learning.
 
