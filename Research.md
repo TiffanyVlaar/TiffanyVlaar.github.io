@@ -6,7 +6,7 @@ permalink: /research/
 
 **Supervision**: I am open to supervising research students. Please see [here]({{TiffanyVlaar.github.io}}/docs/supervision.md) for more information.
 
-**Research Interests**: Understanding Foundation Models, Mathematics for Deep Learning, Sampling Methods, Numerical methods for Stochastic Differential Equations, Climate Change AI, and Physics-informed Machine Learning.
+**Research Interests**: Mathematics for Deep Learning, Sampling Methods, Numerical methods for Stochastic Differential Equations, Climate Change AI, and Physics-informed Machine Learning.
 
 **Papers:** <br>
 [Normalization Layers Are All That Sharpness-Aware Minimization Needs [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2023/09/26/SAMON)[[paper]](https://arxiv.org/abs/2306.04226)[[poster]]({{TiffanyVlaar.github.io}}/docs/SAM_ON_poster_NeurIPS2023.pdf), *NeurIPS* 2023.
