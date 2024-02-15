@@ -5,8 +5,7 @@ permalink: /research/
 ---
 
 **Supervision**: I am open to supervising research students. Please see [here]({{TiffanyVlaar.github.io}}/docs/supervision.md) for more information. <br>
-*Opportunity*: Apply for a 4-year fully-funded PhD position within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html). Together with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) we are offering a project on deploying deep learning to analyse marine acoustic & image data. <br>
-*Deadline*: 22 March 2024.
+*Opportunity*: Apply for a 4-year fully-funded PhD position within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html). Together with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) we are offering a project on deploying deep learning to analyse marine acoustic & image data. *Deadline*: 22 March 2024.
 
 **Research Interests**: Mathematics for Deep Learning, Sampling Methods, Numerical methods for Stochastic Differential Equations, Climate Change AI, and Physics-informed Machine Learning.
 
