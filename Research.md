@@ -6,7 +6,7 @@ permalink: /research/
 
 **Supervision**: I am open to supervising research students. Please see [here]({{TiffanyVlaar.github.io}}/docs/supervision.md) for more information. <br>
 *Opportunities*: 
-- The University of Glasgow offers James McCune Smith scholarships for black UK domiciled students. Please feel free to reach out if you want to discuss applying for these. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
+- The University of Glasgow offers 4-year fully funded PhD positions for black UK domiciled students through the James McCune Smith scholarships. Please feel free to reach out if you want to discuss applying for these. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
 The application deadline for Science and Engineering areas has been extended to 15 March 2024.
 - Apply for a 4-year fully-funded PhD position within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html). Together with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) we are offering a project on deploying deep learning to analyse marine acoustic & image data. *Deadline*: 22 March 2024.
 
