@@ -5,5 +5,5 @@ Funding is available, but competitive. More information can be found here: https
 Shortlisting starts early January, with scholarship decisions being made later mid-January. The process continues until all funded places are awarded.
 
 The University of Glasgow also offers James McCune Smith scholarships for black UK domiciled students.
-The application deadline is 31 January 2024.
+The application deadline for Science and Engineering areas has been extended to 15 March 2024.
 More information: https://www.gla.ac.uk/scholarships/mccune-smith/
