@@ -14,13 +14,17 @@ permalink: /CV/
 
   *M. Sc. Theoretical Physics*, Perimeter Scholars International programme, jointly offered by the Perimeter Institute for Theoretical Physics and the University of Waterloo in Ontario, Canada. 2016.
 
-  *M. Sc. Applied Geophysics* (Cum Laude), IDEA League programme, jointly offered by Delft University of Technology, the Netherlands, ETH Zürich, Switzerland, and RWTH Aachen, Germany. 2015.
+  *M. Sc. Applied Geophysics* (Cum Laude), IDEA League programme, jointly offered by Delft University of Technology, the Netherlands, ETH Zürich, Switzerland, and RWTH Aachen, Germany. 2015. <br>
+  *Research Intern*, Schlumberger Gould Research (Cambridge, UK). 2015.
 
-  *B. Sc. Physics*, Leiden University, the Netherlands. 2013. <br> <!----> 
+  *B. Sc. Physics*, Leiden University, the Netherlands. 2013. <br> 
+  *Assistant Junior Science Lab*, Leiden University. 2013.
+  <!----> 
 <!---Extracurricular courses in Complex Analysis, PDEs, and Dynamical Systems.-->
 
 
-***Leadership Experience:***
+***Leadership Experience and Development:***
+- The Glasgow Crucible, 2024.
 - ICLR 2023 workshop co-organizer "Mathematical and Empirical Understanding of Foundation Models".
 - Board Member [One World Seminar on Mathematics of Machine Learning](https://www.oneworldml.org).
 - Co-organizer NeurIPS Social for Early-Career Researchers Interested in Machine Learning & Climate Change with roundtable discussions, 2022.
@@ -29,13 +33,11 @@ permalink: /CV/
 - Co-organiser of first UK-wide virtual [Mathematics of Data Science (MathODS)](https://maths-of-data.github.io) graduate student conference, 2020.
 - Vice President SIAM and IMA Student Chapter University of Edinburgh, 2018-2020.
 
-***Work and Teaching Experience:***
-- Postdoctoral Researcher, Mila & McGill University, 2022-2023.
-- Co-Supervisor final year BSc project, 2019-2020.
+***Teaching Experience:***
+- Mathematics 1G: Introduction to Algebra, Geometry & Networks (MATHS1016), University of Glasgow, 2024.
 - Tutor, University of Edinburgh, courses: Machine Learning in Python, Computing and Numerics (Python), Probability with Applications, Several Variable Calculus and Differential Equations, Engineering Mathematics, Probability, 2018-2022.
-- Research Intern at Schlumberger Gould Research (Cambridge, UK), 2015.
 - Tutor, Leiden University, covered all courses of the 1st year Physics BSc, 2012-2014.
-- Assistant at Junior Science Lab, Leiden University, 2013.
+<!---Co-Supervisor final year BSc project, 2019-2020.-->
 
 ***Service:***
 - Area Chair, ICLR "Mathematical and Empirical Understanding of Foundation Models" workshop, 2023.
