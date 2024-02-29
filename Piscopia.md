@@ -4,7 +4,7 @@ title: Piscopia
 permalink: /Piscopia/ 
 ---
 
-The Piscopia Initiative [(piscopia.co.uk)](https://piscopia.co.uk) (Equate Student Society of the Year 2024) hosts PhD information and networking events across the UK. <br>
+The Piscopia Initiative [(piscopia.co.uk)](https://piscopia.co.uk) [Equate Student Society of the Year 2024] hosts PhD information and networking events across the UK. <br>
 These events are specifically aimed at women and non-binary Mathematics students, although anyone is welcome to attend. <br>
 For upcoming events please see: [https://piscopia.co.uk/whats-on/](https://piscopia.co.uk/whats-on/).
 
