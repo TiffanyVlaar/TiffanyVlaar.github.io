@@ -17,7 +17,7 @@ Some upcoming events/opportunities are:
 - [New in ML](https://newinml.github.io) NeurIPS 2023 workshop. Abstract deadline 5 October 2023. Workshop day 11 December 2023.
 - A concert by the Aurora Ensemble in Edinburgh on 16 February 2024, which aims to promote classical music by underrepresented composers. [https://auroraensembleedinburgh.wordpress.com](https://auroraensembleedinburgh.wordpress.com)
 
-A short talk I gave in 2020 about the wide range of mathematical research: [[Facets of Mathematics]]({{TiffanyVlaar.github.io}}/docs/FacetsOfMathematics.pdf).
+A short talk I gave in 2020 about the wide range of mathematical research: [Facets of Mathematics]({{TiffanyVlaar.github.io}}/docs/FacetsOfMathematics.pdf).
 
 **Piscopia Initiative**
 
