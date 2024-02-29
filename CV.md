@@ -24,7 +24,7 @@ permalink: /CV/
 
 
 ***Leadership Experience and Development:***
-- The Glasgow Crucible, 2024.
+- The [Glasgow Crucible](https://www.gla.ac.uk/myglasgow/ris/researcherdevelopment/researchstaff/crucibleprogramme/), 2024.
 - Board Member [One World Seminar on Mathematics of Machine Learning](https://www.oneworldml.org), 2022-24.
 - ICLR workshop co-organizer ["Mathematical and Empirical Understanding of Foundation Models"](https://sites.google.com/view/me-fomo2023), 2023.
 - Co-organizer NeurIPS Social for Early-Career Researchers Interested in [Machine Learning & Climate Change with roundtable discussions](https://sighellan.github.io/climate-ml-social-2022/), 2022.
