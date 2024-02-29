@@ -27,7 +27,7 @@ permalink: /CV/
 - The Glasgow Crucible, 2024.
 - Board Member [One World Seminar on Mathematics of Machine Learning](https://www.oneworldml.org), 2022-24.
 - ICLR workshop co-organizer ["Mathematical and Empirical Understanding of Foundation Models"](https://sites.google.com/view/me-fomo2023), 2023.
-- Co-organizer [NeurIPS Social for Early-Career Researchers Interested in Machine Learning & Climate Change with roundtable discussions](https://sighellan.github.io/climate-ml-social-2022/), 2022.
+- Co-organizer NeurIPS Social for Early-Career Researchers Interested in [Machine Learning & Climate Change with roundtable discussions](https://sighellan.github.io/climate-ml-social-2022/), 2022.
 - Founding member and co-lead of the UK-wide [Piscopia Initiative]({{TiffanyVlaar.github.io}}/Piscopia), 2019-2022. The aim is to increase women and non-binary participation in mathematical research. 
 - Committee member of the [IMA](https://ima.org.uk), Early Career Mathematicians Committee, 2021.
 - Co-organiser of first UK-wide virtual [Mathematics of Data Science (MathODS)](https://maths-of-data.github.io) graduate student conference, 2020.
