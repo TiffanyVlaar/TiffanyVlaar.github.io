@@ -15,10 +15,10 @@ The application deadline for Science and Engineering areas has been extended to 
 
 **Papers:** <br>
 [Normalization Layers Are All That Sharpness-Aware Minimization Needs [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2023/09/26/SAMON)[[paper]](https://arxiv.org/abs/2306.04226)[[poster]]({{TiffanyVlaar.github.io}}/docs/SAM_ON_poster_NeurIPS2023.pdf), *NeurIPS* 2023. <br>
-Applying sharpness-aware minimization (SAM) only to the normalization layers of a network can enhance performance, while reducing computational cost.
+Applying sharpness-aware minimization (SAM) only to the normalization layers of a network can enhance generalization performance, while reducing computational cost.
 
 [Multirate Training of Neural Networks [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/10/07/Multirate)[[paper]](https://arxiv.org/abs/2106.10771)[[errata]]({{TiffanyVlaar.github.io}}/docs/Corrigendum.pdf)[[slides]]({{TiffanyVlaar.github.io}}/slides/ICML_Multirate.pdf)[[poster]]({{TiffanyVlaar.github.io}}/docs/ICML_MultiratePoster.pdf), *ICML 2022*. <br>
-Fine-tuning deep neural networks for transfer learning applications in almost half the time, without reducing generalization performance!
+The developed multirate approach can be used to fine-tune deep neural networks for transfer learning applications in almost half the time, without reducing generalization performance.
 
 [What can linear interpolation of neural network loss landscapes tell us? [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2021/10/02/LinearInterpolation)[[paper]](https://proceedings.mlr.press/v162/vlaar22a.html)[[slides]]({{TiffanyVlaar.github.io}}/slides/ICML_LinearInterpolation.pdf)[[poster]]({{TiffanyVlaar.github.io}}/docs/Poster_LinearInterpolation_ICML.pdf), *ICML 2022*. <br>
 Neural network loss landscapes are difficult to visualize due to their high-dimensionality and the complicated nature of the actual optimization path. This motivated the use of the loss along the linear path between the initial and final parameters of a neural network as a crude yet simple measure of the loss landscape. Prior work used this to draw broader conclusions about the difficulty of the optimization problem. In this paper, we put inferences of this kind to the test and study the role played by individual layers and substructures of the network.
