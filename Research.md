@@ -41,9 +41,9 @@ This thermodynamic parameterization technique for neural network training allows
 - Gerrymandering in the United Kingdom: Interpreting political geography in a statistical physics framework and using Markov Chain Monte Carlo methods for Assessing the Fairness of Political Constituencies. Related blogpost: [Gerrymandering blog]({{TiffanyVlaar.github.io}}/jekyll/update/2019/11/18/Gerrymandering.html)
 - Introducing sparsity in neural networks using sampling. <br>
   Some related posts: [Generalization Error]({{TiffanyVlaar.github.io}}/jekyll/update/2019/03/27/Generalization.html), [Sparsity in Neural Networks]({{TiffanyVlaar.github.io}}/jekyll/update/2019/05/10/Sparsity.html), [Loss Landscape]({{TiffanyVlaar.github.io}}/jekyll/update/2019/07/20/LossLandscape.html).
- - Limitations of using test accuracy as the sole metric for model evaluation by examining neural network behavior at the classification boundary. Poster accepted for NeurIPS 2021 I (Still) Can’t Believe It’s Not Better (ICBINB) workshop. <br>
+ - Limitations of using test accuracy as the sole metric for model evaluation by examining neural network behavior at the classification boundary. Accepted to NeurIPS 2021 I (Still) Can’t Believe It’s Not Better (ICBINB) workshop. <br>
 - Applying Bayesian inference techniques to stochastic models (in particular Langevin dynamics models) for flocking.
-- Stochastic Multiple Timestepping techniques for coupled systems of fast and slow variables.
+- Stochastic multiple timestepping techniques for coupled systems of fast and slow variables.
 - From my days at the Perimeter Institute for Theoretical Physics, a study on the shape dependence of two-cylinder Rényi entropies for free bosons on a lattice, which [appeared in Physical Review B](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.165136).
 
 **Selected Research Talks, Workshops, and Summerschools:**
