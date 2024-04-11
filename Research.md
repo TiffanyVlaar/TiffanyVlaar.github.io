@@ -33,11 +33,12 @@ This thermodynamic parameterization technique for neural network training allows
 
 <!---Check out my new blogpost about the paper [here]({{TiffanyVlaar.github.io}}/jekyll/update/2019/08/31/NewPaper.html)-->
 
-
+**Upcoming Supervision**: 
+- Two AIMS Ghana MSc in Mathematical Sciences students, 2024.
+- Deploying deep learning for marine biodiversity monitoring with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html).
 
 **Other Research Projects:**
 - Deep learning framework for the unit commitment problem in electric power systems.
-- Deploying deep learning for marine biodiversity monitoring.
 - Gerrymandering in the United Kingdom: Interpreting political geography in a statistical physics framework and using Markov Chain Monte Carlo methods for Assessing the Fairness of Political Constituencies. Related blogpost: [Gerrymandering blog]({{TiffanyVlaar.github.io}}/jekyll/update/2019/11/18/Gerrymandering.html)
 - Introducing sparsity in neural networks using sampling. <br>
   Some related posts: [Generalization Error]({{TiffanyVlaar.github.io}}/jekyll/update/2019/03/27/Generalization.html), [Sparsity in Neural Networks]({{TiffanyVlaar.github.io}}/jekyll/update/2019/05/10/Sparsity.html), [Loss Landscape]({{TiffanyVlaar.github.io}}/jekyll/update/2019/07/20/LossLandscape.html).
