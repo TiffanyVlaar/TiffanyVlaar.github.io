@@ -34,7 +34,7 @@ This thermodynamic parameterization technique for neural network training allows
 <!---Check out my new blogpost about the paper [here]({{TiffanyVlaar.github.io}}/jekyll/update/2019/08/31/NewPaper.html)-->
 
 **Upcoming Supervision**: 
-- Two AIMS Ghana MSc in Mathematical Sciences students, 2024.
+- Two AIMS Ghana MSc in Mathematical Sciences students.
 - Deploying deep learning for marine biodiversity monitoring with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html).
 
 **Other Research Projects:**
