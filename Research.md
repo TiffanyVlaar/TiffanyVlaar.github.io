@@ -51,7 +51,7 @@ This thermodynamic parameterization technique for neural network training allows
 **Selected Research Talks, Workshops, and Summerschools:**
 <!--- Poster at Machine Learning and Dynamical Systems symposium, Fields Institute, 2022.-->
 - Invited Talk, Underwater Image Analysis from A to Z workshop, 2024.
-- Oberwolfach meeting on Constrained Dynamics, Stochastic Numerical Methods and the Modeling of Complex Systems, 2024.
+- Invited Talk, Oberwolfach meeting on Constrained Dynamics, Stochastic Numerical Methods and the Modeling of Complex Systems, 2024.
 - Invited Talk, New Directions for Stochastic Differential Equations and Machine Learning, ICMS workshop, 2024.
 - Paper at NeurIPS, 2023.
 - Invited Talk, Montreal Machine Learning and Optimization Seminar, 2023.
