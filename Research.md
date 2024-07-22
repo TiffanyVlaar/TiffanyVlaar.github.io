@@ -4,8 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-**Supervision**: I am open to supervising research students. Please see [here]({{TiffanyVlaar.github.io}}/docs/supervision.md) for more information. <br>
-<!--
+**Supervision**: I am open to supervising research students. Please see [here]({{TiffanyVlaar.github.io}}/docs/supervision.md) for more information. 
+
+<!---
 *Opportunities*: 
 - The University of Glasgow offers 4-year fully funded PhD positions for black UK domiciled students through the James McCune Smith scholarships. Please feel free to reach out if you want to discuss applying for these. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
 The application deadline for Science and Engineering areas has been extended to 15 March 2024.
