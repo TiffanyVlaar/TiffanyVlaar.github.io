@@ -35,11 +35,6 @@ This thermodynamic parameterization technique for neural network training allows
 
 <!---Check out my new blogpost about the paper [here]({{TiffanyVlaar.github.io}}/jekyll/update/2019/08/31/NewPaper.html)-->
 
-**Supervision**: 
-- Two AIMS Ghana MSc in Mathematical Sciences students.
-- EPSRC Vacation Internship.
-- Deploying deep learning for marine biodiversity monitoring with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html).
-
 **Other Research Projects:**
 - DeepSea Nexus: Connecting with your oceans through Extended Reality. Crucible grant, in collaboration with L. De Clippele and I. Findlay-Walsh.
 - Coding, creativity and confidence in the Generative Artificial Intelligence era. Crucible grant, in collaboration with C. Reid, G. Callea, R. Yanagida, and S. Falkowski.
@@ -52,8 +47,14 @@ This thermodynamic parameterization technique for neural network training allows
 - Stochastic multiple timestepping techniques for coupled systems of fast and slow variables.
 - From my days at the Perimeter Institute for Theoretical Physics, a study on the shape dependence of two-cylinder Rényi entropies for free bosons on a lattice, which [appeared in Physical Review B](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.165136).
 
+**Supervision**: 
+- Two AIMS Ghana MSc in Mathematical Sciences students.
+- EPSRC Vacation Internship.
+- Deploying deep learning for marine biodiversity monitoring with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html).
+
 **Selected Research Talks, Workshops, and Summerschools:**
 <!--- Poster at Machine Learning and Dynamical Systems symposium, Fields Institute, 2022.-->
+- Talk jointly with C. Reid, Lovelace-Hodgkin Symposium on AI Ethics, 2024.
 - Invited Talk, Underwater Image Analysis from A to Z workshop, 2024.
 - Invited Talk, Oberwolfach meeting on Constrained Dynamics, Stochastic Numerical Methods and the Modeling of Complex Systems, 2024.
 - Invited Talk, New Directions for Stochastic Differential Equations and Machine Learning, ICMS workshop, 2024.
