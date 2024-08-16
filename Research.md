@@ -50,7 +50,7 @@ This thermodynamic parameterization technique for neural network training allows
 **Supervision**: 
 - Two AIMS Ghana MSc in Mathematical Sciences students.
 - EPSRC Vacation Internship on physics-informed neural networks.
-- MSci project with co-supervisor Dr. Hodgson (CreditNature)
+- MSci project with industry co-supervisor Dr. Hodgson (CreditNature).
 - Deploying deep learning for marine biodiversity monitoring with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html).
 
 **Selected Research Talks, Workshops, and Summerschools:**
