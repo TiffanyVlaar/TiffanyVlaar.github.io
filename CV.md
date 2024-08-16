@@ -24,8 +24,9 @@ permalink: /CV/
 
 
 ***Leadership Experience and Development:***
-- The [Glasgow Crucible](https://www.gla.ac.uk/myglasgow/ris/researcherdevelopment/researchstaff/crucibleprogramme/), 2024.
+- General Chair, WiML Workshop, NeurIPS 2024.
 - Board Member [One World Seminar on Mathematics of Machine Learning](https://www.oneworldml.org), 2022-24.
+- The [Glasgow Crucible](https://www.gla.ac.uk/myglasgow/ris/researcherdevelopment/researchstaff/crucibleprogramme/), 2024.
 - ICLR workshop co-organizer ["Mathematical and Empirical Understanding of Foundation Models"](https://sites.google.com/view/me-fomo2023), 2023.
 - Co-organizer NeurIPS Social for Early-Career Researchers Interested in [Machine Learning & Climate Change with roundtable discussions](https://sighellan.github.io/climate-ml-social-2022/), 2022.
 - Founding member and co-lead of the UK-wide [Piscopia Initiative]({{TiffanyVlaar.github.io}}/Piscopia), 2019-2022. The aim is to increase women and non-binary participation in mathematical research. 
