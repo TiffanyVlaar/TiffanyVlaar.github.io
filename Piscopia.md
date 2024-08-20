@@ -14,8 +14,9 @@ I give some more details on the aims and type of events hosted by Piscopia below
 Some upcoming events/opportunities are:
 - [Women in Machine Learning (WiML)](https://sites.google.com/wimlworkshop.org/wiml-2024/call-for-participation?authuser=0) NeurIPS 2024 workshop. 1-page abstract deadline 10 September 2024. Workshop day 10 December 2024. Funding available for eligible participants to attend the workshop.
 - Free online panel discussions for Early Career Researchers on e.g. grants, academic job search, and publications, offered by the LMS: [https://www.lms.ac.uk/careers/ecr-professional-development](https://www.lms.ac.uk/careers/ecr-professional-development).
-- [Black Heroes of Mathematics 2023 Conference](https://www.icms.org.uk/events/2023/black-heroes-mathematics-conference-2023), talk recordings are available. <!-<!-- - An online panel discussion on the academic job search hosted by EWM, 19 October 2023, 3pm CEST. [More info](https://www.europeanwomeninmaths.org/activity/ewm-forum-academic-job-search-panel/). -->
-<!-- - [New in ML](https://newinml.github.io) NeurIPS 2023 workshop. <!--Abstract deadline 5 October 2023. Workshop day 11 December 2023.-->
+- [Black Heroes of Mathematics 2023 Conference](https://www.icms.org.uk/events/2023/black-heroes-mathematics-conference-2023), talk recordings are available.
+<!-- An online panel discussion on the academic job search hosted by EWM, 19 October 2023, 3pm CEST. [More info](https://www.europeanwomeninmaths.org/activity/ewm-forum-academic-job-search-panel/). -->
+<!-- [New in ML](https://newinml.github.io) NeurIPS 2023 workshop. <!--Abstract deadline 5 October 2023. Workshop day 11 December 2023.-->
 - Concerts by the Aurora Ensemble in Glasgow on 27 October and in Edinburgh on 28 October 2024, which aims to promote classical music by underrepresented composers. [https://auroraensembleedinburgh.wordpress.com](https://auroraensembleedinburgh.wordpress.com)
 
 A short talk I gave in 2020 about the wide range of mathematical research: [Facets of Mathematics]({{TiffanyVlaar.github.io}}/docs/FacetsOfMathematics.pdf).
