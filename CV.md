@@ -41,6 +41,7 @@ permalink: /CV/
 <!---Co-Supervisor final year BSc project, 2019-2020.-->
 
 ***Service:***
+- Applied Mathematics Seminar Organizer, University of Glasgow, 2024-25.
 - Area Chair, ICLR "Mathematical and Empirical Understanding of Foundation Models" workshop, 2023.
 - Reviewer for Advances in Approximate Bayesian Inference (AABI), 2023.
 - Reviewer for CVPR, Women in Computer Vision Workshop, 2023.
