@@ -54,7 +54,7 @@ This thermodynamic parameterization technique for neural network training allows
 - MSci project with industry co-supervisor Dr. Hodgson (CreditNature) on Simulating Scottish Ecosystems for Landscape Ecology Metrics.
 - Deploying deep learning for marine biodiversity monitoring with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html).
 
-**Selected Research Talks, Workshops, and Summerschools:**
+**Selected Research Engagement**: <!--, Workshops, and Summerschools:**-->
 <!--- Poster at Machine Learning and Dynamical Systems symposium, Fields Institute, 2022.-->
 - Seminar Talk, Data Science and Computational Statistics Seminar at the University of Birmingham, 2024.
 - Talk with C. Reid, Lovelace-Hodgkin Symposium on AI Ethics, 2024.
@@ -87,11 +87,11 @@ This thermodynamic parameterization technique for neural network training allows
 - Gene Golub SIAM summerschool on High-Performance Data Analytics, June 2019.
 - CECAM - Computational mathematics for model reduction and predictive modelling in molecular and complex systems, May 2019.
 - ICMS - Modelling Camp, May 2019.
-- MIGSAA Advanced PhD Course - Diffusion Processes, Autumn 2018.
+<!--- MIGSAA Advanced PhD Course - Diffusion Processes, Autumn 2018.-->
 - Poster presentation at CSide Conference, University of Glasgow, November 2018.
 <!--- i-like Workshop, Newcastle University, June 2018.-->
-- Masterclass Prof. David Dunson (Duke University) on Scalable Bayesian Inference, 2018.
-- Alan Turing Institute - Data-driven modelling of complex systems, May 2018.
+<!--- Masterclass Prof. David Dunson (Duke University) on Scalable Bayesian Inference, 2018.-->
+<!---Alan Turing Institute - Data-driven modelling of complex systems, May 2018.-->
 
 
 
