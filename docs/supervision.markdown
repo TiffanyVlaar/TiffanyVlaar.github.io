@@ -16,9 +16,9 @@ More information: [DiveIn CDT](https://www.divein.org.uk) and [my supervisor pro
 Please reach out to me if you are interested in applying for this opportunity.
 
 **Current and Previous Supervision**: 
-- MSci project with industry co-supervisor Dr. Hodgson (CreditNature) on Simulating Scottish Ecosystems for Landscape Ecology Metrics.
 - AIMS Ghana MSc in Mathematical Sciences projects.
 - EPSRC Vacation Internship on physics-informed neural networks.
 - Level 4 Projects on neural network optimisation.
+- MSci project with industry co-supervisor Dr. Hodgson (CreditNature) on Simulating Scottish Ecosystems for Landscape Ecology Metrics.
 - Deploying deep learning for marine biodiversity monitoring with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html).
 
