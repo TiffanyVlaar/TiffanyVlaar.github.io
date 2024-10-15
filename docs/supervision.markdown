@@ -15,3 +15,10 @@ Further, I am a PhD supervisor within the **DiveIn CDT**. This CDT prioritises d
 Applications are due: 31 January 2025. More information: [https://www.divein.org.uk](https://www.divein.org.uk) <br>
 Please reach out to me if you are interested in applying for this opportunity.
 
+**Current and Previous Supervision**: 
+- MSci project with industry co-supervisor Dr. Hodgson (CreditNature) on Simulating Scottish Ecosystems for Landscape Ecology Metrics.
+- AIMS Ghana MSc in Mathematical Sciences projects on physics-informed neural networks and grokking.
+- EPSRC Vacation Internship on physics-informed neural networks.
+- Level 4 Projects on neural network optimisation.
+- Deploying deep learning for marine biodiversity monitoring with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html).
+
