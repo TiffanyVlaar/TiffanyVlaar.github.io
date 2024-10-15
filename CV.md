@@ -34,7 +34,8 @@ permalink: /CV/
 - Co-organiser of first UK-wide virtual [Mathematics of Data Science (MathODS)](https://maths-of-data.github.io) graduate student conference, 2020.
 - Vice President SIAM and IMA Student Chapter University of Edinburgh, 2018-2020.
 
-***Teaching Experience:***
+***Teaching:***
+- Large-Scale Computing for Data Analytics (STATS5083), University of Glasgow, 2025.
 - Mathematics 1G: Introduction to Algebra, Geometry & Networks (MATHS1016), University of Glasgow, 2024.
 - Tutor, University of Edinburgh, courses: Machine Learning in Python, Computing and Numerics (Python), Probability with Applications, Several Variable Calculus and Differential Equations, Engineering Mathematics, Probability, 2018-2022.
 - Tutor, Leiden University, covered all courses of the 1st year Physics BSc, 2012-2014.
