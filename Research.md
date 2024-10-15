@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-**Supervision**: I am open to supervising research students. Please see [here]({{TiffanyVlaar.github.io}}/docs/supervision.md) for more information. 
+**Supervision**: I am open to supervising research students. Please see [here]({{TiffanyVlaar.github.io}}/docs/supervision.markdown) for more information. 
 
 <!---
 *Opportunities*: 
