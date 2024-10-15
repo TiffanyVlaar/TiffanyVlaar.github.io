@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 If you are interested in my research, please feel free to reach out to me to discuss PhD (or MSc Research) options at the University of Glasgow. In your email please include your CV, university transcripts, and any dissertations/papers you may have written (but do not worry if you do not have any publications at this stage).
 
 Funding is available, but requires going through the School's application process. More information can be found here: https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/
