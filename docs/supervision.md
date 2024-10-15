@@ -6,3 +6,9 @@ Shortlisting starts early January, with scholarship decisions being made later m
 
 The University of Glasgow also offers James McCune Smith scholarships for black UK domiciled students.
 More information: https://www.gla.ac.uk/scholarships/mccune-smith/
+
+Further, I am a PhD supervisor within the DiveIn CDT. This CDT prioritises diversity and aims to produce transformative interdisciplinary research in various areas, including Net Zero and AI.
+It offers fully funded four-year interdisciplinary PhDs starting in September 2025.
+Applications are due: 31 January 2025. 
+More information: https://www.divein.org.uk
+Please reach out to me if you are interested in applying for this opportunity.
