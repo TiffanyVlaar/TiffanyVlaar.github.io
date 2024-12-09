@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="/pics/me2.jpeg" width="200"/>
 
-Hi there, I'm Tiffany (she/her), a Lecturer (Assistant Prof.) at the University of Glasgow, with research interests in mathematics of deep learning and physics-inspired machine learning for applications in climate change.
+Hi there, I'm Tiffany (she/her), a Lecturer (Assistant Prof.) at the University of Glasgow, with research interests in mathematics of deep learning and climate change AI.
 
 I'm always looking for new collaborators, so if you are interested in [my research]({{TiffanyVlaar.github.io}}/research), please feel free to drop me an email. 
 
