@@ -24,7 +24,7 @@ permalink: /CV/
 
 
 ***Leadership Experience and Development:***
-- General Chair, WiML Workshop, NeurIPS 2024.
+- General Chair, [WiML Workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/program?authuser=0), NeurIPS 2024.
 - Board Member [One World Seminar on Mathematics of Machine Learning](https://www.oneworldml.org), 2022-24.
 - The [Glasgow Crucible](https://www.gla.ac.uk/myglasgow/ris/researcherdevelopment/researchstaff/crucibleprogramme/), 2024.
 - ICLR workshop co-organizer ["Mathematical and Empirical Understanding of Foundation Models"](https://sites.google.com/view/me-fomo2023), 2023.
