@@ -9,7 +9,7 @@ If you are interested in my [research]({{TiffanyVlaar.github.io}}/research), ple
 - Funding is available, but requires going through the School's application process. More information can be found [here]( https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/) <br>
 Shortlisting starts **early January**, with scholarship decisions being made later mid-January. The process continues until all funded places are awarded.
 
-- The University of Glasgow also offers James McCune Smith scholarships for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
+- The University of Glasgow also offers **James McCune Smith scholarships** for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
 
 - Further, I am a PhD supervisor within the **DiveIn CDT**. This CDT prioritises diversity and aims to produce transformative interdisciplinary research in various areas, including Net Zero and AI. <br> It offers fully funded four-year interdisciplinary PhDs starting in September 2025. <br> Applications due: 31 January 2025. <br>
 More information: [DiveIn CDT](https://www.divein.org.uk) and [my supervisor profile](https://www.divein.org.uk/supervisor/tiffanyvlaar/) <br>
