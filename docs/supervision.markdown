@@ -15,7 +15,9 @@ Shortlisting starts **early January**, with scholarship decisions being made lat
 More information: [DiveIn CDT](https://www.divein.org.uk) and [my supervisor profile](https://www.divein.org.uk/supervisor/tiffanyvlaar/) <br>
 Please reach out to me if you are interested in applying for this opportunity.
 
-- I am also a co-supervisor on ***the marine rewilding effect*** project with Dr. De Clippele (main, University of Glasgow), Dr. Hogdson (CreditNature), and Dr. Wartmann (University of Aberdeen) within the **NETGAIN CDT**. Applications due:  31 January 2025. <br> More information will become available on: [https://netgain.wp.st-andrews.ac.uk](https://netgain.wp.st-andrews.ac.uk) in the coming weeks.
+- I am a co-supervisor on ***the marine rewilding effect*** project with Dr. De Clippele (main, University of Glasgow), Dr. Hogdson (CreditNature), and Dr. Wartmann (University of Aberdeen) within the **NETGAIN CDT**. Applications due:  31 January 2025. <br> More information will become available on: [https://netgain.wp.st-andrews.ac.uk](https://netgain.wp.st-andrews.ac.uk) in the coming weeks.
+
+- I am a co-supervisor on the **Developing GPU-accelerated digital twins of ecological systems for population monitoring and scenario analyses** project with Prof. Torney (main, University of Glasgow), Prof. Morales (University of Glasgow), Prof. McCrea (Lancaster University), and Prof. Husmeier (University of Glasgow) within the **ExaGEO CDT**. Applications due: 17 February 2025. All info available on: [https://www.exageo.org](https://www.exageo.org)
 
 **Current and Previous Supervision**: 
 - AIMS Ghana MSc in Mathematical Sciences projects.
