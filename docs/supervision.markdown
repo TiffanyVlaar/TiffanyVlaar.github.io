@@ -20,6 +20,8 @@ Please reach out to me if you are interested in applying for this opportunity.
 - I am a co-supervisor on the **Developing GPU-accelerated digital twins of ecological systems for population monitoring and scenario analyses** project with Prof. Torney (main, University of Glasgow), Prof. Morales (University of Glasgow), Prof. McCrea (Lancaster University), and Prof. Husmeier (University of Glasgow) within the **ExaGEO CDT**. Applications due: 17 February 2025. <br>
 All info available on: [https://www.exageo.org](https://www.exageo.org)
 
+If you are an UG student in the University of Aberdeen, Edinburgh, Glasgow, Heriot-Watt, or St Andrews, consider applying for my UG Summer Research project. Topic: Monitoring vegetation patterns from drone imagery using machine learning. Co-supervisor:  Dr. Eizenhöfer (School of Geographical & Earth Sciences, University of Glasgow). Deadline: 13 January.
+
 **Current and Previous Supervision**: 
 - AIMS Ghana MSc in Mathematical Sciences projects.
 - EPSRC Vacation Internship on physics-informed neural networks.
