@@ -6,7 +6,7 @@ permalink: /supervision/
 
 If you are interested in my [research]({{TiffanyVlaar.github.io}}/research), please feel free to **reach out to me** to discuss PhD options at the University of Glasgow. In your email please include your CV, university transcripts, and any dissertations/papers you may have written (but do not worry if you do not have any publications at this stage).
 
-- Funding is available, but requires going through the School's application process. More information on the application process can be found [here]( https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/) and more info on the project can be found on the [FindAPhD page](https://www.findaphd.com/phds/project/phd-in-mathematics-dissecting-neural-networks/?p180056) <br>
+- Funding is available, but requires going through the School's application process. More information on the application process can be found [here]( https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/) and more info on the project **Dissecting Neural Networks** can be found on the [FindAPhD page](https://www.findaphd.com/phds/project/phd-in-mathematics-dissecting-neural-networks/?p180056) <br>
 Shortlisting starts **early January**, with scholarship decisions being made later in January. The process continues until all funded places are awarded.
 
 - The University of Glasgow also offers **James McCune Smith scholarships** for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
