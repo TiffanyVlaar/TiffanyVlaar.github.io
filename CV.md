@@ -25,6 +25,7 @@ permalink: /CV/
 
 ***Leadership Experience and Development:***
 - General Chair, [WiML Workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/program?authuser=0), NeurIPS 2024.
+- Management committee, [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/index.html), 2024-25.
 - Board Member [One World Seminar on Mathematics of Machine Learning](https://www.oneworldml.org), 2022-24.
 - The [Glasgow Crucible](https://www.gla.ac.uk/myglasgow/ris/researcherdevelopment/researchstaff/crucibleprogramme/), 2024.
 - ICLR workshop co-organizer ["Mathematical and Empirical Understanding of Foundation Models"](https://sites.google.com/view/me-fomo2023), 2023.
