@@ -43,6 +43,7 @@ permalink: /CV/
 <!---Co-Supervisor final year BSc project, 2019-2020.-->
 
 ***Service:***
+- Sustainability Committee, University of Glasgow, 2024-2025.
 - Applied Mathematics Seminar Organizer, University of Glasgow, 2024-25.
 - Generative AI Committee, University of Glasgow, 2024-2025.
 - Github repository for teaching materials team, 2024-2025.
