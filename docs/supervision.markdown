@@ -9,7 +9,8 @@ permalink: /supervision/
 - Funding is available, but requires going through the School's application process. More information on the application process can be found [here]( https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/) and more info on the project **Dissecting Neural Networks** can be found on the [FindAPhD page](https://www.findaphd.com/phds/project/phd-in-mathematics-dissecting-neural-networks/?p180056) <br>
 Shortlisting starts **early January**, with scholarship decisions being made later in January. The process continues until all funded places are awarded.
 
-- The University of Glasgow also offers **James McCune Smith scholarships** for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)-->
+- The University of Glasgow also offers **James McCune Smith scholarships** for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
+-->
 
 
 - I will be supervising a project on **Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring** with Dr. De Clippele (University of Glasgow) within the **Leverhulme Programme for Doctoral Training in Ecological Data Science**. Applications due: 7 March 2025. All info on: [https://ecological-data-science.github.io](https://ecological-data-science.github.io) <br>
