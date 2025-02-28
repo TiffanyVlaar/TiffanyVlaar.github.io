@@ -9,7 +9,7 @@ permalink: /supervision/
 - Funding is available, but requires going through the School's application process. More information on the application process can be found [here]( https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/) and more info on the project **Dissecting Neural Networks** can be found on the [FindAPhD page](https://www.findaphd.com/phds/project/phd-in-mathematics-dissecting-neural-networks/?p180056) <br>
 Shortlisting starts **early January**, with scholarship decisions being made later in January. The process continues until all funded places are awarded.
 
-<img src="/pics/140520_1_580_DeClippele[31025].jpg" width="200"/>
+<img src="DeClippele.jpg" width="200"/>
 
 - The University of Glasgow also offers **James McCune Smith scholarships** for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
 -->
