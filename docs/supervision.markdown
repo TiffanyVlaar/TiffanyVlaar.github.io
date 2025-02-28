@@ -4,6 +4,8 @@ title: Supervision
 permalink: /supervision/
 ---
 
+<img src="/pics/DeClippele.jpg" width="200"/>
+
 <!--If you are interested in my [research]({{TiffanyVlaar.github.io}}/research), please feel free to **reach out to me** to discuss **funded PhD options** at the University of Glasgow. In your email please include your CV, university transcripts, and any dissertations/papers you may have written (but do not worry if you do not have any publications at this stage).
 
 - Funding is available, but requires going through the School's application process. More information on the application process can be found [here]( https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/) and more info on the project **Dissecting Neural Networks** can be found on the [FindAPhD page](https://www.findaphd.com/phds/project/phd-in-mathematics-dissecting-neural-networks/?p180056) <br>
