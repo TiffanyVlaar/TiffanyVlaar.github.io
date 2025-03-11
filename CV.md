@@ -24,6 +24,7 @@ permalink: /CV/
 
 
 ***Leadership Experience and Development:***
+-  [WiML](https://www.wiml.org) Director, 2025.
 -  Board Member [One World Seminar on Mathematics of Machine Learning](https://www.oneworldml.org), 2022-25.
 -  General Chair, [WiML Workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/program?authuser=0), NeurIPS 2024.
 -  Management committee, DiveIn CDT, 2025.
