@@ -23,12 +23,13 @@ permalink: /CV/
 <!---Extracurricular courses in Complex Analysis, PDEs, and Dynamical Systems.-->
 
 
-***Leadership Experience and Development:***
+***Leadership:***
 -  [WiML](https://www.wiml.org) Director, 2025.
+-  International Congress of Mathematicians (ICM) Glasgow 2030 bid team. 
 -  Board Member [One World Seminar on Mathematics of Machine Learning](https://www.oneworldml.org), 2022-25.
--  General Chair, [WiML Workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/program?authuser=0), NeurIPS 2024.
--  Management committee, DiveIn CDT, 2025.
+- Management committee, DiveIn CDT, 2025.
 - Management committee, [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/index.html), 2024-25.
+-  General Chair, [WiML Workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/program?authuser=0), NeurIPS 2024.
 - The [Glasgow Crucible](https://www.gla.ac.uk/myglasgow/ris/researcherdevelopment/researchstaff/crucibleprogramme/), 2024.
 - ICLR workshop co-organizer ["Mathematical and Empirical Understanding of Foundation Models"](https://sites.google.com/view/me-fomo2023), 2023.
 - Co-organizer NeurIPS Social for Early-Career Researchers Interested in [Machine Learning & Climate Change with roundtable discussions](https://sighellan.github.io/climate-ml-social-2022/), 2022.
