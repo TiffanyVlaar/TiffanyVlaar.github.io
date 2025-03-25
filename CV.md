@@ -25,6 +25,7 @@ permalink: /CV/
 
 ***Leadership:***
 -  [WiML](https://www.wiml.org) Director, 2025.
+-  IMA, Climate, Environment and Sustainability SIG, 2025.
 -  International Congress of Mathematicians (ICM) Glasgow 2030 bid team. 
 -  Board Member [One World Seminar on Mathematics of Machine Learning](https://www.oneworldml.org), 2022-25.
 - Management committee, DiveIn CDT, 2025.
