@@ -6,7 +6,7 @@ permalink: /Piscopia/
 
 The Piscopia Initiative [(piscopia.co.uk)](https://piscopia.co.uk) [Equate Student Society of the Year 2024] hosts PhD information and networking events across the UK. <br>
 These events are specifically aimed at women and non-binary Mathematics students, although anyone is welcome to attend. <br>
-The [next Piscopia annual conference (PiFORUM)]([https://piscopia.co.uk/welcome-to-piforum24/](https://piscopia.co.uk/piforum25-amplifying-hidden-voices/)) is coming up on 4-5 September at Queen Mary University of London. Registration is now open, <br>
+The [next Piscopia annual conference (PiFORUM)](https://piscopia.co.uk/piforum25-amplifying-hidden-voices/) is coming up on 4-5 September at Queen Mary University of London. Registration is now open, <br>
 For other upcoming events please see: [https://piscopia.co.uk/whats-on/](https://piscopia.co.uk/whats-on/). <br>
 
 I give some more details on the aims and type of events hosted by Piscopia below, but also want to use this page to highlight other initiatives that aim to increase diversity and may be of interest
