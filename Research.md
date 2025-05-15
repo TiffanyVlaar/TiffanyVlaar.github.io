@@ -56,6 +56,8 @@ This thermodynamic parameterization technique for neural network training allows
 - Deploying deep learning for marine biodiversity monitoring with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html).
 
 **Selected Research Engagement**: <!--, Workshops, and Summerschools:**-->
+- Talk, A Network for Teaching and Learning in Scottish HE Mathematical Sciences, 2025.
+- Organizer, Computing Science Meets Maths & Stats Lightning Talk, University of Glasgow, 2025.
 - Organizer, [Network on Mathematical Data Science for Materials Science](https://sites.google.com/site/xiaochengshang/network), 2025.
 - Seminar Talk, Data Science and Computational Statistics Seminar at the University of Birmingham, 2024.
 - Talk with C. Reid, Lovelace-Hodgkin Symposium on AI Ethics, 2024.
