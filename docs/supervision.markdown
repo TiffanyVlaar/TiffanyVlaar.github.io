@@ -10,13 +10,14 @@ permalink: /supervision/
 Shortlisting starts **early January**, with scholarship decisions being made later in January. The process continues until all funded places are awarded.
 
 - The University of Glasgow also offers **James McCune Smith scholarships** for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
--->
 
-**Opportunities**
 <!-- I will be supervising a project on **Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring** with Dr. De Clippele (University of Glasgow) within the **Leverhulme Programme for Doctoral Training in Ecological Data Science**. Applications due: 7 March 2025. All info on: [https://ecological-data-science.github.io](https://ecological-data-science.github.io) <br>
 Please don't hesitate to reach out to me if you are interested in applying for this opportunity.
 
 <img src="/docs/DeClippele.jpg" width="400"/>-->
+-->
+
+**Opportunities**
 
 - I am a PhD supervisor within the **DiveIn CDT**. This CDT prioritises diversity and aims to produce transformative interdisciplinary research in various areas, including Net Zero and AI. <!-- <br> It offers fully funded four-year interdisciplinary PhDs starting in September 2025. <br> -->
 More information: [DiveIn CDT](https://www.divein.org.uk) and [my supervisor profile](https://www.divein.org.uk/supervisor/tiffanyvlaar/) <br>
