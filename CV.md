@@ -47,6 +47,8 @@ permalink: /CV/
 <!---Co-Supervisor final year BSc project, 2019-2020.-->
 
 ***Service:***
+- Student Focus Group run by Dr Stenhouse (Open University), History for Diversity in Mathematics Network, planned for 2025.
+- Panel Member, SMSTC, Research Skills Day, 2025.
 - Sustainability Committee, University of Glasgow, 2024-2025.
 - Applied Mathematics Seminar Organizer, University of Glasgow, 2024-25.
 - Generative AI Committee, University of Glasgow, 2024-2025.
