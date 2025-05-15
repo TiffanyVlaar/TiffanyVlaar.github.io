@@ -11,10 +11,10 @@ Shortlisting starts **early January**, with scholarship decisions being made lat
 
 - The University of Glasgow also offers **James McCune Smith scholarships** for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
 
-<!-- I will be supervising a project on **Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring** with Dr. De Clippele (University of Glasgow) within the **Leverhulme Programme for Doctoral Training in Ecological Data Science**. Applications due: 7 March 2025. All info on: [https://ecological-data-science.github.io](https://ecological-data-science.github.io) <br>
+I will be supervising a project on **Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring** with Dr. De Clippele (University of Glasgow) within the **Leverhulme Programme for Doctoral Training in Ecological Data Science**. Applications due: 7 March 2025. All info on: [https://ecological-data-science.github.io](https://ecological-data-science.github.io) <br>
 Please don't hesitate to reach out to me if you are interested in applying for this opportunity.
 
-<img src="/docs/DeClippele.jpg" width="400"/>-->
+<img src="/docs/DeClippele.jpg" width="400"/>
 -->
 
 **Opportunities**
