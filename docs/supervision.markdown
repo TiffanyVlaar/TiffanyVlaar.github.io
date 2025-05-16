@@ -19,6 +19,8 @@ Please don't hesitate to reach out to me if you are interested in applying for t
 
 **Opportunities**
 
+- I have a fully funded PhD position available in my group on mathematics of deep learning for an October 2025 start. This is for home applicants, but I also encourage international applicants to apply as an international fee waiver may be available. Email me to ask about this opportunity, In your email please include your CV, university transcripts, and any dissertations/papers you may have written (but do not worry if you do not have any publications at this stage).
+
 - I am a PhD supervisor within the **DiveIn CDT**. This CDT prioritises diversity and aims to produce transformative interdisciplinary research in various areas, including Net Zero and AI. <!-- <br> It offers fully funded four-year interdisciplinary PhDs starting in September 2025. <br> -->
 More information: [DiveIn CDT](https://www.divein.org.uk) and [my supervisor profile](https://www.divein.org.uk/supervisor/tiffanyvlaar/) <br>
 If you have been accepted onto the CDT, please do not hesitate to reach out to me if you are interested in my work. 
