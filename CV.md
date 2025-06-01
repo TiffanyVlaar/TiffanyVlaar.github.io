@@ -4,7 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-  *Lecturer* (Assistant Prof.) in Applied Mathematics at the University of Glasgow. Member of [ELLIS Society](https://ellis.eu). Member of [LMS](https://www.lms.ac.uk). Current. <br>
+  *Lecturer* (Assistant Prof.) in Applied Mathematics at the University of Glasgow. Member of [ELLIS Society](https://ellis.eu). Member of [LMS](https://www.lms.ac.uk) and [IMA](https://ima.org.uk). Current. <br>
 
   *Postdoctoral Researcher Computer Science*, Mila - Quebec AI Institute & McGill University. 2022-2023.
 
