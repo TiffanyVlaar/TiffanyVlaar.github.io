@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coding in the Generative AI era"
-date:   2026-06-04 09:42:09 +0100
+date:   2025-06-04 09:42:09 +0100
 categories: jekyll update
 ---
 
