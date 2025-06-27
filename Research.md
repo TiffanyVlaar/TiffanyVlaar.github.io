@@ -36,8 +36,8 @@ This thermodynamic parameterization technique for neural network training allows
 <!---Check out my new blogpost about the paper [here]({{TiffanyVlaar.github.io}}/jekyll/update/2019/08/31/NewPaper.html)-->
 
 **Other Research Projects:**
-- DeepSea Nexus: Connecting with your oceans through Extended Reality. Crucible grant, in collaboration with L. De Clippele and I. Findlay-Walsh.
-- Coding, creativity and confidence in the Generative Artificial Intelligence era. Crucible grant, in collaboration with C. Reid, G. Callea, R. Yanagida, and S. Falkowski.
+- [DeepSea Nexus: Connecting with your oceans through Extended Reality]({{TiffanyVlaar.github.io}}/jekyll/update/2025/06/04/deepseanexus.html). Crucible grant, in collaboration with L. De Clippele and I. Findlay-Walsh.
+- Coding, creativity and confidence in the Generative Artificial Intelligence era. Crucible grant, in collaboration with C. Reid, G. Callea, R. Yanagida, and S. Falkowski. [Coding workshop files]({{TiffanyVlaar.github.io}}/jekyll/update/2025/06/04/codingAIera.html)
 - Interactive machine learning reflections on how a human-in-the-loop approach can increase model training efficiency, led by L. De Clippele and presented at Marine Imaging Workshop 2024.
 - Deep learning framework for the unit commitment problem in electric power systems.
 - Gerrymandering in the United Kingdom: Interpreting political geography in a statistical physics framework and using Markov Chain Monte Carlo methods for Assessing the Fairness of Political Constituencies. Related blogpost: [Gerrymandering blog]({{TiffanyVlaar.github.io}}/jekyll/update/2019/11/18/Gerrymandering.html)
