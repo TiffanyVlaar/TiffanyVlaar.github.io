@@ -54,6 +54,12 @@ This thermodynamic parameterization technique for neural network training allows
 - Level 4 Projects on neural network optimisation.
 - MSci project with industry co-supervisor Dr. Hodgson (CreditNature) on Simulating Scottish Ecosystems for Landscape Ecology Metrics.
 - Deploying deep learning for marine biodiversity monitoring with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html).
+- Machine learning for camera trap image classification, EPSRC Vacation Project with Dr. Peter Stewart (University of Glasgow).
+- The marine rewilding effect: Building a cost-effective framework for measuring Marine Net Gain project with Dr. De Clippele (main, University of Glasgow), Dr. Hogdson (CreditNature), and Dr. Wartmann (University of Aberdeen) within the [NETGAIN CDT](https://netgain.wp.st-andrews.ac.uk).
+- Statistical methods for abundance estimation using emerging data types with Prof. McCrea (Lancaster University, main), Prof. Torney (main, University of Glasgow), Prof. Morales (University of Glasgow), Dr. Wallin (Lancaster University) within the [ExaGEO CDT](https://www.exageo.org).
+- UG Summer Research project on Monitoring vegetation patterns from drone imagery using machine learning, with Dr. Eizenhöfer (University of Glasgow).
+- Summer Research Project on Layer-wise training of neural networks and adversarial robustness.
+- Effective nonlinearity and effective capacity of deep neural networks, Master Thesis Project, with Dr. Pinson (main, Eindhoven University of Technology).
 
 **Selected Research Engagement**: <!--, Workshops, and Summerschools:**-->
 - Talk, 30th Biennial Numerical Analysis Conference, Numerical Analysis and AI Minisymposium, 2025.
