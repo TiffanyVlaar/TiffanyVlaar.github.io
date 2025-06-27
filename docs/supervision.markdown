@@ -29,8 +29,10 @@ If you have been accepted onto the CDT, please do not hesitate to reach out to m
 - Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring with Dr. De Clippele (University of Glasgow) within the Leverhulme Programme for Doctoral Training in Ecological Data Science.
 - Machine learning for camera trap image classification, EPSRC Vacation Project with Dr. Peter Stewart (University of Glasgow).
 - The marine rewilding effect: Building a cost-effective framework for measuring Marine Net Gain project with Dr. De Clippele (main, University of Glasgow), Dr. Hogdson (CreditNature), and Dr. Wartmann (University of Aberdeen) within the [NETGAIN CDT](https://netgain.wp.st-andrews.ac.uk).
-- Developing GPU-accelerated digital twins of ecological systems for population monitoring and scenario analyses project with Prof. Torney (main, University of Glasgow), Prof. Morales (University of Glasgow), Prof. McCrea (Lancaster University), and Prof. Husmeier (University of Glasgow) within the [ExaGEO CDT](https://www.exageo.org).
+<!--- Developing GPU-accelerated digital twins of ecological systems for population monitoring and scenario analyses project with Prof. Torney (main, University of Glasgow), Prof. Morales (University of Glasgow), Prof. McCrea (Lancaster University), and Prof. Husmeier (University of Glasgow) within the [ExaGEO CDT](https://www.exageo.org).-->
+- Statistical methods for abundance estimation using emerging data types with Prof. McCrea (Lancaster University, main), Prof. Torney (main, University of Glasgow), Prof. Morales (University of Glasgow), Dr. Wallin (Lancaster University) within the [ExaGEO CDT](https://www.exageo.org).
 - UG Summer Research project on Monitoring vegetation patterns from drone imagery using machine learning, with Dr. Eizenhöfer (University of Glasgow).
+- Summer Research Project on Layer-wise training of neural networks and adversarial robustness.
 
 **Current and Previous Supervision**: 
 - AIMS Ghana MSc in Mathematical Sciences projects.
@@ -38,4 +40,5 @@ If you have been accepted onto the CDT, please do not hesitate to reach out to m
 - Level 4 Projects on neural network optimisation.
 - MSci project with industry co-supervisor Dr. Hodgson (CreditNature) on Simulating Scottish Ecosystems for Landscape Ecology Metrics.
 - Deploying deep learning for marine biodiversity monitoring with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html).
+- Effective nonlinearity and effective capacity of deep neural networks, Master Thesis Project, with Dr. Pinson (main, Eindhoven University of Technology).
 
