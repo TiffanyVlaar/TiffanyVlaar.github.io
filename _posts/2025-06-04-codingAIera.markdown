@@ -22,5 +22,4 @@ If you are interested in this topic, please feel free to reach out.
 
 ![projectcoding]({{TiffanyVlaar.github.io}}/pics/codingproject.png)
 
-
 With thanks to my co-Is: Catherine Reid, Giuseppe Callea, Ryo Yanagida, and Sarah Falkowski, and our collaborators: Anna Sollazzo, Lewis Dean, and Sebastian Mutz​.
