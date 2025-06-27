@@ -16,6 +16,10 @@ The application deadline for Science and Engineering areas has been extended to 
 <!--Sampling Methods, Numerical methods for Stochastic Differential Equations,--> 
 
 **Papers:** <br>
+Recommendations for benthic ecologists training deep learning models based on insights from using the interactive Machine Learning tool RootPainter. Led by L. De Clippele. Planned 2025.
+
+DeepSea Nexus: Exploring perspectival connection with oceans data in virtual reality. Led by I. Findlay-Walsh. Planned 2025.
+
 [Normalization Layers Are All That Sharpness-Aware Minimization Needs [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2023/09/26/SAMON)[[paper]](https://arxiv.org/abs/2306.04226)[[poster]]({{TiffanyVlaar.github.io}}/docs/SAM_ON_poster_NeurIPS2023.pdf), *NeurIPS* 2023. <br>
 Applying sharpness-aware minimization (SAM) only to the normalization layers of a network can enhance generalization performance, while reducing computational cost.
 
