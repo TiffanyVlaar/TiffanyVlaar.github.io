@@ -20,6 +20,7 @@ The materials (including those PhD student Lewis Dean and myself designed for le
 We are currently wrapping up our first year, which was made possible by Crucible grant funding, and are working on publication(s) related to this research. 
 If you are interested in this topic, please feel free to reach out.
 
+![projectcoding]({{TiffanyVlaar.github.io}}/pics/codingproject.png)
 
 
 With thanks to my co-Is: Catherine Reid, Giuseppe Callea, Ryo Yanagida, and Sarah Falkowski, and our collaborators: Anna Sollazzo, Lewis Dean, and Sebastian Mutz​.
