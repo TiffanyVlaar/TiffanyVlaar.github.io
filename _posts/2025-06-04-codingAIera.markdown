@@ -15,7 +15,7 @@ We ran coding interventions across three Schools –  Physics and Astronomy, Mat
 <li> What are the differences between students’ perceptions in different subjects?​  </li>
 </ol>
 
-The materials (including those PhD student Lewis Dean and myself designed for level 2 Mathematics and Statistics students) we designed for the coding workshops can be found here: https://github.com/CCC-AI-era/workshop_general_public
+The materials (including those PhD student Lewis Dean and myself designed for level 2 Mathematics and Statistics students) we designed for the coding workshops can be found here: [GitHub Page](https://github.com/CCC-AI-era/workshop_general_public)
 
 We are currently wrapping up our first year, which was made possible by Crucible grant funding, and are working on publication(s) related to this research. 
 If you are interested in this topic, please feel free to reach out.
