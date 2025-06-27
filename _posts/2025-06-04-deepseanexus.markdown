@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DeepSea Nexus: "
+title:  "DeepSea Nexus"
 date:   2025-06-04 09:42:09 +0100
 categories: jekyll update
 ---
