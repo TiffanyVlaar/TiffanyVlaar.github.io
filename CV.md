@@ -47,8 +47,9 @@ permalink: /CV/
 - Tutor, Leiden University, covered all courses of the 1st year Physics BSc, 2012-2014.
 <!---Co-Supervisor final year BSc project, 2019-2020.-->
 
-***Service:***
+***Service/Outreach:***
 - Student Focus Group run by Dr Stenhouse (Open University), History for Diversity in Mathematics Network, planned for 2025.
+- Isle of Barra & Vatersay Science Festival, 2025.
 - WAIS Mentor, Turing Institute, 2025. 
 - Panel Member, SMSTC, Research Skills Day, 2025.
 - Sustainability Committee, University of Glasgow, 2024-2025.
