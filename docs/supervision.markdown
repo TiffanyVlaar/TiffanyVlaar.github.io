@@ -19,13 +19,13 @@ Please don't hesitate to reach out to me if you are interested in applying for t
 
 **Opportunities**
 
-- I have a fully funded PhD position available in my group on mathematics of deep learning for an October 2025 start. This is for home applicants, but I also encourage international applicants to apply as an international fee waiver may be available. Email me to ask about this opportunity. In your email please include your CV, university transcripts, and any dissertations/papers you may have written (but do not worry if you do not have any publications at this stage).
+- I have a fully funded PhD position available in my group on mathematics of deep learning for an October 2026 start. This is for home applicants, but I also encourage international applicants to apply as an international fee waiver may be available. Email me to ask about this opportunity. In your email please include your CV, university transcripts, and any dissertations/papers you may have written (but do not worry if you do not have any publications at this stage).
 
 - I am a PhD supervisor within the **DiveIn CDT**. This CDT prioritises diversity and aims to produce transformative interdisciplinary research in various areas, including Net Zero and AI. <!-- <br> It offers fully funded four-year interdisciplinary PhDs starting in September 2025. <br> -->
 More information: [DiveIn CDT](https://www.divein.org.uk) and [my supervisor profile](https://www.divein.org.uk/supervisor/tiffanyvlaar/) <br>
 If you have been accepted onto the CDT, please do not hesitate to reach out to me if you are interested in my work. 
 
-**Upcoming Supervision**
+**Current and Previous Supervision**
 - Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring with Dr. De Clippele (University of Glasgow) within the Leverhulme Programme for Doctoral Training in Ecological Data Science.
 - Machine learning for camera trap image classification, EPSRC Vacation Project with Dr. Peter Stewart (University of Glasgow).
 - The marine rewilding effect: Building a cost-effective framework for measuring Marine Net Gain project with Dr. De Clippele (main, University of Glasgow), Dr. Hogdson (CreditNature), and Dr. Wartmann (University of Aberdeen) within the [NETGAIN CDT](https://netgain.wp.st-andrews.ac.uk).
@@ -33,8 +33,6 @@ If you have been accepted onto the CDT, please do not hesitate to reach out to m
 - Statistical methods for abundance estimation using emerging data types with Prof. McCrea (Lancaster University, main), Prof. Torney (main, University of Glasgow), Prof. Morales (University of Glasgow), Dr. Wallin (Lancaster University) within the [ExaGEO CDT](https://www.exageo.org).
 - UG Summer Research project on Monitoring vegetation patterns from drone imagery using machine learning, with Dr. Eizenhöfer (University of Glasgow).
 - Summer Research Project on Layer-wise training of neural networks and adversarial robustness.
-
-**Current and Previous Supervision**: 
 - AIMS Ghana MSc in Mathematical Sciences projects.
 - EPSRC Vacation Internship on physics-informed neural networks.
 - Level 4 Projects on neural network optimisation.
