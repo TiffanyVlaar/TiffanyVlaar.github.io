@@ -16,9 +16,11 @@ The application deadline for Science and Engineering areas has been extended to 
 <!--Sampling Methods, Numerical methods for Stochastic Differential Equations,--> 
 
 **Papers:** <br>
-Camera-Trap Image Classification Under Ground Truth Uncertainty. Under review. 
+Camera-Trap Image Classification Under Ground Truth Uncertainty. Accepted to NeurIPS Tackling Climate Change with Machine Learning 2025 Workshop.
 
-Recommendations for benthic ecologists training deep learning models based on insights from using the interactive Machine Learning tool RootPainter. Led by L. De Clippele. Planned 2025.
+BatchNorm Layers have an Outsized Effect on Adversarial Robustness. Accepted to NeurIPS OPT 2025 Workshop.
+
+Using machine learning effectively in marine benthic ecology: a question-driven toolkit. Led by L. De Clippele. Under Review.
 
 DeepSea Nexus: Exploring perspectival connection with oceans data in virtual reality. Planned 2025.
 
