@@ -70,8 +70,9 @@ This thermodynamic parameterization technique for neural network training allows
 - Effective nonlinearity and effective capacity of deep neural networks, Master Thesis Project, with Dr. Pinson (main, Eindhoven University of Technology).
 
 **Selected Research Engagement**: <!--, Workshops, and Summerschools:**-->
-- Keynote Talk wit hC. Reid, Future Education conference, 2025.
-- Talk, 30th Biennial Numerical Analysis Conference, Numerical Analysis and AI Minisymposium, 2025.
+- Invited Talk, Technology-Enhanced Mathematical Sciences Education seminar, 2026.
+- Keynote Talk with C. Reid, Future Education conference, 2025.
+- Invited Talk, 30th Biennial Numerical Analysis Conference, Numerical Analysis and AI Minisymposium, 2025.
 - Talk, A Network for Teaching and Learning in Scottish HE Mathematical Sciences, 2025.
 - Organizer, Computing Science Meets Maths & Stats Lightning Talk, University of Glasgow, 2025.
 - Organizer, [Network on Mathematical Data Science for Materials Science](https://sites.google.com/site/xiaochengshang/network), 2025.
