@@ -28,7 +28,7 @@ permalink: /CV/
 -  IMA, Climate, Environment and Sustainability Special Interest Group, 2025.
 -  [WiML](https://www.wiml.org) Director, 2025.
 -  International Congress of Mathematicians (ICM) Glasgow 2030 bid team. 
--  Board Member [One World Seminar on Mathematics of Machine Learning](https://www.oneworldml.org), 2022-25.
+-  Board Member [One World Seminar on Mathematics of Machine Learning](https://www.youtube.com/@oneworldtheoreticalmachine110/videos), 2022-25.
 - Management committee, DiveIn CDT, 2025.
 - Management committee, [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/index.html), 2024-25.
 -  General Chair, [WiML Workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/program?authuser=0), NeurIPS 2024.
