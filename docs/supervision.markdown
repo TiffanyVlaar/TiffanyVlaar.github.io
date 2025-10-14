@@ -25,7 +25,7 @@ Please don't hesitate to reach out to me if you are interested in applying for t
 More information: [DiveIn CDT](https://www.divein.org.uk) and [my supervisor profile](https://www.divein.org.uk/supervisor/tiffanyvlaar/) <br>
 If you have been accepted onto the CDT, please do not hesitate to reach out to me if you are interested in my work.
 
-- The University of Glasgow offers James McCune Smith scholarships for black UK domiciled students. More information: https://www.gla.ac.uk/scholarships/mccune-smith/
+- The University of Glasgow offers James McCune Smith scholarships for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
 
 - I will be supervising a project on Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring with Dr. De Clippele (University of Glasgow) within the Leverhulme Programme for Doctoral Training in Ecological Data Science. More information on the programme: [https://ecological-data-science.github.io/](https://ecological-data-science.github.io/)
 
