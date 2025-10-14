@@ -18,7 +18,7 @@ The application deadline for Science and Engineering areas has been extended to 
 **Papers:** <br>
 Camera-Trap Image Classification Under Ground Truth Uncertainty. Accepted to NeurIPS Tackling Climate Change with Machine Learning 2025 Workshop.
 
-BatchNorm Layers have an Outsized Effect on Adversarial Robustness. Accepted to NeurIPS OPT 2025 Workshop.
+BatchNorm Layers have an Outsized Effect on Adversarial Robustness. Accepted to NeurIPS Optimization for Machine Learning 2025 Workshop.
 
 Using machine learning effectively in marine benthic ecology: a question-driven toolkit. Led by L. De Clippele. Under Review.
 
