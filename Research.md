@@ -58,8 +58,8 @@ This thermodynamic parameterization technique for neural network training allows
 
 **Supervision**: 
 - Viktor Wu. The marine rewilding effect: Building a cost-effective framework for measuring Marine Net Gain project with Dr. De Clippele (main, University of Glasgow), Dr. Hogdson (CreditNature), and Dr. Wartmann (University of Aberdeen) within the [NETGAIN CDT](https://netgain.wp.st-andrews.ac.uk).
-- Antonella Marsella through the DiveIn CDT. Jointly supervised with Fani Deligianni (main, Computing Science) and Stuart Grey (James Watt School of Engineering)
-- Tobias Froehlich through the DiveIn CDT. Jointly supervised with Dr Lauritz Thamsen (main) and Wim Vanderbauwhede in Computer Science.
+- Antonella Marsella through the DiveIn CDT. Jointly supervised with Prof. Fani Deligianni (main, Computing Science) and Dr. Stuart Grey (James Watt School of Engineering)
+- Tobias Froehlich through the DiveIn CDT. Jointly supervised with Dr. Lauritz Thamsen (main) and Prof. Wim Vanderbauwhede in Computer Science.
 -  Deploying deep learning for marine biodiversity monitoring with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) within the Leverhulme Programme for Doctoral Training in Ecological Data Science.
 - Statistical methods for abundance estimation using emerging data types with Prof. McCrea (Lancaster University, main), Prof. Torney (main, University of Glasgow), Prof. Morales (University of Glasgow), Dr. Wallin (Lancaster University) within the [ExaGEO CDT](https://www.exageo.org).
 - Two AIMS Ghana MSc in Mathematical Sciences students.
