@@ -33,16 +33,15 @@ If you have been accepted onto the CDT, please do not hesitate to reach out to m
 - Viktor Wu. The marine rewilding effect: Building a cost-effective framework for measuring Marine Net Gain project with Dr. De Clippele (main, University of Glasgow), Dr. Hogdson (CreditNature), and Dr. Wartmann (University of Aberdeen) within the [NETGAIN CDT](https://netgain.wp.st-andrews.ac.uk).
 - Antonella Marsella through the DiveIn CDT. Jointly supervised with Prof. Fani Deligianni (main, Computing Science) and Dr. Stuart Grey (James Watt School of Engineering)
 - Tobias Froehlich through the DiveIn CDT. Jointly supervised with Dr. Lauritz Thamsen (main) and Prof. Wim Vanderbauwhede in Computer Science.
-- Machine learning for camera trap image classification, EPSRC Vacation Project with Dr. Peter Stewart (University of Glasgow).
+- Fay Bennedik. Statistical methods for abundance estimation using emerging data types with Prof. McCrea (Lancaster University, main), Prof. Torney (main, University of Glasgow), Prof. Morales (University of Glasgow), Dr. Wallin (Lancaster University) within the [ExaGEO CDT](https://www.exageo.org).
+- Deploying deep learning for marine biodiversity monitoring with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html).
+- Machine learning for camera trap image classification, EPSRC Vacation Project with Dr. Peter Stewart (University of Glasgow). Output: paper NeurIPS Tackling Climate Change with Machine Learning 2025 Workshop.
+- Summer Research Project on Layer-wise training of neural networks and adversarial robustness. Output: paper NeurIPS Optimization for Machine Learning 2025 Workshop.
 <!--- Developing GPU-accelerated digital twins of ecological systems for population monitoring and scenario analyses project with Prof. Torney (main, University of Glasgow), Prof. Morales (University of Glasgow), Prof. McCrea (Lancaster University), and Prof. Husmeier (University of Glasgow) within the [ExaGEO CDT](https://www.exageo.org).-->
-- Statistical methods for abundance estimation using emerging data types with Prof. McCrea (Lancaster University, main), Prof. Torney (main, University of Glasgow), Prof. Morales (University of Glasgow), Dr. Wallin (Lancaster University) within the [ExaGEO CDT](https://www.exageo.org).
 - UG Summer Research project on Monitoring vegetation patterns from drone imagery using machine learning, with Dr. Eizenhöfer (University of Glasgow).
 - Summer Research Project on Layer-wise training of neural networks and adversarial robustness.
 - AIMS Ghana MSc in Mathematical Sciences projects.
 - Level 4 Projects on neural network optimisation.
-- MSci project with industry co-supervisor Dr. Hodgson (CreditNature) on Simulating Scottish Ecosystems for Landscape Ecology Metrics.
-- Deploying deep learning for marine biodiversity monitoring with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html).
 - Effective nonlinearity and effective capacity of deep neural networks, Master Thesis Project, with Dr. Pinson (main, Eindhoven University of Technology).
 - UG Summer Research project on Monitoring vegetation patterns from drone imagery using machine learning, with Dr. Eizenhöfer (University of Glasgow).
-- Machine learning for camera trap image classification, EPSRC Vacation Project with Dr. Peter Stewart (University of Glasgow). Output: paper NeurIPS Tackling Climate Change with Machine Learning 2025 Workshop.
-- Summer Research Project on Layer-wise training of neural networks and adversarial robustness. Output: paper NeurIPS Optimization for Machine Learning 2025 Workshop.
+- MSci project with industry co-supervisor Dr. Hodgson (CreditNature) on Simulating Scottish Ecosystems for Landscape Ecology Metrics.
