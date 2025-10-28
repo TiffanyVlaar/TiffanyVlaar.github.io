@@ -32,7 +32,7 @@ Email me to ask about the opportunities below. In your email please include your
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="/docs/wandering-albatross-image.jpg" width="400" style="margin-right: 15px;"/>
+  <img src="/docs/wandering-albatross-image.jpg" width="380" style="margin-right: 15px;"/>
   <span> Wandering albatross, South Georgia, Bird Island, British Antarctic Survey.
 .</span>
 </div>
