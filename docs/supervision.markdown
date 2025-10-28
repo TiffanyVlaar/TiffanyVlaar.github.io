@@ -25,9 +25,19 @@ Email me to ask about the opportunities below. In your email please include your
 
 - PhD project within the IAPETUS DTP with Dr. Ellen Bowler (British Antarctic Survey), Prof. Phil Stephens (Durham University), Dr. Linus Ericsson (University of Glasgow), and Dr. Peter Fretwell (British Antarctic Survey) on **From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty**. [Full description](https://iapetus.ac.uk/studentships/from-wandering-albatrosses-to-hedgehogs-using-ai-and-citizen-science-to-improve-biodiversity-monitoring-under-ground-truth-uncertainty/)
 
+<div style="display: flex; align-items: center;">
+  <img src="/docs/hedgehog.png" width="400" style="margin-right: 15px;"/>
+  <span> Hedgehog detected by a camera-trap © National Hedgehog Monitoring Programme
+.</span>
+</div>
 
-<img src="/docs/hedgehog.png" width="400"/>
-<img src="/docs/wandering-albatross-image.jpg" width="400"/>
+<div style="display: flex; align-items: center;">
+  <img src="/docs/wandering-albatross-image.jpg" width="400" style="margin-right: 15px;"/>
+  <span> Wandering albatross, South Georgia, Bird Island, British Antarctic Survey.
+.</span>
+</div>
+
+<br>
 
 - A PhD project on **Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring** within the Leverhulme Programme for Doctoral Training in Ecological Data Science with Dr. De Clippele (University of Glasgow). More information on the programme: [https://ecological-data-science.github.io/](https://ecological-data-science.github.io/)
 
