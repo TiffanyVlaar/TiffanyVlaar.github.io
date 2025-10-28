@@ -23,7 +23,10 @@ Email me to ask about the opportunities below. In your email please include your
 
 - PhD position on **mathematics of deep learning** for an October 2026 start. The selected home applicant is guaranteed funding, but I also encourage international applicants to apply as an international fee waiver may be available. 
 
-- PhD project within the IAPETUS DTP with Dr. Ellen Bowler (British Antarctic Survey), Prof. Phil Stephens (Durham University), Dr. Linus Ericsson (University of Glasgow), and Dr. Peter Fretwell (British Antarctic Survey) on **From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty**. [Full description](https://iapetus.ac.uk/studentships/from-wandering-albatrosses-to-hedgehogs-using-ai-and-citizen-science-to-improve-biodiversity-monitoring-under-ground-truth-uncertainty/) For international students: Send me a CV and motivation by 8 December 2025. Early applications are strongly encouraged. For home students: please apply directly via the https://iapetus.ac.uk/ portal by 5 January 2026.
+- PhD project within the IAPETUS DTP with Dr. Ellen Bowler (British Antarctic Survey), Prof. Phil Stephens (Durham University), Dr. Linus Ericsson (University of Glasgow), and Dr. Peter Fretwell (British Antarctic Survey) on **From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty**. [Full description](https://iapetus.ac.uk/studentships/from-wandering-albatrosses-to-hedgehogs-using-ai-and-citizen-science-to-improve-biodiversity-monitoring-under-ground-truth-uncertainty/)
+
+  For international students: Send me a CV and motivation by 8 December 2025. Early applications are strongly encouraged.
+  For home students: please apply directly via the https://iapetus.ac.uk/ portal by 5 January 2026.
 
 <div style="display: flex; align-items: center;">
   <img src="/docs/hedgehog.png" width="400" style="margin-right: 15px;"/>
