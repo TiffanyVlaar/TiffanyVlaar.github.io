@@ -12,7 +12,7 @@ permalink: /research/
 The application deadline for Science and Engineering areas has been extended to 15 March 2024.
 - Apply for a 4-year fully-funded PhD position within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/projects.html). Together with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) we are offering a project on deploying deep learning to analyse marine acoustic & image data. *Deadline*: 22 March 2024.--->
 
-**Research Interests**: Mathematics for Deep Learning, Optimization, Climate Change AI, and Physics-informed Machine Learning.
+**Research Interests**: Mathematics for Deep Learning, Physics-informed Machine Learning, Sustainable AI, AI for Biodiversity Monitoring.
 <!--Sampling Methods, Numerical methods for Stochastic Differential Equations,--> 
 
 **Papers:** <br>
