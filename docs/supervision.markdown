@@ -17,7 +17,7 @@ Please don't hesitate to reach out to me if you are interested in applying for t
 <img src="/docs/DeClippele.jpg" width="400"/>
 -->
 
-Email me to ask about the opportunities below. In your email please include your CV, university transcripts, and any dissertations/papers you may have written (but do not worry if you do not have any publications at this stage).
+Please feel free to email me to ask about the opportunities below. In your email please include your CV, university transcripts, and any dissertations/papers you may have written (but do not worry if you do not have any publications at this stage).
 
 **Opportunities**
 
