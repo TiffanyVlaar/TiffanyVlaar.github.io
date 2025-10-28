@@ -39,7 +39,7 @@ Email me to ask about the opportunities below. In your email please include your
 
 <br>
 
-- A PhD project on **Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring** within the Leverhulme Programme for Doctoral Training in Ecological Data Science with Dr. De Clippele (University of Glasgow). More information on the programme: [https://ecological-data-science.github.io/](https://ecological-data-science.github.io/)
+- A PhD project on **Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring** within the Leverhulme Programme for Doctoral Training in Ecological Data Science with Dr. Laurence De Clippele (University of Glasgow). More information on the programme: [https://ecological-data-science.github.io/](https://ecological-data-science.github.io/)
 
 <img src="/docs/DeClippele.jpg" width="400"/>
 
@@ -49,7 +49,7 @@ If you have been accepted onto the CDT, please do not hesitate to reach out to m
 
 - The University of Glasgow offers **James McCune Smith scholarships** for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
 
-- I am a co-supervisor on an IAPETUS PhD project led by Dr Laurence de Clippele on Sounding out the deep: using AI and passive acoustic monitoring to reveal spatial and temporal patterns in deep-sea ecosystems. [Full description](https://iapetus.ac.uk/studentships/sounding-out-the-deep-using-ai-and-passive-acoustic-monitoring-to-reveal-spatial-and-temporal-patterns-in-deep-sea-ecosystems/)
+- I am a co-supervisor on an IAPETUS PhD project led by Dr. Laurence de Clippele on Sounding out the deep: using AI and passive acoustic monitoring to reveal spatial and temporal patterns in deep-sea ecosystems. [Full description](https://iapetus.ac.uk/studentships/sounding-out-the-deep-using-ai-and-passive-acoustic-monitoring-to-reveal-spatial-and-temporal-patterns-in-deep-sea-ecosystems/)
 
 **Current and Previous Supervision**
 - Viktor Wu. The marine rewilding effect: Building a cost-effective framework for measuring Marine Net Gain project with Dr. De Clippele (main, University of Glasgow), Dr. Hogdson (CreditNature), and Dr. Wartmann (University of Aberdeen) within the [NETGAIN CDT](https://netgain.wp.st-andrews.ac.uk).
