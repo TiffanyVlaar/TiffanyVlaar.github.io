@@ -42,13 +42,13 @@ Email me to ask about the opportunities below. In your email please include your
 
 <br>
 
-- A PhD project on **Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints** within the ExaGEO CDT with Prof. Rachel McCrea (Lancaster University), Prof. Colin Torney, Dr. Thomas Morrison, and Dr. Paul Eizenhöfer. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
+- A PhD project on **Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints** within the ExaGEO CDT with Prof. Rachel McCrea (Lancaster University), Prof. Colin Torney, Dr. Thomas Morrison, and Dr. Paul Eizenhöfer. Application deadline: 31 January  2026. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
 
 - A PhD project on **Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring** within the Leverhulme Programme for Doctoral Training in Ecological Data Science with Dr. Laurence De Clippele (University of Glasgow). More information on the programme: [https://ecological-data-science.github.io/](https://ecological-data-science.github.io/)
 
 <img src="/docs/DeClippele.jpg" width="400"/>
 
-- I am a PhD supervisor within the **DiveIn CDT**. This CDT prioritises diversity and aims to produce transformative interdisciplinary research in various areas, including Net Zero and AI. <!-- <br> It offers fully funded four-year interdisciplinary PhDs starting in September 2025. <br> -->
+- I am a PhD supervisor within the **DiveIn CDT**. This CDT prioritises diversity and aims to produce transformative interdisciplinary research in various areas, including Net Zero and AI. Application deadline: 31 January 2026. <!-- <br> It offers fully funded four-year interdisciplinary PhDs starting in September 2026.  <br> -->
 More information: [DiveIn CDT](https://www.divein.org.uk) and [my supervisor profile](https://www.divein.org.uk/supervisor/tiffanyvlaar/) <br>
 If you have been accepted onto the CDT, please do not hesitate to reach out to me if you are interested in my work.
 
@@ -56,7 +56,7 @@ If you have been accepted onto the CDT, please do not hesitate to reach out to m
 
 - I am a co-supervisor on an IAPETUS PhD project led by Dr. Laurence de Clippele (University of Glasgow) on **Sounding out the deep: using AI and passive acoustic monitoring to reveal spatial and temporal patterns in deep-sea ecosystems**. [Full description](https://iapetus.ac.uk/studentships/sounding-out-the-deep-using-ai-and-passive-acoustic-monitoring-to-reveal-spatial-and-temporal-patterns-in-deep-sea-ecosystems/)
 
-- I am a co-supervisor on an ExaGEO PhD project led by Prof. Jethro Browell (University of Glasgow) on **High-resolution nowcasting of wind speed and power generation**. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
+- I am a co-supervisor on an ExaGEO PhD project led by Prof. Jethro Browell (University of Glasgow) on **High-resolution nowcasting of wind speed and power generation**. Application deadline: 31 January 2026. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
 
 **Current and Previous Supervision**
 - Viktor Wu. The marine rewilding effect: Building a cost-effective framework for measuring Marine Net Gain project with Dr. De Clippele (main, University of Glasgow), Dr. Hogdson (CreditNature), and Dr. Wartmann (University of Aberdeen) within the [NETGAIN CDT](https://netgain.wp.st-andrews.ac.uk).
