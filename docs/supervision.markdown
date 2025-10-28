@@ -44,7 +44,7 @@ Email me to ask about the opportunities below. In your email please include your
 
 - A PhD project on **Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints** within the ExaGEO CDT with Prof. Rachel McCrea (Lancaster University), Prof. Colin Torney, Dr. Thomas Morrison, and Dr. Paul Eizenhöfer. Application deadline: 31 January  2026. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
 
-- A PhD project on **Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring** within the Leverhulme Programme for Doctoral Training in Ecological Data Science with Dr. Laurence De Clippele (University of Glasgow). More information on the programme: [https://ecological-data-science.github.io/](https://ecological-data-science.github.io/)
+- A PhD project on **Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring** within the Leverhulme Programme for Doctoral Training in Ecological Data Science with Dr. Laurence De Clippele (University of Glasgow). Applications will open in early 2026. More information on the programme: [https://ecological-data-science.github.io/](https://ecological-data-science.github.io/)
 
 <img src="/docs/DeClippele.jpg" width="400"/>
 
