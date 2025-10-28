@@ -21,7 +21,7 @@ Email me to ask about the opportunities below. In your email please include your
 
 **Opportunities**
 
-- Fully funded PhD position in my group on **mathematics of deep learning** for an October 2026 start. This is for home applicants, but I also encourage international applicants to apply as an international fee waiver may be available. 
+- PhD position on **mathematics of deep learning** for an October 2026 start. The selected home applicant is guaranteed funding, but I also encourage international applicants to apply as an international fee waiver may be available. 
 
 - PhD project within the IAPETUS DTP with Dr. Ellen Bowler and Dr. Peter Fretwell from the British Antarctic Survey, Prof. Phil Stephens (Durham University), and Dr. Linus Ericsson (University of Glasgow) on **From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty**. [Full description](https://iapetus.ac.uk/studentships/from-wandering-albatrosses-to-hedgehogs-using-ai-and-citizen-science-to-improve-biodiversity-monitoring-under-ground-truth-uncertainty/)
 
