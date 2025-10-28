@@ -17,17 +17,19 @@ Please don't hesitate to reach out to me if you are interested in applying for t
 <img src="/docs/DeClippele.jpg" width="400"/>
 -->
 
+Email me to ask about the opportunities below. In your email please include your CV, university transcripts, and any dissertations/papers you may have written (but do not worry if you do not have any publications at this stage).
+
 **Opportunities**
 
-- I have a fully funded PhD position available in my group on mathematics of deep learning for an October 2026 start. This is for home applicants, but I also encourage international applicants to apply as an international fee waiver may be available. Email me to ask about this opportunity. In your email please include your CV, university transcripts, and any dissertations/papers you may have written (but do not worry if you do not have any publications at this stage).
+- Fully funded PhD position in my group on **mathematics of deep learning** for an October 2026 start. This is for home applicants, but I also encourage international applicants to apply as an international fee waiver may be available. 
 
-- I have a PhD project within the IAPETUS DTP with Dr. Ellen Bowler and Dr. Peter Fretwell from the British Antarctic Survey, Prof. Phil Stephens (Durham University), and Dr. Linus Ericsson (University of Glasgow) on *From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty*. [Full description](https://iapetus.ac.uk/studentships/from-wandering-albatrosses-to-hedgehogs-using-ai-and-citizen-science-to-improve-biodiversity-monitoring-under-ground-truth-uncertainty/)
+- PhD project within the IAPETUS DTP with Dr. Ellen Bowler and Dr. Peter Fretwell from the British Antarctic Survey, Prof. Phil Stephens (Durham University), and Dr. Linus Ericsson (University of Glasgow) on **From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty**. [Full description](https://iapetus.ac.uk/studentships/from-wandering-albatrosses-to-hedgehogs-using-ai-and-citizen-science-to-improve-biodiversity-monitoring-under-ground-truth-uncertainty/)
 
 - I am a PhD supervisor within the **DiveIn CDT**. This CDT prioritises diversity and aims to produce transformative interdisciplinary research in various areas, including Net Zero and AI. <!-- <br> It offers fully funded four-year interdisciplinary PhDs starting in September 2025. <br> -->
 More information: [DiveIn CDT](https://www.divein.org.uk) and [my supervisor profile](https://www.divein.org.uk/supervisor/tiffanyvlaar/) <br>
 If you have been accepted onto the CDT, please do not hesitate to reach out to me if you are interested in my work.
 
-- A PhD project on Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring within the Leverhulme Programme for Doctoral Training in Ecological Data Science with Dr. De Clippele (University of Glasgow). More information on the programme: [https://ecological-data-science.github.io/](https://ecological-data-science.github.io/)
+- A PhD project on Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring within the **Leverhulme Programme for Doctoral Training in Ecological Data Science** with Dr. De Clippele (University of Glasgow). More information on the programme: [https://ecological-data-science.github.io/](https://ecological-data-science.github.io/)
 
 - The University of Glasgow offers James McCune Smith scholarships for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
 
