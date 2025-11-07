@@ -24,6 +24,7 @@ permalink: /CV/
 
 
 ***Leadership:***
+-  Martingale Academic Advisory Committee (pending formal onboarding), Dec. 2025 onwards.
 -  LMS Computer Science Committee (pending formal confirmation by LMS Council), Nov. 2025 onwards.
 -  IMA, Climate, Environment and Sustainability Special Interest Group, 2025.
 -  [WiML](https://www.wiml.org) Director, 2025.
