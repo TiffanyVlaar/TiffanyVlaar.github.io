@@ -24,7 +24,7 @@ permalink: /CV/
 
 
 ***Leadership:***
--  Martingale Academic Advisory Committee (pending formal onboarding), Dec. 2025 onwards.
+-  [Martingale](https://martingale.foundation) Academic Advisory Committee (pending formal onboarding), Dec. 2025 onwards.
 -  LMS Computer Science Committee (pending formal confirmation by LMS Council), Nov. 2025 onwards.
 -  Founding Steering Committee, Climate, Environment and Sustainability Special Interest Group, IMA, 2025. We hosted our [first event](https://ima.org.uk/27086/) on 23 September in de Morgan house. [Recordings](https://www.youtube.com/playlist?list=PLX2zO2SdlWteFzCBnbEe0rntdUBIuSXd7); [report](https://ima.org.uk/27735/a-report-of-imas-first-meeting-on-mathematics-for-climate-environment-and-sustainability/). 
 -  [WiML](https://www.wiml.org) Director, 2025.
