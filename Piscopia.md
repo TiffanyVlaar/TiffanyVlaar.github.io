@@ -14,8 +14,7 @@ I give some more details on the aims and type of events hosted by Piscopia below
 Some upcoming events/opportunities are:
 - [Women in Machine Learning (WiML)](https://www.wiml.org) has various upcoming events, including their annual flagship workshop at the NeurIPS 2025 conference. Funding will be available for eligible participants to attend the workshop.
 - Free online panel discussions for Early Career Researchers on e.g. grants, academic job search, and publications, offered by the LMS: [https://www.lms.ac.uk/careers/ecr-professional-development](https://www.lms.ac.uk/careers/ecr-professional-development).
-<!--- [Black Heroes of Mathematics 2024 Conference](https://www.lms.ac.uk/events/black-heroes-of-mathematics-conference-2024), 2-3 October 2024.-->
--  [Black Heroes of Mathematics 2023 Conference](https://www.icms.org.uk/events/2023/black-heroes-mathematics-conference-2023), talk recordings are available.
+- [Black Heroes of Mathematics 2024 Conference](https://www.lms.ac.uk/events/black-heroes-of-mathematics-conference-2024), talk recordings are available [here](https://www.youtube.com/playlist?list=PLsDn5JyJXoYL5mq-fZmPY70NQIMdaT70G).
 <!-- An online panel discussion on the academic job search hosted by EWM, 19 October 2023, 3pm CEST. [More info](https://www.europeanwomeninmaths.org/activity/ewm-forum-academic-job-search-panel/). -->
 <!-- [New in ML](https://newinml.github.io) NeurIPS 2023 workshop. <!--Abstract deadline 5 October 2023. Workshop day 11 December 2023.-->
 <!--- Concerts by the Aurora Ensemble in Edinburgh, which aims to promote classical music by underrepresented composers. [https://auroraensembleedinburgh.wordpress.com](https://auroraensembleedinburgh.wordpress.com) -->
