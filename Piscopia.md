@@ -40,7 +40,7 @@ Our events aim to:
 
 We are grateful for all the support we gained along the way from many universities, professors, and organizations such as the International Centre for Mathematical Sciences (ICMS), The Heilbronn Institute for Mathematical Research, the Clinton Foundation, Maplesoft, the Maxwell Institute Graduate School for Analysis and Its Applications, the Edinburgh Mathematical Society (EMS), and the London Mathematical Society (LMS). <br>
 
-I am also grateful to all our wonderful local committee members and our new Piscopia co-leads: Gemma Crowe, Xell Brunet-Guasch, Rosie Evans, and Victoria Ironmonger, who are continuing the legacy of the initiative.
+I am also grateful to all our wonderful local committee members and all the new Piscopia co-leads, who are continuing the legacy of the initiative.
 
 <img src="/pics/Banner_Piscopia.png" width="900"/>
 
