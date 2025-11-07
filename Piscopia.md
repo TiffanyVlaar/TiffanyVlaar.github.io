@@ -11,7 +11,7 @@ For upcoming events please see: [https://piscopia.co.uk/whats-on/](https://pisco
 
 I give some more details on the aims and type of events hosted by Piscopia below, but also want to use this page to highlight other initiatives that aim to increase diversity and may be of interest
 
-Some upcoming events/opportunities are:
+Some relevant events/opportunities are:
 - [Women in Machine Learning (WiML)](https://www.wiml.org) has various upcoming events, including their annual flagship workshop at the NeurIPS 2025 conference. Funding will be available for eligible participants to attend the workshop.
 - Free online panel discussions for Early Career Researchers on e.g. grants, academic job search, and publications, offered by the LMS: [https://www.lms.ac.uk/careers/ecr-professional-development](https://www.lms.ac.uk/careers/ecr-professional-development).
 - [Black Heroes of Mathematics 2024 Conference](https://www.lms.ac.uk/events/black-heroes-of-mathematics-conference-2024), talk recordings are available [here](https://www.youtube.com/playlist?list=PLsDn5JyJXoYL5mq-fZmPY70NQIMdaT70G).
