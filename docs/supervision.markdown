@@ -21,11 +21,11 @@ Please feel free to email me about the opportunities below. In your email includ
 
 **Opportunities**
 
-- PhD position on **mathematics of deep learning** for an October 2026 start. The selected home applicant is guaranteed funding, but I also encourage international applicants to apply as an international fee waiver may be available. Application deadline: 1 December 2025.
+- PhD position on **mathematics of deep learning** for an October 2026 start. The selected home applicant is guaranteed funding, but I also encourage international applicants to apply as an international fee waiver may be available. Send me a CV and motivation by **10 December 2025**. Early applications are strongly encouraged. [More information](https://www.findaphd.com/phds/project/phd-in-mathematics-dissecting-deep-neural-networks/?p190822)
 
 - PhD project within the IAPETUS DTP with Dr. Ellen Bowler (British Antarctic Survey), Prof. Phil Stephens (Durham University), Dr. Linus Ericsson (University of Glasgow), and Dr. Peter Fretwell (British Antarctic Survey) on **From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty**. [Full description](https://iapetus.ac.uk/studentships/from-wandering-albatrosses-to-hedgehogs-using-ai-and-citizen-science-to-improve-biodiversity-monitoring-under-ground-truth-uncertainty/)
 
-  For international students: Send me a CV and motivation by 8 December 2025. Early applications are strongly encouraged.
+  For international students: Send me a CV and motivation by **8 December 2025**. Early applications are strongly encouraged.
   For home students: please apply directly via the https://iapetus.ac.uk/ portal by 5 January 2026.
 
 <div style="display: flex; align-items: center;">
@@ -42,7 +42,7 @@ Please feel free to email me about the opportunities below. In your email includ
 
 <br>
 
-- A PhD project on **Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints** within the ExaGEO CDT with Prof. Rachel McCrea (Lancaster University), Prof. Colin Torney, Dr. Thomas Morrison, and Dr. Paul Eizenhöfer. Application deadline: 31 January  2026. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
+- A PhD project on **Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints** within the ExaGEO CDT with Prof. Rachel McCrea (Lancaster University), Prof. Colin Torney, Dr. Thomas Morrison, and Dr. Paul Eizenhöfer. Application deadline: **31 January**  2026. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
 
 - A PhD project on **Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring** within the Leverhulme Programme for Doctoral Training in Ecological Data Science with Dr. Laurence De Clippele (University of Glasgow). Applications will open in early 2026. More information on the programme: [https://ecological-data-science.github.io/](https://ecological-data-science.github.io/)
 
