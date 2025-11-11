@@ -49,7 +49,7 @@ Please feel free to email me about the opportunities below. In your email includ
 <img src="/docs/DeClippele.jpg" width="400"/>
 
 <!--- I am a PhD supervisor within the **DiveIn CDT**. This CDT prioritises diversity and aims to produce transformative interdisciplinary research in various areas, including Net Zero and AI. Application deadline: 31 January 2026. <!-- <br> It offers fully funded four-year interdisciplinary PhDs starting in September 2026.  <br> -->
-More information: [DiveIn CDT](https://www.divein.org.uk) and [my supervisor profile](https://www.divein.org.uk/supervisor/tiffanyvlaar/) <br>
+<!--More information: [DiveIn CDT](https://www.divein.org.uk) and [my supervisor profile](https://www.divein.org.uk/supervisor/tiffanyvlaar/) <br>
 If you have been accepted onto the CDT, please do not hesitate to reach out to me if you are interested in my work.-->
 
 - The University of Glasgow offers **James McCune Smith scholarships** for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
