@@ -25,7 +25,7 @@ permalink: /CV/
 
 ***Leadership:***
 -  LMS Computer Science Committee, Nov. 2025 onwards.
--  Founding Steering Committee, Climate, Environment and Sustainability Special Interest Group, IMA, 2025. We hosted our [first event](https://ima.org.uk/27086/) on 23 September in de Morgan house. [Recordings](https://www.youtube.com/playlist?list=PLX2zO2SdlWteFzCBnbEe0rntdUBIuSXd7); [report](https://ima.org.uk/27735/a-report-of-imas-first-meeting-on-mathematics-for-climate-environment-and-sustainability/). 
+-  Founding Steering Committee, Climate, Environment and Sustainability Special Interest Group, IMA, 2025. We hosted our [first event](https://ima.org.uk/27086/) on 23 September in de Morgan house. [Recordings](https://www.youtube.com/playlist?list=PLX2zO2SdlWteFzCBnbEe0rntdUBIuSXd7); [report](https://ima.org.uk/27735/a-report-of-imas-first-meeting-on-mathematics-for-climate-environment-and-sustainability/); [post by the Parliamentary and Scientific Committee](https://www.scienceinparliament.org.uk/mathematics-and-sustainability-reflections-on-the-first-ima-climate-focused-meeting/)
 -  [Martingale](https://martingale.foundation) Academic Advisory Committee (pending formal onboarding), Dec. 2025 onwards.
 -  [WiML](https://www.wiml.org) Director, 2025.
 -  International Congress of Mathematicians (ICM) Glasgow 2030 bid team. 
