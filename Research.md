@@ -16,7 +16,7 @@ The application deadline for Science and Engineering areas has been extended to 
 <!--Sampling Methods, Numerical methods for Stochastic Differential Equations,--> 
 
 **Papers:** <br>
-Camera-Trap Image Classification Under Ground Truth Uncertainty. Accepted to NeurIPS Tackling Climate Change with Machine Learning 2025 Workshop. Full paper under review. [[blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2025/11/13/uncertainty)
+[Camera-Trap Image Classification Under Ground Truth Uncertainty [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2025/11/13/uncertainty). Accepted to NeurIPS Tackling Climate Change with Machine Learning 2025 Workshop. Full paper under review. 
 
 BatchNorm Layers have an Outsized Effect on Adversarial Robustness. Accepted to NeurIPS Optimization for Machine Learning 2025 Workshop. [[blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2025/11/13/batchnorm)
 
