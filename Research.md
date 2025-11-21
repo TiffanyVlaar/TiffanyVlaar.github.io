@@ -18,7 +18,7 @@ The application deadline for Science and Engineering areas has been extended to 
 **Papers:** <br>
 [Camera-Trap Image Classification Under Ground Truth Uncertainty [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2025/11/13/uncertainty). Accepted to NeurIPS Tackling Climate Change with Machine Learning 2025 Workshop. Full paper under review. 
 
-BatchNorm Layers have an Outsized Effect on Adversarial Robustness. Accepted to NeurIPS Optimization for Machine Learning 2025 Workshop. [[blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2025/11/13/batchnorm)
+[BatchNorm Layers have an Outsized Effect on Adversarial Robustness [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2025/11/13/batchnorm). Accepted to NeurIPS Optimization for Machine Learning 2025 Workshop. 
 
 Using machine learning effectively in marine benthic ecology: a question-driven toolkit. Led by L. De Clippele. Under Review.
 
