@@ -58,9 +58,10 @@ This thermodynamic parameterization technique for neural network training allows
 
 **Supervision**: 
 - PhD student Viktor Wu. The marine rewilding effect: Building a cost-effective framework for measuring Marine Net Gain project with Dr. De Clippele (main, University of Glasgow), Dr. Hogdson (CreditNature), and Dr. Wartmann (University of Aberdeen) within the [NETGAIN CDT](https://netgain.wp.st-andrews.ac.uk).
-- PhD student Antonella Marsella through the DiveIn CDT. Jointly supervised with Prof. Fani Deligianni (main, Computing Science) and Dr. Stuart Grey (James Watt School of Engineering)
-- PhD student Tobias Froehlich through the DiveIn CDT. Jointly supervised with Dr. Lauritz Thamsen (main) and Prof. Wim Vanderbauwhede in Computer Science.
+- PhD student Antonella Marsella through the DiveIn CDT. AI-driven neurofeedback therapy for personalised cognitive training in VR. Jointly supervised with Prof. Fani Deligianni (main, Computing Science) and Dr. Stuart Grey (James Watt School of Engineering)
+- PhD student Tobias Froehlich through the DiveIn CDT. Federated Learning: A More Sustainable Alternative to Centralised AI Training? Jointly supervised with Dr. Lauritz Thamsen (main) and Prof. Wim Vanderbauwhede in Computer Science.
 - PhD student Fay Bennedik. Statistical methods for abundance estimation using emerging data types with Prof. McCrea (Lancaster University, main), Prof. Torney (main, University of Glasgow), Prof. Morales (University of Glasgow), Dr. Wallin (Lancaster University) within the [ExaGEO CDT](https://www.exageo.org).
+- PhD student Sílvia da Silva Mourão through the DiveIn CDT. Digital Twins for Coastal Management: Integrating Process-Based Models and Artificial Intelligence to Predict Coastal Evolution. Supervised by: Dr. Dr Paul R. Eizenhöfer (main, Geographical & Earth Sciences), Prof. Larissa Naylor (Geographical & Earth Sciences), and Dr. Zhiwei Gao (Engineering).
 - Deploying deep learning for marine biodiversity monitoring with Dr. De Clippele (main, University of Glasgow) and Dr. Smith (University of Copenhagen) within the Leverhulme Programme for Doctoral Training in Ecological Data Science.
 - Two AIMS Ghana MSc in Mathematical Sciences students.
 - Level 4 Projects on neural network optimisation.
@@ -72,8 +73,10 @@ This thermodynamic parameterization technique for neural network training allows
 
 **Selected Research Engagement**: <!--, Workshops, and Summerschools:**-->
 - Plenary Talk, Martingale Scholar Away Day, 2026.
-- Invited Talk, 30th Biennial Numerical Analysis Conference, Numerical Analysis and AI Minisymposium, 2025.
+- Invited Talk, Computational Statistics and Machine Learning seminar, Lancaster University, planned 2026.
 - Invited Talk, Technology-Enhanced Mathematical Sciences Education seminar, 2026.
+- Keynote Talk, LatinX in AI Research Workshop, NeurIPS 2025.
+- Invited Talk, 30th Biennial Numerical Analysis Conference, Numerical Analysis and AI Minisymposium, 2025.
 - Keynote Talk with C. Reid, Future Education conference, 2025.
 - Talk, A Network for Teaching and Learning in Scottish HE Mathematical Sciences, 2025.
 - Organizer, Computing Science Meets Maths & Stats Lightning Talk, University of Glasgow, 2025.
