@@ -58,7 +58,7 @@ If you have been accepted onto the CDT, please do not hesitate to reach out to m
 
 - I am a co-supervisor on an IAPETUS PhD project led by Dr. Laurence de Clippele (University of Glasgow) on **Sounding out the deep: using AI and passive acoustic monitoring to reveal spatial and temporal patterns in deep-sea ecosystems**. [Full description](https://iapetus.ac.uk/studentships/sounding-out-the-deep-using-ai-and-passive-acoustic-monitoring-to-reveal-spatial-and-temporal-patterns-in-deep-sea-ecosystems/)
 
-- I am a co-supervisor on an ExaGEO PhD project led by Prof. Jethro Browell (University of Glasgow) on **High-resolution nowcasting of wind speed and power generation**. Application deadline: 31 January 2026. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
+- I am a co-supervisor on an ExaGEO PhD project led by Prof. Jethro Browell (University of Glasgow) on **High-resolution nowcasting of wind speed and power generation**. Application deadline: 9 January 2026. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
 
 **Current and Previous Supervision**
 - PhD student Viktor Wu. The marine rewilding effect: Building a cost-effective framework for measuring Marine Net Gain project with Dr. De Clippele (main, University of Glasgow), Dr. Hogdson (CreditNature), and Dr. Wartmann (University of Aberdeen) within the [NETGAIN CDT](https://netgain.wp.st-andrews.ac.uk).
