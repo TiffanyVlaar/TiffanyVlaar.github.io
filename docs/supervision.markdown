@@ -21,7 +21,7 @@ Please feel free to email me about the opportunities below. In your email includ
 
 **Opportunities**
 
-- PhD position on **mathematics of deep learning** for an October 2026 start. The selected home applicant is guaranteed funding, but I also encourage international applicants to apply as an international fee waiver may be available. Send me a CV and motivation by **10 December 2025**. Early applications are strongly encouraged. [More information](https://www.findaphd.com/phds/project/phd-in-mathematics-dissecting-deep-neural-networks/?p190822)
+- PhD position on **mathematics of deep learning** for an October 2026 start, with co-supervisor Dr Linus Ericsson. The selected home applicant is guaranteed funding, but we also encourage international applicants to apply as an international fee waiver may be available. We will target publishing your work in top venues like NeurIPS, CVPR, and ICML, which the supervisor team has extensive experience with. To apply, send me a CV and motivation by **2 January 2026**. Early applications are strongly encouraged. <!--[More information](https://www.findaphd.com/phds/project/phd-in-mathematics-dissecting-deep-neural-networks/?p190822)-->
 
 - A PhD project on **Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints** within the ExaGEO CDT with statistician Prof. Rachel McCrea (Lancaster University), applied mathematician working on computational movement ecology Prof. Colin Torney, wildlife ecologist Dr. Thomas Morrison, and geoscientist Dr. Paul Eizenhöfer. Application deadline: **9 January**  2026. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
   
