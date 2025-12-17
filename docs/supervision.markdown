@@ -27,9 +27,10 @@ Please feel free to email me about the opportunities below. In your email includ
   
 - PhD project within the IAPETUS DTP with Dr. Ellen Bowler (British Antarctic Survey), Prof. Phil Stephens (Durham University), Dr. Linus Ericsson (University of Glasgow), and Dr. Peter Fretwell (British Antarctic Survey) on **From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty**. [Full description](https://iapetus.ac.uk/studentships/from-wandering-albatrosses-to-hedgehogs-using-ai-and-citizen-science-to-improve-biodiversity-monitoring-under-ground-truth-uncertainty/)
 
-  For international students: Send me a CV and motivation by **8 December 2025**. Early applications are strongly encouraged.
-  For home students: please apply directly via the https://iapetus.ac.uk/ portal by 5 January 2026. <br>
-  There is an Q&A application event by Iapetus on 26 November at 2pm, for which you can sign up [here](https://forms.office.com/pages/responsepage.aspx?id=i9hQcmhLKUW-RNWaLYpvlPNPXxVQauVPuTCgU4LGvPJUMElXTVRVM1BFOFI3WVgxTk02R0ZRSVNDWi4u&route=shorturl)
+  For international students unfortunately the deadline to apply has passed. <br> <!--: Send me a CV and motivation by **8 December 2025**. Early applications are strongly encouraged.-->
+  For home students: please apply directly via the https://iapetus.ac.uk/ portal by **5 January 2026**. <br>
+  Feel free to contact me if you have any questions.
+  <!--There is an Q&A application event by Iapetus on 26 November at 2pm, for which you can sign up [here](https://forms.office.com/pages/responsepage.aspx?id=i9hQcmhLKUW-RNWaLYpvlPNPXxVQauVPuTCgU4LGvPJUMElXTVRVM1BFOFI3WVgxTk02R0ZRSVNDWi4u&route=shorturl)-->
 
 <div style="display: flex; align-items: center;">
   <img src="/docs/hedgehog.png" width="400" style="margin-right: 15px;"/>
