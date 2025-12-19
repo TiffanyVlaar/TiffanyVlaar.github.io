@@ -46,6 +46,10 @@ Please feel free to email me about the opportunities below. In your email includ
 
 <br>
 
+-  PhD project within [NetGAIN](https://netgain.wp.st-andrews.ac.uk) with Prof. Phil Stephens (Durham University), Dr. Thomas Hodgson (CreditNature), Joel Sellors-Moore (National Trust), and Prof. Colin Torney (University of Glasgow) **Towards increased confidence and public engagement in targeted AI-based frameworks for biodiversity monitoring**. <br> Application deadline: **30 January**. <br>
+Non-academic partners: CreditNature, National Trust. <br>
+[More information](https://www.findaphd.com/phds/project/towards-increased-confidence-and-public-engagement-in-targeted-ai-based-frameworks-for-biodiversity-monitoring/?p193335) 
+
 - A PhD project on **Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring** within the Leverhulme Programme for Doctoral Training in Ecological Data Science with Dr. Laurence De Clippele (University of Glasgow). Applications will open in early 2026. More information on the programme: [https://ecological-data-science.github.io/](https://ecological-data-science.github.io/)
 
 <img src="/docs/DeClippele.jpg" width="400"/>
