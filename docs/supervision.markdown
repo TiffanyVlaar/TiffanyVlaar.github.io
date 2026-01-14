@@ -35,7 +35,8 @@ Non-academic partners: CreditNature, National Trust. <br>
 
 <img src="/docs/DeClippele.jpg" width="400"/>
 
-
+- The University of Glasgow offers **James McCune Smith scholarships** for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
+  
 - PhD position on **mathematics of deep learning** for an October 2026 start, with co-supervisor Dr Linus Ericsson. The selected home applicant is guaranteed funding, but we also encourage international applicants to apply as an international fee waiver may be available. We will target publishing your work in top venues like NeurIPS, CVPR, and ICML, which the supervisor team has extensive experience with. To apply, send me a CV and motivation by **2 January 2026**. Early applications are strongly encouraged. [More information](https://www.findaphd.com/phds/project/phd-in-mathematics-dissecting-deep-neural-networks/?p190822)
 
 - PhD project within the IAPETUS DTP with Dr. Ellen Bowler (British Antarctic Survey), Prof. Phil Stephens (Durham University), Dr. Linus Ericsson (University of Glasgow), and Dr. Peter Fretwell (British Antarctic Survey) on **From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty**. <br> [Full description](https://iapetus.ac.uk/studentships/from-wandering-albatrosses-to-hedgehogs-using-ai-and-citizen-science-to-improve-biodiversity-monitoring-under-ground-truth-uncertainty/)
@@ -62,8 +63,6 @@ Non-academic partners: CreditNature, National Trust. <br>
 <!--- I am a PhD supervisor within the **DiveIn CDT**. This CDT prioritises diversity and aims to produce transformative interdisciplinary research in various areas, including Net Zero and AI. Application deadline: 31 January 2026. <!-- <br> It offers fully funded four-year interdisciplinary PhDs starting in September 2026.  <br> -->
 <!--More information: [DiveIn CDT](https://www.divein.org.uk) and [my supervisor profile](https://www.divein.org.uk/supervisor/tiffanyvlaar/) <br>
 If you have been accepted onto the CDT, please do not hesitate to reach out to me if you are interested in my work.-->
-
-- The University of Glasgow offers **James McCune Smith scholarships** for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
 
 - I am a co-supervisor on an IAPETUS PhD project led by Dr. Laurence de Clippele (University of Glasgow) on **Sounding out the deep: using AI and passive acoustic monitoring to reveal spatial and temporal patterns in deep-sea ecosystems**. Unfortunately the deadline to apply for this has passed. [Full description](https://iapetus.ac.uk/studentships/sounding-out-the-deep-using-ai-and-passive-acoustic-monitoring-to-reveal-spatial-and-temporal-patterns-in-deep-sea-ecosystems/)
 
