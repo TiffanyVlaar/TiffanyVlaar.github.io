@@ -21,23 +21,22 @@ Please feel free to email me about the opportunities below. In your email includ
 
 **Opportunities**
 
-- A PhD project on **Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints** within the ExaGEO CDT with statistician Prof. Rachel McCrea (Lancaster University), applied mathematician working on computational movement ecology Prof. Colin Torney, wildlife ecologist Dr. Thomas Morrison, and geoscientist Dr. Paul Eizenhöfer. <br>
-Application deadline has been extended to **26 January**  2026 for Home Applicants. <br>
-More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
-
 -  PhD project within [NetGAIN](https://netgain.wp.st-andrews.ac.uk) with Prof. Phil Stephens (Durham University), Dr. Thomas Hodgson (CreditNature), Joel Sellors-Moore (National Trust), and Prof. Colin Torney (University of Glasgow) **Towards increased confidence and public engagement in targeted AI-based frameworks for biodiversity monitoring**. <br> Application deadline: **30 January**. <br>
 Non-academic partners: CreditNature, National Trust. <br>
 [More information](https://www.findaphd.com/phds/project/towards-increased-confidence-and-public-engagement-in-targeted-ai-based-frameworks-for-biodiversity-monitoring/?p193335) 
 
-- I am a co-supervisor on an ExaGEO PhD project led by Prof. Jethro Browell (University of Glasgow) on **High-resolution nowcasting of wind speed and power generation**. Application deadline for home applicants has been extended to **26 January**. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
   
-- A PhD project on **Deep Learning Optimization and Design Choices for Marine Biodiversity Monitoring** within the Leverhulme Programme for Doctoral Training in Ecological Data Science with Dr. Laurence De Clippele (University of Glasgow). Applications will open in early 2026. More information on the programme: [https://ecological-data-science.github.io/](https://ecological-data-science.github.io/)
+- A PhD project on **Using AI to understand spatial and temporal change in marine ecosystems** within the Leverhulme Programme for Doctoral Training in Ecological Data Science with Dr. Laurence De Clippele (University of Glasgow). Applications deadline: **6 March** at 5pm GMT. More information on the programme: [https://ecological-data-science.github.io/](https://ecological-data-science.github.io/)
 
 <img src="/docs/DeClippele.jpg" width="400"/>
 
 - The University of Glasgow offers **James McCune Smith scholarships** for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
   
 - PhD position on **mathematics of deep learning** for an October 2026 start, with co-supervisor Dr Linus Ericsson. The selected home applicant is guaranteed funding, but we also encourage international applicants to apply as an international fee waiver may be available. We will target publishing your work in top venues like NeurIPS, CVPR, and ICML, which the supervisor team has extensive experience with. To apply, send me a CV and motivation by **2 January 2026**. Early applications are strongly encouraged. [More information](https://www.findaphd.com/phds/project/phd-in-mathematics-dissecting-deep-neural-networks/?p190822)
+
+- A PhD project on **Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints** within the ExaGEO CDT with statistician Prof. Rachel McCrea (Lancaster University), applied mathematician working on computational movement ecology Prof. Colin Torney, wildlife ecologist Dr. Thomas Morrison, and geoscientist Dr. Paul Eizenhöfer. <br>
+Unfortunately the deadline to apply has passed. 
+<!--More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)-->
 
 - PhD project within the IAPETUS DTP with Dr. Ellen Bowler (British Antarctic Survey), Prof. Phil Stephens (Durham University), Dr. Linus Ericsson (University of Glasgow), and Dr. Peter Fretwell (British Antarctic Survey) on **From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty**. <br> [Full description](https://iapetus.ac.uk/studentships/from-wandering-albatrosses-to-hedgehogs-using-ai-and-citizen-science-to-improve-biodiversity-monitoring-under-ground-truth-uncertainty/)
 
@@ -65,6 +64,8 @@ Non-academic partners: CreditNature, National Trust. <br>
 If you have been accepted onto the CDT, please do not hesitate to reach out to me if you are interested in my work.-->
 
 - I am a co-supervisor on an IAPETUS PhD project led by Dr. Laurence de Clippele (University of Glasgow) on **Sounding out the deep: using AI and passive acoustic monitoring to reveal spatial and temporal patterns in deep-sea ecosystems**. Unfortunately the deadline to apply for this has passed. [Full description](https://iapetus.ac.uk/studentships/sounding-out-the-deep-using-ai-and-passive-acoustic-monitoring-to-reveal-spatial-and-temporal-patterns-in-deep-sea-ecosystems/)
+
+- I am a co-supervisor on an ExaGEO PhD project led by Prof. Jethro Browell (University of Glasgow) on **High-resolution nowcasting of wind speed and power generation**. Unfortunately the deadline to apply for this has passed. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
 
 
 **Current and Previous Supervision**
