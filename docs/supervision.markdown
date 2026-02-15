@@ -21,10 +21,6 @@ Please feel free to email me about the opportunities below. In your email includ
 
 **Opportunities**
 
--  PhD project within [NetGAIN](https://netgain.wp.st-andrews.ac.uk) with Prof. Phil Stephens (Durham University), Dr. Thomas Hodgson (CreditNature), Joel Sellors-Moore (National Trust), and Prof. Colin Torney (University of Glasgow) **Towards increased confidence and public engagement in targeted AI-based frameworks for biodiversity monitoring**. <br> Application deadline: **30 January**. <br>
-Non-academic partners: CreditNature, National Trust. <br>
-[More information](https://www.findaphd.com/phds/project/towards-increased-confidence-and-public-engagement-in-targeted-ai-based-frameworks-for-biodiversity-monitoring/?p193335) 
-
   
 - A PhD project on **Using AI to understand spatial and temporal change in marine ecosystems** within the Leverhulme Programme for Doctoral Training in Ecological Data Science with Dr. Laurence De Clippele (University of Glasgow). Applications deadline: **6 March** at 5pm GMT. More information on the programme: [https://ecological-data-science.github.io/](https://ecological-data-science.github.io/)
 
@@ -33,6 +29,10 @@ Non-academic partners: CreditNature, National Trust. <br>
 - The University of Glasgow offers **James McCune Smith scholarships** for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
   
 - PhD position on **mathematics of deep learning** for an October 2026 start, with co-supervisor Dr Linus Ericsson. The selected home applicant is guaranteed funding, but we also encourage international applicants to apply as an international fee waiver may be available. We will target publishing your work in top venues like NeurIPS, CVPR, and ICML, which the supervisor team has extensive experience with. To apply, send me a CV and motivation by **2 January 2026**. Early applications are strongly encouraged. [More information](https://www.findaphd.com/phds/project/phd-in-mathematics-dissecting-deep-neural-networks/?p190822)
+
+-  PhD project within [NetGAIN](https://netgain.wp.st-andrews.ac.uk) with Prof. Phil Stephens (Durham University), Dr. Thomas Hodgson (CreditNature), Joel Sellors-Moore (National Trust), and Prof. Colin Torney (University of Glasgow) **Towards increased confidence and public engagement in targeted AI-based frameworks for biodiversity monitoring**. <br> Unfortunately the deadline to apply has passed.  <br>
+Non-academic partners: CreditNature, National Trust. <br>
+[More information](https://www.findaphd.com/phds/project/towards-increased-confidence-and-public-engagement-in-targeted-ai-based-frameworks-for-biodiversity-monitoring/?p193335)
 
 - A PhD project on **Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints** within the ExaGEO CDT with statistician Prof. Rachel McCrea (Lancaster University), applied mathematician working on computational movement ecology Prof. Colin Torney, wildlife ecologist Dr. Thomas Morrison, and geoscientist Dr. Paul Eizenhöfer. <br>
 Unfortunately the deadline to apply has passed. 
