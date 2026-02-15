@@ -73,7 +73,10 @@ This thermodynamic parameterization technique for neural network training allows
 
 **Selected Research Engagement**: <!--, Workshops, and Summerschools:**-->
 - Plenary Talk, Martingale Scholar Away Day, 2026.
-- Invited Talk, Computational Statistics and Machine Learning seminar, Lancaster University, planned 2026.
+- Invited Talk, SQUIDS (Statistics, quantification of uncertainty, inverse problems and data science) Seminar, Manchester University, 2026.
+- Invited Talk, Computational Statistics and Machine Learning seminar, Lancaster University, 2026.
+- Invited Talk, Modern Optimisation Techniques and Deep Learning Workshop, Strathclyde University, 2026.
+- Panel Discussant, Statistically Principled Environmental AI, ISI RS Conference, 2026.
 - Invited Talk, Technology-Enhanced Mathematical Sciences Education seminar, 2026.
 - Keynote Talk, LatinX in AI Research Workshop, NeurIPS 2025.
 - Invited Talk, 30th Biennial Numerical Analysis Conference, Numerical Analysis and AI Minisymposium, 2025.
