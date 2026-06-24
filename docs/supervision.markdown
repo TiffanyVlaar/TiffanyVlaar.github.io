@@ -21,12 +21,12 @@ Please feel free to email me about the opportunities below. In your email includ
 
 **Opportunities**
 
--  PhD project within [NetGAIN](https://netgain.wp.st-andrews.ac.uk) with Prof. Phil Stephens (Durham University), Dr. Thomas Hodgson (CreditNature), Joel Sellors-Moore (National Trust), and Prof. Colin Torney (University of Glasgow) **Towards increased confidence and public engagement in targeted AI-based frameworks for biodiversity monitoring**. <br> Deadline: **noon, 10 April**. Unfortunately open to home applicants only. <br>
+-  PhD project within [NetGAIN](https://netgain.wp.st-andrews.ac.uk) with Prof. Phil Stephens (Durham University), Dr. Thomas Hodgson (CreditNature), Joel Sellors-Moore (National Trust), and Prof. Colin Torney (University of Glasgow) **Towards increased confidence and public engagement in targeted AI-based frameworks for biodiversity monitoring**. <br> Deadline: **26 June**. Unfortunately open to home applicants only. <br>
 Non-academic partners: CreditNature, National Trust. <br>
 [More information](https://www.findaphd.com/phds/project/towards-increased-confidence-and-public-engagement-in-targeted-ai-based-frameworks-for-biodiversity-monitoring/?p193335)
 
 - A PhD project on **Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints** within the ExaGEO CDT with statistician Prof. Rachel McCrea (Lancaster University), applied mathematician working on computational movement ecology Prof. Colin Torney, wildlife ecologist Dr. Thomas Morrison, and geoscientist Dr. Paul Eizenhöfer. <br>
-Application deadline: **24 April**. Unfortunately open to home applicants only. <br>
+Unfortunately the deadline to apply has passed.  <br>
 More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
 
 
