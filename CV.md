@@ -29,9 +29,10 @@ permalink: /CV/
 -  LMS Computer Science Committee.
 -  Founding Steering Committee, Climate, Environment and Sustainability Special Interest Group, IMA. We hosted our [first event](https://ima.org.uk/27086/) on 23 September 2025 in de Morgan house. [Recordings](https://www.youtube.com/playlist?list=PLX2zO2SdlWteFzCBnbEe0rntdUBIuSXd7); [report](https://ima.org.uk/27735/a-report-of-imas-first-meeting-on-mathematics-for-climate-environment-and-sustainability/); [post by the Parliamentary and Scientific Committee](https://www.scienceinparliament.org.uk/mathematics-and-sustainability-reflections-on-the-first-ima-climate-focused-meeting/)
 -  [Martingale](https://martingale.foundation) Academic Advisory Committee.
--  [WiML](https://www.wiml.org) Director, 25-26.
--  Management committee, DiveIn CDT
+-  Co-lead, Widening Participation Summer School Mathematics A and B, University of Glasgow, 25-27.
+-  Management committee, DiveIn CDT.
 -  Management committee, [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/index.html).
+-  [WiML](https://www.wiml.org) Director, 25-26.
 -  Board Member [One World Seminar on Mathematics of Machine Learning](https://www.youtube.com/@oneworldtheoreticalmachine110/videos), 2022-25.
 -  General Chair, [WiML Workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/program?authuser=0), NeurIPS 2024.
 - The [Glasgow Crucible](https://www.gla.ac.uk/myglasgow/ris/researcherdevelopment/researchstaff/crucibleprogramme/), 2024.
@@ -44,7 +45,7 @@ permalink: /CV/
 
 ***Teaching:***
 - Large-Scale Computing for Data Analytics (STATS5083), University of Glasgow.
-- Mathematics 1G: Introduction to Algebra, Geometry & Networks (MATHS1016), University of Glasgow
+- Mathematics 1G: Introduction to Algebra, Geometry & Networks (MATHS1016), University of Glasgow.
 - Tutor, University of Edinburgh, courses: Machine Learning in Python, Computing and Numerics (Python), Probability with Applications, Several Variable Calculus and Differential Equations, Engineering Mathematics, Probability, 2018-2022.
 - Tutor, Leiden University, covered all courses of the 1st year Physics BSc, 2012-2014.
 <!---Co-Supervisor final year BSc project, 2019-2020.-->
