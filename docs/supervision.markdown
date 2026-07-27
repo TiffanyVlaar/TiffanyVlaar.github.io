@@ -21,7 +21,9 @@ Please feel free to email me about the opportunities below. In your email includ
 
 **Opportunities**
 
--  PhD project within [NetGAIN](https://netgain.wp.st-andrews.ac.uk) with Prof. Phil Stephens (Durham University), Dr. Thomas Hodgson (CreditNature), Joel Sellors-Moore (National Trust), and Prof. Colin Torney (University of Glasgow) **Towards increased confidence and public engagement in targeted AI-based frameworks for biodiversity monitoring**. <!-- <br> Deadline: **noon, 26 June**. Unfortunately open to home applicants only. <br>-->
+- PhD projects on *mathematics of deep learning*.
+  
+- PhD project within [NetGAIN](https://netgain.wp.st-andrews.ac.uk) with Prof. Phil Stephens (Durham University), Dr. Thomas Hodgson (CreditNature), Joel Sellors-Moore (National Trust), and Prof. Colin Torney (University of Glasgow) *Towards increased confidence and public engagement in targeted AI-based frameworks for biodiversity monitoring*. <!-- <br> Deadline: **noon, 26 June**. Unfortunately open to home applicants only. <br>-->
 Non-academic partners: CreditNature, National Trust. Applications will open in a few months. <br>
 <!--[More information](https://www.findaphd.com/phds/project/towards-increased-confidence-and-public-engagement-in-targeted-ai-based-frameworks-for-biodiversity-monitoring/?p193335)-->
 
@@ -29,9 +31,9 @@ Non-academic partners: CreditNature, National Trust. Applications will open in a
 Unfortunately the deadline to apply has passed.  <br>
 More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
 -->
-- The University of Glasgow offers **James McCune Smith scholarships** for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
+- The University of Glasgow offers *James McCune Smith scholarships* for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
   
-- PhD project within the IAPETUS DTP with Dr. Ellen Bowler (British Antarctic Survey), Prof. Phil Stephens (Durham University), Dr. Linus Ericsson (University of Glasgow), and Dr. Peter Fretwell (British Antarctic Survey) on **From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty**. 
+- PhD project within the IAPETUS DTP with Dr. Ellen Bowler (British Antarctic Survey), Prof. Phil Stephens (Durham University), Dr. Linus Ericsson (University of Glasgow), and Dr. Peter Fretwell (British Antarctic Survey) on *From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty*. 
  Applications will open in a few months.
  <!--Unfortunately the deadline to apply has passed. <br> <!--: Send me a CV and motivation by **8 December 2025**. Early applications are strongly encouraged.
   For home students: please apply directly via the https://iapetus.ac.uk/ portal by **5 January 2026**. <br>
@@ -62,13 +64,13 @@ If you have been accepted onto the CDT, please do not hesitate to reach out to m
 
 
 **PhD Student Supervision** 
-- Michaelangelos Petrakis Rios. Dissecting Deep Neural Networks. Co-supervised with Linus Ericsson (Computing Science).
-- Viktor Wu. The marine rewilding effect: Building a cost-effective framework for measuring Marine Net Gain project with Dr. De Clippele (main, University of Glasgow), Dr. Hogdson (CreditNature), and Dr. Wartmann (University of Aberdeen) within the [NETGAIN CDT](https://netgain.wp.st-andrews.ac.uk).
+- Michaelangelos Petrakis Rios. Dissecting Deep Neural Networks. Co-supervised with Dr. Linus Ericsson (Computing Science UofG).
+- Viktor Wu. The marine rewilding effect: Building a cost-effective framework for measuring Marine Net Gain project with Dr. Laurence De Clippele (main, Marine Science UofG), Dr. Tom Hogdson (CreditNature), and Dr. Flruina Wartmann (University of Aberdeen) within the [NETGAIN CDT](https://netgain.wp.st-andrews.ac.uk).
 - Antonella Marsella through the DiveIn CDT. AI-Driven Neurofeedback for Personalized Cognitive Training in Virtual Reality. Jointly supervised with Prof. Fani Deligianni (main, Computing Science) and Dr. Stuart Grey (James Watt School of Engineering)
-- Tobias Froehlich through the DiveIn CDT. Federated Learning: A More Sustainable Alternative to Centralised AI Training?Jointly supervised with Dr. Lauritz Thamsen (main) and Prof. Wim Vanderbauwhede in Computer Science.
+- Tobias Froehlich through the DiveIn CDT. Federated Learning: A More Sustainable Alternative to Centralised AI Training? Jointly supervised with Dr. Lauritz Thamsen (main) and Prof. Wim Vanderbauwhede in Computer Science.
 - Fay Bennedik. Statistical methods for abundance estimation using emerging data types with Prof. McCrea (Lancaster University, main), Prof. Torney (main, University of Glasgow), Prof. Morales (University of Glasgow), Dr. Wallin (Lancaster University) within the [ExaGEO CDT](https://www.exageo.org).
-- Sílvia da Silva Mourão through the DiveIn CDT. Digital Twins for Coastal Management: Integrating Process-Based Models and Artificial Intelligence to Predict Coastal Evolution. Supervised by: Dr. Dr Paul R. Eizenhöfer (main, Geographical & Earth Sciences), Prof. Larissa Naylor (Geographical & Earth Sciences), and Dr. Zhiwei Gao (Engineering).
-- A PhD project on **Using AI to understand spatial and temporal change in marine ecosystems** within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/) with Dr. Laurence De Clippele (University of Glasgow). 
+- Sílvia da Silva Mourão through the DiveIn CDT. Digital Twins for Coastal Management: Integrating Process-Based Models and Artificial Intelligence to Predict Coastal Evolution. Supervised by: Dr. Paul R. Eizenhöfer (main, Geographical & Earth Sciences), Prof. Larissa Naylor (Geographical & Earth Sciences), and Dr. Zhiwei Gao (Engineering).
+- A PhD project on Using AI to understand spatial and temporal change in marine ecosystems within the [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/) with Dr. Laurence De Clippele (University of Glasgow). 
 
 <img src="/docs/DeClippele.jpg" width="400"/>
 
