@@ -29,7 +29,7 @@ permalink: /CV/
 -  LMS Computer Science Committee.
 -  Founding Steering Committee, Climate, Environment and Sustainability Special Interest Group, IMA. We hosted our [first event](https://ima.org.uk/27086/) on 23 September 2025 in de Morgan house. [Recordings](https://www.youtube.com/playlist?list=PLX2zO2SdlWteFzCBnbEe0rntdUBIuSXd7); [report](https://ima.org.uk/27735/a-report-of-imas-first-meeting-on-mathematics-for-climate-environment-and-sustainability/); [post by the Parliamentary and Scientific Committee](https://www.scienceinparliament.org.uk/mathematics-and-sustainability-reflections-on-the-first-ima-climate-focused-meeting/)
 -  [Martingale](https://martingale.foundation) Academic Advisory Committee.
--  [WiML](https://www.wiml.org) Director.
+-  [WiML](https://www.wiml.org) Director, 25-26.
 -  Management committee, DiveIn CDT
 -  Management committee, [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/index.html).
 -  Board Member [One World Seminar on Mathematics of Machine Learning](https://www.youtube.com/@oneworldtheoreticalmachine110/videos), 2022-25.
