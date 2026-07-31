@@ -16,6 +16,9 @@ The application deadline for Science and Engineering areas has been extended to 
 <!--Sampling Methods, Numerical methods for Stochastic Differential Equations,--> 
 
 **Papers:** <br>
+
+Could Model Partitioning Make Federated Learning More Sustainable? Tobias Frohlich, TV, Lauritz Thamsen. International Workshop on Low Carbon Computing (LOCO), 2026.
+
 [Camera-Trap Image Classification Under Ground Truth Uncertainty [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2025/11/13/uncertainty). Accepted to NeurIPS Tackling Climate Change with Machine Learning 2025 Workshop. Full paper under review. 
 
 [BatchNorm Layers have an Outsized Effect on Adversarial Robustness [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2025/11/13/batchnorm). Accepted to NeurIPS Optimization for Machine Learning 2025 Workshop. 
