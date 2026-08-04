@@ -19,13 +19,13 @@ The application deadline for Science and Engineering areas has been extended to 
 
 Could Model Partitioning Make Federated Learning More Sustainable? Tobias Frohlich, TV, Lauritz Thamsen. International Workshop on Low Carbon Computing (LOCO), 2026.
 
+Using machine learning effectively in marine benthic ecology: a question-driven toolkit. Led by L. De Clippele. Royal Society Open Science. 2026.
+
 [Camera-Trap Image Classification Under Ground Truth Uncertainty [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2025/11/13/uncertainty). Accepted to NeurIPS Tackling Climate Change with Machine Learning 2025 Workshop. Full paper under review. 
 
 [BatchNorm Layers have an Outsized Effect on Adversarial Robustness [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2025/11/13/batchnorm). Accepted to NeurIPS Optimization for Machine Learning 2025 Workshop. 
 
-Using machine learning effectively in marine benthic ecology: a question-driven toolkit. Led by L. De Clippele. Under Review.
-
-DeepSea Nexus: Exploring perspectival connection with oceans data in virtual reality. Planned 2025.
+DeepSea Nexus: Exploring perspectival connection with oceans data in virtual reality. Planned 2026.
 
 [Normalization Layers Are All That Sharpness-Aware Minimization Needs [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2023/09/26/SAMON)[[paper]](https://arxiv.org/abs/2306.04226)[[poster]]({{TiffanyVlaar.github.io}}/docs/SAM_ON_poster_NeurIPS2023.pdf), *NeurIPS* 2023. <br>
 Applying sharpness-aware minimization (SAM) only to the normalization layers of a network can enhance generalization performance, while reducing computational cost.
