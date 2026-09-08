@@ -17,7 +17,7 @@ The application deadline for Science and Engineering areas has been extended to 
 
 **Papers:** <br>
 
-Could Model Partitioning Make Federated Learning More Sustainable? Tobias Frohlich, TV, Lauritz Thamsen. International Workshop on Low Carbon Computing (LOCO), 2026.
+[Could Model Partitioning Make Federated Learning More Sustainable?](https://arxiv.org/abs/2608.14242) Tobias Frohlich, TV, Lauritz Thamsen. International Workshop on Low Carbon Computing (LOCO), 2026.
 
 Using machine learning effectively in marine benthic ecology: a question-driven toolkit. Led by L. De Clippele. Royal Society Open Science. 2026.
 
