@@ -17,9 +17,13 @@ The application deadline for Science and Engineering areas has been extended to 
 
 **Papers:** <br>
 
-[Could Model Partitioning Make Federated Learning More Sustainable?](https://arxiv.org/abs/2608.14242) Tobias Frohlich, TV, Lauritz Thamsen. International Workshop on Low Carbon Computing (LOCO), 2026.
+[Could Model Partitioning Make Federated Learning More Sustainable?](https://arxiv.org/abs/2608.14242) T. Frohlich, TV, L. Thamsen. International Workshop on Low Carbon Computing (LOCO), 2026.
 
 Using machine learning effectively in marine benthic ecology: a question-driven toolkit. Led by L. De Clippele. Royal Society Open Science. 2026.
+
+Lightweight Probabilistic Downscaling from a Deterministic Base Model. J. McLean, TV, S. Passano Hellan, and L. Ericsson. Workshop paper. Under review.
+
+Student perception of GenAI & HE implications. Reid et al. Under review.
 
 [Camera-Trap Image Classification Under Ground Truth Uncertainty [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2025/11/13/uncertainty). Accepted to NeurIPS Tackling Climate Change with Machine Learning 2025 Workshop. Full paper under review. 
 
