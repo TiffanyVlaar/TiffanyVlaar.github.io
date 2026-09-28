@@ -21,7 +21,7 @@ The application deadline for Science and Engineering areas has been extended to 
 
 Using machine learning effectively in marine benthic ecology: a question-driven toolkit. Led by L. De Clippele. Royal Society Open Science. 2026.
 
-Lightweight Probabilistic Downscaling from a Deterministic Base Model. J. McLean, TV, S. Passano Hellan, and L. Ericsson. Workshop paper. Under review.
+[Lightweight Probabilistic Downscaling from a Deterministic Base Model.](https://arxiv.org/abs/2609.29383) J. McLean, TV, S. Passano Hellan, and L. Ericsson. Workshop paper. Under review.
 
 Student perception of GenAI & HE implications. Reid et al. Under review.
 
