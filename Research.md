@@ -48,8 +48,6 @@ Related workshop paper [Constraint-based Regularization of Neural Networks](http
 [Partitioned Integrators for Thermodynamic Parameterization of Neural Networks]({{TiffanyVlaar.github.io}}/jekyll/update/2019/08/31/NewPaper.html)*, Foundations of Data Science 1 (4) , 457-489 (2019). Accepted as digital acceptance to NeurIPS 2019 Machine Learning and the Physical Sciences workshop.* <br>
 This thermodynamic parameterization technique for neural network training allows for enhanced exploration of problems with complicated loss landscapes, which are thought to arise in molecular dynamics applications.
 
-<!---Check out my new blogpost about the paper [here]({{TiffanyVlaar.github.io}}/jekyll/update/2019/08/31/NewPaper.html)-->
-
 **Other Research Projects:**
 - [DeepSea Nexus: Connecting with your oceans through Extended Reality]({{TiffanyVlaar.github.io}}/jekyll/update/2025/06/04/deepseanexus.html). Crucible grant, in collaboration with L. De Clippele and I. Findlay-Walsh.
 - Coding, creativity and confidence in the Generative Artificial Intelligence era. Crucible grant, in collaboration with C. Reid, G. Callea, R. Yanagida, and S. Falkowski. [Coding workshop files]({{TiffanyVlaar.github.io}}/jekyll/update/2025/06/04/codingAIera.html)
