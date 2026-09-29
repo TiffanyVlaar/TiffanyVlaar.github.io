@@ -25,7 +25,7 @@ Using machine learning effectively in marine benthic ecology: a question-driven 
 
 Student perception of GenAI & HE implications. Reid et al. Under review.
 
-[Camera-Trap Image Classification Under Ground Truth Uncertainty [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2025/11/13/uncertainty). Accepted to NeurIPS Tackling Climate Change with Machine Learning 2025 Workshop. Full paper under review. 
+[Camera-Trap Image Classification Under Ground Truth Uncertainty [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2025/11/13/uncertainty). Accepted to NeurIPS Tackling Climate Change with Machine Learning 2025 Workshop. [Full paper](https://arxiv.org/abs/2608.30789) under review. 
 
 [BatchNorm Layers have an Outsized Effect on Adversarial Robustness [blog]]({{TiffanyVlaar.github.io}}/jekyll/update/2025/11/13/batchnorm). Accepted to NeurIPS Optimization for Machine Learning 2025 Workshop. 
 
