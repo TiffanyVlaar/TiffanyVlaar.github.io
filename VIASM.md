@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VIASM
+title: VIASM Autumn School 2026
 permalink: /VIASM/
 ---
 
