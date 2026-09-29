@@ -11,4 +11,4 @@ permalink: /VIASM/
 [[Download Tutorial 1 Solutions to Challenges]]({{TiffanyVlaar.github.io}}/docs/Tutorial_1_solutions.ipynb.zip)
 
 
-[[Tutorial for Lecture 2 will be made available this afternoon]]
+Tutorial for Lecture 2 will be made available this afternoon
