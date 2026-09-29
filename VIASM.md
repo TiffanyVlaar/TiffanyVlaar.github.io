@@ -14,4 +14,4 @@ permalink: /VIASM/
 Tutorial for Lecture 2 will be made available this afternoon
 
 
- <img src="/pics/viasm.jpg" width="200"/>
+ <img src="/pics/viasm.jpg" width="500"/>
