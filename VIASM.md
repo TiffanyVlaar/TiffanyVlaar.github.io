@@ -13,4 +13,4 @@ permalink: /VIASM/
 [[Download Tutorial for Lecture 2]]({{TiffanyVlaar.github.io}}/docs/Tutorial_lecture2.ipynb.zip)
 
 
- <img src="/pics/viasm.jpg" width="500"/>
+ <!-- <img src="/pics/viasm.jpg" width="500"/> -->
