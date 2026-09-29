@@ -74,11 +74,12 @@ permalink: /CV/
 Python, PyTorch, MATLAB.
 
 ***Publications:***
-- Could Model Partitioning Make Federated Learning More Sustainable? Tobias Frohlich, TV, Lauritz Thamsen. International Workshop on Low Carbon Computing (LOCO), 2026.
+- [Could Model Partitioning Make Federated Learning More Sustainable?](https://arxiv.org/abs/2608.14242) Tobias Frohlich, TV, Lauritz Thamsen. International Workshop on Low Carbon Computing (LOCO), 2026.
+- [Lightweight Probabilistic Downscaling from a Deterministic Base Model.](https://arxiv.org/abs/2609.29383) J. McLean, TV, S. Passano Hellan, and L. Ericsson. Under review.
 - Using machine learning effectively in marine benthic ecology: a question-driven toolkit. Led by L. De Clippele. Royal Society Open Science. 2026.
-- Hockerts, L., Stewart, P., and Vlaar, T., "Camera-Trap Image Classification Under Ground Truth Uncertainty", NeurIPS Tackling Climate Change with Machine Learning 2025 Workshop.
+- Hockerts, L., Stewart, P., and Vlaar, T., "Camera-Trap Image Classification Under Ground Truth Uncertainty", NeurIPS Tackling Climate Change with Machine Learning 2025 Workshop. [Full paper under review](https://arxiv.org/abs/2608.30789)
 - Zeise, N. and Vlaar, T. "BatchNorm Layers have an Outsized Effect on Adversarial Robustness", NeurIPS Optimization for Machine Learning 2025 Workshop.
-- DeepSea Nexus: Exploring perspectival connection with oceans data in virtual reality. Planned 2025.
+- DeepSea Nexus: Exploring perspectival connection with oceans data in virtual reality. Planned 2026.
 - Müller, M., Vlaar, T., Rolnick, D., and Hein, M., "Normalization Layers Are All That Sharpness-Aware Minimization Needs", NeurIPS 2023. Available: [arXiv:2306.04226](https://arxiv.org/abs/2306.04226)
 - Vlaar, T. and Leimkuhler, B., "Multirate Training of Neural Networks", ICML, PMLR 162, 2022. Available: [arXiv:2106.10771](https://arxiv.org/abs/2106.10771)
 - Vlaar, T. and Frankle, J., "What can linear interpolation of neural network loss landscapes tell us?", ICML, PMLR 162, 2022. Available: [arXiv:2106.16004](https://arxiv.org/abs/2106.16004)
