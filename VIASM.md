@@ -10,8 +10,7 @@ permalink: /VIASM/
 
 [[Download Tutorial 1 Solutions to Challenges]]({{TiffanyVlaar.github.io}}/docs/Tutorial_1_solutions.ipynb.zip)
 
-
-Tutorial for Lecture 2 will be made available this afternoon
+[[Download Tutorial for Lecture 2]]({{TiffanyVlaar.github.io}}/docs/Tutorial_lecture2.ipynb.zip)
 
 
  <img src="/pics/viasm.jpg" width="500"/>
