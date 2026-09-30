@@ -4,8 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-  *Lecturer* (Assistant Prof.) in Applied Mathematics at the University of Glasgow. Member of [ELLIS Society](https://ellis.eu). Member of [LMS](https://www.lms.ac.uk) and [IMA](https://ima.org.uk). Current. <br>
-  Promotion to *Senior Lecturer* from October 2026.
+  *Senior Lecturer* (Asst. Prof.) in Applied Mathematics at the University of Glasgow. Member of [ELLIS Society](https://ellis.eu). Member of [LMS](https://www.lms.ac.uk) and [IMA](https://ima.org.uk). Current. <br>
 
   *Postdoctoral Researcher Computer Science*, Mila - Quebec AI Institute & McGill University. 2022-2023.
 
@@ -75,7 +74,7 @@ Python, PyTorch, MATLAB.
 
 ***Publications:***
 - [Could Model Partitioning Make Federated Learning More Sustainable?](https://arxiv.org/abs/2608.14242) Tobias Frohlich, TV, Lauritz Thamsen. International Workshop on Low Carbon Computing (LOCO), 2026.
-- [Lightweight Probabilistic Downscaling from a Deterministic Base Model.](https://arxiv.org/abs/2609.29383) J. McLean, TV, S. Passano Hellan, and L. Ericsson. Under review.
+- [Lightweight Probabilistic Downscaling from a Deterministic Base Model.](https://arxiv.org/abs/2609.29383) J. McLean, TV, S. Passano Hellan, and L. Ericsson. Representation Learning for Earth Observation Workshop, NeurIPS 2026.
 - Using machine learning effectively in marine benthic ecology: a question-driven toolkit. Led by L. De Clippele. Royal Society Open Science. 2026.
 - Hockerts, L., Stewart, P., and Vlaar, T., "Camera-Trap Image Classification Under Ground Truth Uncertainty", NeurIPS Tackling Climate Change with Machine Learning 2025 Workshop. [Full paper under review](https://arxiv.org/abs/2608.30789)
 - Zeise, N. and Vlaar, T. "BatchNorm Layers have an Outsized Effect on Adversarial Robustness", NeurIPS Optimization for Machine Learning 2025 Workshop.
