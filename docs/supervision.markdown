@@ -32,8 +32,8 @@ More information on the project and programme: [https://www.exageo.org/phd-stude
 -->
 - The University of Glasgow offers *James McCune Smith scholarships* for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
   
-- PhD project within the IAPETUS DTP with Dr. Ellen Bowler (British Antarctic Survey), Prof. Phil Stephens (Durham University), Dr. Linus Ericsson (University of Glasgow), and Dr. Peter Fretwell (British Antarctic Survey) on *From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty*. <br>
- Send me a CV and motivation by **7 December**. Early applications are strongly encouraged.
+- PhD project within the IAPETUS DTP with Dr. Ellen Bowler (British Antarctic Survey), Prof. Phil Stephens (Durham University), Dr. Linus Ericsson (University of Glasgow), and Dr. Peter Fretwell (British Antarctic Survey) on *From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty*. [More info](https://iapetus.ac.uk/studentships/biodiversity-monitoring-using-deep-learning-under-ground-truth-uncertainty-supporting-conservation-of-wandering-albatrosses-and-hedgehogs/) <br>
+ To apply: Send me a CV and motivation by **7 December**. Early applications are strongly encouraged.
   For home students: please apply directly via the https://iapetus.ac.uk/ portal by **noon on 5 January 2027**. <br>
   Feel free to contact me if you have any questions.
 There is an Q&A application event by Iapetus on 18 November at 2pm, for which you can sign up [here](https://forms.cloud.microsoft/pages/responsepage.aspx?id=i9hQcmhLKUW-RNWaLYpvlPNPXxVQauVPuTCgU4LGvPJUMElXTVRVM1BFOFI3WVgxTk02R0ZRSVNDWi4u&route=shorturl)
