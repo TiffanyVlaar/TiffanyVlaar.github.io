@@ -62,6 +62,7 @@ This thermodynamic parameterization technique for neural network training allows
 - From my days at the Perimeter Institute for Theoretical Physics, a study on the shape dependence of two-cylinder Rényi entropies for free bosons on a lattice, which [appeared in Physical Review B](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.165136).
 
 **Supervision**: 
+- PhD student Michaelangelos Petrakis Rios. Dissecting Deep Neural Networks. Co-supervised with Dr. Linus Ericsson (Computing Science UofG).
 - PhD student Viktor Wu. The marine rewilding effect: Building a cost-effective framework for measuring Marine Net Gain project with Dr. De Clippele (main, University of Glasgow), Dr. Hogdson (CreditNature), and Dr. Wartmann (University of Aberdeen) within the [NETGAIN CDT](https://netgain.wp.st-andrews.ac.uk).
 - PhD student Antonella Marsella through the DiveIn CDT. AI-driven neurofeedback therapy for personalised cognitive training in VR. Jointly supervised with Prof. Fani Deligianni (main, Computing Science) and Dr. Stuart Grey (James Watt School of Engineering)
 - PhD student Tobias Froehlich through the DiveIn CDT. Federated Learning: A More Sustainable Alternative to Centralised AI Training? Jointly supervised with Dr. Lauritz Thamsen (main) and Prof. Wim Vanderbauwhede in Computer Science.
@@ -77,6 +78,10 @@ This thermodynamic parameterization technique for neural network training allows
 - Effective nonlinearity and effective capacity of deep neural networks, Master Thesis Project, with Dr. Pinson (main, Eindhoven University of Technology).
 
 **Selected Research Engagement**: <!--, Workshops, and Summerschools:**-->
+- Invited Talk, Stochastic-AI Modeling for Climate Transition Risk Workshop, LSE, 2027.
+- Invited Talk, IPAM workshop Emerging Algorithms and Mathematical Paradigms for Reliable Next-Generation AI, 2027.
+- Invited Talk, Center for Environmental Intelligence Seminar, VinUniversity, 2026.
+- Research Lecturer, Vietnam Institute for Advanced Study in Mathematics, 2026.
 - Plenary Talk, Martingale Scholar Away Day, 2026.
 - Invited Talk, SQUIDS (Statistics, quantification of uncertainty, inverse problems and data science) Seminar, Manchester University, 2026.
 - Invited Talk, Computational Statistics and Machine Learning seminar, Lancaster University, 2026.
