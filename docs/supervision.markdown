@@ -33,8 +33,7 @@ More information on the project and programme: [https://www.exageo.org/phd-stude
 -->
 - The University of Glasgow offers *James McCune Smith scholarships* for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
   
-- PhD project within the IAPETUS DTP with Dr. Ellen Bowler (British Antarctic Survey), Prof. Phil Stephens (Durham University), Dr. Linus Ericsson (University of Glasgow), and Dr. Peter Fretwell (British Antarctic Survey) on *From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty*. 
- <!--Unfortunately the deadline to apply has passed. <br> <!--: 
+- PhD project within the IAPETUS DTP with Dr. Ellen Bowler (British Antarctic Survey), Prof. Phil Stephens (Durham University), Dr. Linus Ericsson (University of Glasgow), and Dr. Peter Fretwell (British Antarctic Survey) on *From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty*. <br>
  Send me a CV and motivation by **7 December**. Early applications are strongly encouraged.
   For home students: please apply directly via the https://iapetus.ac.uk/ portal by **noon on 5 January 2027**. <br>
   Feel free to contact me if you have any questions.
@@ -61,7 +60,7 @@ If you have been accepted onto the CDT, please do not hesitate to reach out to m
 
 - I am a co-supervisor on an IAPETUS PhD project led by Dr. Laurence de Clippele (University of Glasgow) on **Sounding out the deep: using AI and passive acoustic monitoring to reveal spatial and temporal patterns in deep-sea ecosystems**. Same deadlines as the other IAPETUS project. [Full description](https://iapetus.ac.uk/studentships/sounding-out-the-deep-using-ai-and-passive-acoustic-monitoring-to-reveal-spatial-and-temporal-patterns-in-deep-sea-ecosystems-2/))
 
-<!--- I am a co-supervisor on an ExaGEO PhD project led by Prof. Jethro Browell (University of Glasgow) on **High-resolution nowcasting of wind speed and power generation**. Unfortunately the deadline to apply for this has passed. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)-->-->
+<!--- I am a co-supervisor on an ExaGEO PhD project led by Prof. Jethro Browell (University of Glasgow) on **High-resolution nowcasting of wind speed and power generation**. Unfortunately the deadline to apply for this has passed. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)-->
 
 
 **PhD Student Supervision** 
