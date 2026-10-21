@@ -23,8 +23,7 @@ Please feel free to email me about the opportunities below. In your email includ
 
 - PhD projects on *mathematics of deep learning*.
   
-<!--- PhD project within [NetGAIN](https://netgain.wp.st-andrews.ac.uk) with Prof. Phil Stephens (Durham University), Dr. Thomas Hodgson (CreditNature), Joel Sellors-Moore (National Trust), and Prof. Colin Torney (University of Glasgow) *Towards increased confidence and public engagement in targeted AI-based frameworks for biodiversity monitoring*. <!-- <br> Deadline: **noon, 26 June**. Unfortunately open to home applicants only. <br>-->
-Non-academic partners: CreditNature, National Trust. Applications will open in a few months. <br>
+<!--- PhD project within [NetGAIN](https://netgain.wp.st-andrews.ac.uk) with Prof. Phil Stephens (Durham University), Dr. Thomas Hodgson (CreditNature), Joel Sellors-Moore (National Trust), and Prof. Colin Torney (University of Glasgow) *Towards increased confidence and public engagement in targeted AI-based frameworks for biodiversity monitoring*. <!-- <br> Deadline: **noon, 26 June**. Unfortunately open to home applicants only. <br> Non-academic partners: CreditNature, National Trust. Applications will open in a few months. <br> -->
 <!--[More information](https://www.findaphd.com/phds/project/towards-increased-confidence-and-public-engagement-in-targeted-ai-based-frameworks-for-biodiversity-monitoring/?p193335)-->
 
 <!--- A PhD project on **Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints** within the ExaGEO CDT with statistician Prof. Rachel McCrea (Lancaster University), applied mathematician working on computational movement ecology Prof. Colin Torney, wildlife ecologist Dr. Thomas Morrison, and geoscientist Dr. Paul Eizenhöfer. <br>
