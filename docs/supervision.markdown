@@ -23,7 +23,7 @@ Please feel free to email me about the opportunities below. In your email includ
 
 - PhD projects on *mathematics of deep learning*.
   
-- PhD project within [NetGAIN](https://netgain.wp.st-andrews.ac.uk) with Prof. Phil Stephens (Durham University), Dr. Thomas Hodgson (CreditNature), Joel Sellors-Moore (National Trust), and Prof. Colin Torney (University of Glasgow) *Towards increased confidence and public engagement in targeted AI-based frameworks for biodiversity monitoring*. <!-- <br> Deadline: **noon, 26 June**. Unfortunately open to home applicants only. <br>-->
+<!--- PhD project within [NetGAIN](https://netgain.wp.st-andrews.ac.uk) with Prof. Phil Stephens (Durham University), Dr. Thomas Hodgson (CreditNature), Joel Sellors-Moore (National Trust), and Prof. Colin Torney (University of Glasgow) *Towards increased confidence and public engagement in targeted AI-based frameworks for biodiversity monitoring*. <!-- <br> Deadline: **noon, 26 June**. Unfortunately open to home applicants only. <br>-->
 Non-academic partners: CreditNature, National Trust. Applications will open in a few months. <br>
 <!--[More information](https://www.findaphd.com/phds/project/towards-increased-confidence-and-public-engagement-in-targeted-ai-based-frameworks-for-biodiversity-monitoring/?p193335)-->
 
@@ -34,11 +34,11 @@ More information on the project and programme: [https://www.exageo.org/phd-stude
 - The University of Glasgow offers *James McCune Smith scholarships* for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
   
 - PhD project within the IAPETUS DTP with Dr. Ellen Bowler (British Antarctic Survey), Prof. Phil Stephens (Durham University), Dr. Linus Ericsson (University of Glasgow), and Dr. Peter Fretwell (British Antarctic Survey) on *From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty*. 
- Applications will open in a few months.
- <!--Unfortunately the deadline to apply has passed. <br> <!--: Send me a CV and motivation by **8 December 2025**. Early applications are strongly encouraged.
-  For home students: please apply directly via the https://iapetus.ac.uk/ portal by **5 January 2026**. <br>
-  Feel free to contact me if you have any questions.-->
-  <!--There is an Q&A application event by Iapetus on 26 November at 2pm, for which you can sign up [here](https://forms.office.com/pages/responsepage.aspx?id=i9hQcmhLKUW-RNWaLYpvlPNPXxVQauVPuTCgU4LGvPJUMElXTVRVM1BFOFI3WVgxTk02R0ZRSVNDWi4u&route=shorturl)-->
+ <!--Unfortunately the deadline to apply has passed. <br> <!--: 
+ Send me a CV and motivation by **7 December**. Early applications are strongly encouraged.
+  For home students: please apply directly via the https://iapetus.ac.uk/ portal by **noon on 5 January 2027**. <br>
+  Feel free to contact me if you have any questions.
+There is an Q&A application event by Iapetus on 18 November at 2pm, for which you can sign up [here](https://forms.cloud.microsoft/pages/responsepage.aspx?id=i9hQcmhLKUW-RNWaLYpvlPNPXxVQauVPuTCgU4LGvPJUMElXTVRVM1BFOFI3WVgxTk02R0ZRSVNDWi4u&route=shorturl)
 
 <div style="display: flex; align-items: center;">
   <img src="/docs/hedgehog.png" width="400" style="margin-right: 15px;"/>
@@ -54,13 +54,14 @@ More information on the project and programme: [https://www.exageo.org/phd-stude
 
 <br>
 
-<!--- I am a PhD supervisor within the **DiveIn CDT**. This CDT prioritises diversity and aims to produce transformative interdisciplinary research in various areas, including Net Zero and AI. Application deadline: 31 January 2026. <!-- <br> It offers fully funded four-year interdisciplinary PhDs starting in September 2026.  <br> -->
-<!--More information: [DiveIn CDT](https://www.divein.org.uk) and [my supervisor profile](https://www.divein.org.uk/supervisor/tiffanyvlaar/) <br>
+- I am a PhD supervisor within the **DiveIn CDT**. This CDT prioritises diversity and aims to produce transformative interdisciplinary research in various areas, including Net Zero and AI. <!--Application deadline: 31 January 2026. --> <br> 
+It offers fully funded four-year interdisciplinary PhDs starting in September 2027.  <br>
+More information: [DiveIn CDT](https://www.divein.org.uk). <!-- and [my supervisor profile](https://www.divein.org.uk/supervisor/tiffanyvlaar/)--> <br>
 If you have been accepted onto the CDT, please do not hesitate to reach out to me if you are interested in my work.
 
-- I am a co-supervisor on an IAPETUS PhD project led by Dr. Laurence de Clippele (University of Glasgow) on **Sounding out the deep: using AI and passive acoustic monitoring to reveal spatial and temporal patterns in deep-sea ecosystems**. Unfortunately the deadline to apply for this has passed. [Full description](https://iapetus.ac.uk/studentships/sounding-out-the-deep-using-ai-and-passive-acoustic-monitoring-to-reveal-spatial-and-temporal-patterns-in-deep-sea-ecosystems/)
+- I am a co-supervisor on an IAPETUS PhD project led by Dr. Laurence de Clippele (University of Glasgow) on **Sounding out the deep: using AI and passive acoustic monitoring to reveal spatial and temporal patterns in deep-sea ecosystems**. Same deadlines as the other IAPETUS project. [Full description](https://iapetus.ac.uk/studentships/sounding-out-the-deep-using-ai-and-passive-acoustic-monitoring-to-reveal-spatial-and-temporal-patterns-in-deep-sea-ecosystems-2/))
 
-- I am a co-supervisor on an ExaGEO PhD project led by Prof. Jethro Browell (University of Glasgow) on **High-resolution nowcasting of wind speed and power generation**. Unfortunately the deadline to apply for this has passed. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)-->
+<!--- I am a co-supervisor on an ExaGEO PhD project led by Prof. Jethro Browell (University of Glasgow) on **High-resolution nowcasting of wind speed and power generation**. Unfortunately the deadline to apply for this has passed. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)-->-->
 
 
 **PhD Student Supervision** 
