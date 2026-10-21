@@ -57,7 +57,7 @@ It offers fully funded four-year interdisciplinary PhDs starting in September 20
 More information: [DiveIn CDT](https://www.divein.org.uk). <!-- and [my supervisor profile](https://www.divein.org.uk/supervisor/tiffanyvlaar/)--> <br>
 If you have been accepted onto the CDT, please do not hesitate to reach out to me if you are interested in my work.
 
-- I am a co-supervisor on an IAPETUS PhD project led by Dr. Laurence de Clippele (University of Glasgow) on **Sounding out the deep: using AI and passive acoustic monitoring to reveal spatial and temporal patterns in deep-sea ecosystems**. Same deadlines as the other IAPETUS project. [Full description](https://iapetus.ac.uk/studentships/sounding-out-the-deep-using-ai-and-passive-acoustic-monitoring-to-reveal-spatial-and-temporal-patterns-in-deep-sea-ecosystems-2/))
+- I am a co-supervisor on an IAPETUS PhD project led by Dr. Laurence de Clippele (University of Glasgow) on **Sounding out the deep: using AI and passive acoustic monitoring to reveal spatial and temporal patterns in deep-sea ecosystems**. The same deadlines apply as for the other IAPETUS project. [Full description](https://iapetus.ac.uk/studentships/sounding-out-the-deep-using-ai-and-passive-acoustic-monitoring-to-reveal-spatial-and-temporal-patterns-in-deep-sea-ecosystems-2/)
 
 <!--- I am a co-supervisor on an ExaGEO PhD project led by Prof. Jethro Browell (University of Glasgow) on **High-resolution nowcasting of wind speed and power generation**. Unfortunately the deadline to apply for this has passed. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)-->
 
