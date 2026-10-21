@@ -24,11 +24,15 @@ permalink: /CV/
 
 
 ***Leadership:***
+- Leadership Consortium, Green AI sandpit: Mathematical Sciences for Sustainable AI funded by the Knowledge Exchange Hub for Mathematical
+Sciences, 2026.
 - [International Congress of Mathematicians (ICM)](https://icm2030.kenes.com/) Glasgow 2030 co-organizer.
   <img src="/pics/ICM2030LOGO.pdf" width="300"/>
 -  LMS Computer Science Committee.
+-  Co-lead, First UK-Vietnam Research Meeting on Mathematics for the Environment, 2026.
 -  Founding Steering Committee, Climate, Environment and Sustainability Special Interest Group, IMA. We hosted our [first event](https://ima.org.uk/27086/) on 23 September 2025 in de Morgan house. [Recordings](https://www.youtube.com/playlist?list=PLX2zO2SdlWteFzCBnbEe0rntdUBIuSXd7); [report](https://ima.org.uk/27735/a-report-of-imas-first-meeting-on-mathematics-for-climate-environment-and-sustainability/); [post by the Parliamentary and Scientific Committee](https://www.scienceinparliament.org.uk/mathematics-and-sustainability-reflections-on-the-first-ima-climate-focused-meeting/)
 -  [Martingale](https://martingale.foundation) Academic Advisory Committee.
+-  Sustainability Group Lead, School of Mathematics & Statistics, University of Glasgow, 26-27.
 -  Co-lead, Widening Participation Summer School Mathematics A and B, University of Glasgow, 25-27.
 -  Management committee, DiveIn CDT.
 -  Management committee, [Leverhulme Programme for Doctoral Training in Ecological Data Science](https://ecological-data-science.github.io/index.html).
@@ -44,6 +48,7 @@ permalink: /CV/
 - Vice President SIAM and IMA Student Chapter University of Edinburgh, 2018-2020.
 
 ***Teaching:***
+- Awarded Nimmo Price for Teaching Excellence, School of Mathematics & Statistics, University of Glasgow.
 - Large-Scale Computing for Data Analytics (STATS5083), University of Glasgow.
 - Mathematics 1G: Introduction to Algebra, Geometry & Networks (MATHS1016), University of Glasgow.
 - Tutor, University of Edinburgh, courses: Machine Learning in Python, Computing and Numerics (Python), Probability with Applications, Several Variable Calculus and Differential Equations, Engineering Mathematics, Probability, 2018-2022.
