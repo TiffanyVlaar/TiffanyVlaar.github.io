@@ -26,10 +26,14 @@ Please feel free to email me about the opportunities below. In your email includ
 <!--- PhD project within [NetGAIN](https://netgain.wp.st-andrews.ac.uk) with Prof. Phil Stephens (Durham University), Dr. Thomas Hodgson (CreditNature), Joel Sellors-Moore (National Trust), and Prof. Colin Torney (University of Glasgow) *Towards increased confidence and public engagement in targeted AI-based frameworks for biodiversity monitoring*. <!-- <br> Deadline: **noon, 26 June**. Unfortunately open to home applicants only. <br> Non-academic partners: CreditNature, National Trust. Applications will open in a few months. <br> -->
 <!--[More information](https://www.findaphd.com/phds/project/towards-increased-confidence-and-public-engagement-in-targeted-ai-based-frameworks-for-biodiversity-monitoring/?p193335)-->
 
-<!--- A PhD project on **Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints** within the ExaGEO CDT with statistician Prof. Rachel McCrea (Lancaster University), applied mathematician working on computational movement ecology Prof. Colin Torney, wildlife ecologist Dr. Thomas Morrison, and geoscientist Dr. Paul Eizenhöfer. <br>
-Unfortunately the deadline to apply has passed.  <br>
+- A PhD project on **Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints** within the ExaGEO CDT with Prof. Rachel McCrea (Lancaster University), Prof. Colin Torney, and Dr. Paul Eizenhöfer (University of Glasgow). In collaboration with: Dr Dinesh Bhatia and Dr Henrik Hesse from Project Firefly (RMIT Vietnam, Chiang Mai University and the
+University of Glasgow Singapore). <br>
+- <!--statistician Prof. Rachel McCrea (Lancaster University), applied mathematician working on computational movement ecology Prof. Colin Torney, and geoscientist Dr. Paul Eizenhöfer. <br>
+Unfortunately the deadline to apply has passed. --> 
+Deadline to apply: 31 January 2027. 
 More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
--->
+
+  
 - The University of Glasgow offers *James McCune Smith scholarships* for black UK domiciled students. More information: [https://www.gla.ac.uk/scholarships/mccune-smith/](https://www.gla.ac.uk/scholarships/mccune-smith/)
   
 - PhD project within the IAPETUS DTP with Dr. Ellen Bowler (British Antarctic Survey), Prof. Phil Stephens (Durham University), Dr. Linus Ericsson (University of Glasgow), and Dr. Peter Fretwell (British Antarctic Survey) on *From Wandering Albatrosses to Hedgehogs: Using AI and Citizen Science to Improve Biodiversity Monitoring under Ground Truth Uncertainty*. [More info](https://iapetus.ac.uk/studentships/biodiversity-monitoring-using-deep-learning-under-ground-truth-uncertainty-supporting-conservation-of-wandering-albatrosses-and-hedgehogs/) <br>
