@@ -65,7 +65,7 @@ If you have been accepted onto the CDT, please do not hesitate to reach out to m
 
 - I am a co-supervisor on an IAPETUS PhD project led by Prof. Evangelos Spyrakos (University of Stirling) on **How many drills and mandrills remain on Earth? Using camera traps to count Africa’s most colourful primates**. The same deadlines apply as for the other IAPETUS project. [Full description](https://iapetus.ac.uk/studentships/how-many-drills-and-mandrills-remain-on-earth-using-camera-traps-to-count-africas-most-colourful-primates/)
 
--  am a co-supervisor on an IAPETUS PhD project led by Prof. Jo Setchell (Durham University) on **Where does the carbon go? Tracking river to sea carbon with satellites and AI**. The same deadlines apply as for the other IAPETUS project. [Full description](https://iapetus.ac.uk/studentships/where-does-the-carbon-go-tracking-river-to-sea-carbon-with-satellites-and-ai/)
+- I am a co-supervisor on an IAPETUS PhD project led by Prof. Jo Setchell (Durham University) on **Where does the carbon go? Tracking river to sea carbon with satellites and AI**. The same deadlines apply as for the other IAPETUS project. [Full description](https://iapetus.ac.uk/studentships/where-does-the-carbon-go-tracking-river-to-sea-carbon-with-satellites-and-ai/)
 
 <!--- I am a co-supervisor on an ExaGEO PhD project led by Prof. Jethro Browell (University of Glasgow) on **High-resolution nowcasting of wind speed and power generation**. Unfortunately the deadline to apply for this has passed. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)-->
 
