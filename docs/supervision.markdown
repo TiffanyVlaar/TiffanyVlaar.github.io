@@ -68,6 +68,8 @@ If you have been accepted onto the CDT, please do not hesitate to reach out to m
 - I am a co-supervisor on an IAPETUS PhD project led by Prof. Evangelos Spyrakos (University of Stirling) on **Where does the carbon go? Tracking river to sea carbon with satellites and AI**. The same deadlines apply as for the other IAPETUS project. [Full description](https://iapetus.ac.uk/studentships/where-does-the-carbon-go-tracking-river-to-sea-carbon-with-satellites-and-ai/)
 
 - I am a co-supervisor on an ExaGEO PhD project led by Dr. Sally Keith (Lancaster University) on **From sound to species: scalable acoustic monitoring of UK coastal fish**. Deadline to apply: 31 January 2027. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
+
+- I am a co-supervisor on an ExaGEO PhD Project led by Prof. Larissa Naylor (University of Glasgow) on **Computationally Scalable Earth Observation and Data Fusion for Dynamic Environmental Suitability Assessment in Nature-based Tourism**. Deadline to apply: 31 January 2027. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
   
 <!--- I am a co-supervisor on an ExaGEO PhD project led by Prof. Jethro Browell (University of Glasgow) on **High-resolution nowcasting of wind speed and power generation**. Unfortunately the deadline to apply for this has passed. More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)-->
 
