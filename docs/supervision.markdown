@@ -29,7 +29,7 @@ Please feel free to email me about the opportunities below. In your email includ
 - A PhD project on **Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints** within the ExaGEO CDT with Prof. Rachel McCrea (Lancaster University), Prof. Colin Torney, and Dr. Paul Eizenhöfer (University of Glasgow). In collaboration with: Dr Dinesh Bhatia and Dr Henrik Hesse from Project Firefly (RMIT Vietnam, Chiang Mai University and the
 University of Glasgow Singapore). <br>
 Deadline to apply: 31 January 2027. <br>
-More information on the project and programme: [https://www.exageo.org/phd-student-projects/](https://www.exageo.org/phd-student-projects/)
+More information on the project and programme: [https://www.exageo.org/phd-student-projects/#project-1973](https://www.exageo.org/phd-student-projects/#project-1973)
 <!--statistician Prof. Rachel McCrea (Lancaster University), applied mathematician working on computational movement ecology Prof. Colin Torney, and geoscientist Dr. Paul Eizenhöfer. <br>
 Unfortunately the deadline to apply has passed. --> 
 
