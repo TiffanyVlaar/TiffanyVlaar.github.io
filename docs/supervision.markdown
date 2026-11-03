@@ -56,7 +56,7 @@ There is an Q&A application event by Iapetus on 18 November at 2pm, for which yo
 
 <br>
 
-- I am a PhD supervisor within the **DiveIn CDT**. This CDT prioritises diversity and aims to produce transformative interdisciplinary research in various areas, including Net Zero and AI. <!--Application deadline: 31 January 2026. --> <br> 
+- I am a PhD supervisor within the **DiveIn CDT**. This CDT prioritises diversity and aims to produce transformative interdisciplinary research in various areas, including Net Zero and AI. Application deadline: 31 January 2027. --> <br> 
 It offers fully funded four-year interdisciplinary PhDs starting in September 2027.  <br>
 More information: [DiveIn CDT](https://www.divein.org.uk). <!-- and [my supervisor profile](https://www.divein.org.uk/supervisor/tiffanyvlaar/)--> <br>
 If you have been accepted onto the CDT, please do not hesitate to reach out to me if you are interested in my work.
